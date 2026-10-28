@@ -24,8 +24,11 @@ jobs:
 
       - name: Run market collector
         run: |
-          python qilego_cloud/qilego_cloud/scripts/collect_signals.py
+          python qilego_cloud/qilego_cloud/scripts/collect.py
 
+      - name: Run Google Trends collector
+        run: |
+          python qilego_cloud/qilego_cloud/scripts/collect_signals.py
       - name: Save collected data
         run: |
           git config user.name "github-actions[bot]"
