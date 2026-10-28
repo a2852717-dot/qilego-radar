@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T01:25:22.362771+00:00",
+  "updated_at": "2026-10-28T05:23:53.597480+00:00",
   "data_type": "public_news_mentions_not_marketplace_sales",
   "coverage": "Google News public RSS; mentions are NOT platform internal data",
   "articles": [
@@ -30,11 +30,11 @@
       "verified_sales": false
     },
     {
-      "id": "a066ad223a5d102a",
-      "title": "蝦皮購物「11.11最強購物節」開跑！攜長榮航空豪送總價破200萬元機票 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FblljUjBxRkJoZV93NkJBZ0F4bjdaams1anFVQWt5T3R5VnBJMlJqcFZkSkRNNGJ5VHZBRWptSmJ3ZWZ1a1RHcEhMUzN0R3JlRVB6ZWln0gFWQVVfeXFMTUVuWWNSMHFGQmhlX3c2QkFnQXhuN1pqazVqcVVBa3lPdHlWcEkyUmpwVmRKRE00YnlUdkFFam1KYndlZnVrVEdwSExTM3RHcmVFUHplaWc?oc=5",
-      "published": "Tue, 27 Oct 2026 06:57:20 GMT",
-      "publisher": "UDN",
+      "id": "8e447e934edfecf3",
+      "title": "雙11未開打待買清單先塞滿 Yahoo 購物統計「購物車」商品量翻倍 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFhWdVUzRVktbTIyWHRKclJNS3czNWRZUW56RjlZTHlqSDVzWWtfbjhPTnBDRnlFQ2pjQ3N6ejRQM0dLLTJZYV9XT2ZVOXBSQzh2c1phQ1hQeWY2dW9IN05mNXI5UDdZQjVPY3F0Y09VRGI4TERJTE5UV3ZiOTAwSdIBX0FVX3lxTE5ZTmRNdFd5anRuamFZdmpoUFotQVBDQnpmUDctUHIyWDF0aHBMM2cxMGFTWTFzWElZZ19sRWtZVEE3VEN4akNqaXQyZDNfUlFOSm1kVk5QeHh6VENPWVV3?oc=5",
+      "published": "Tue, 27 Oct 2026 06:35:33 GMT",
+      "publisher": "經濟日報",
       "search_keyword": "蝦皮 熱銷 商品",
       "platform_mentions": [
         "蝦皮"
@@ -56,11 +56,11 @@
       "verified_sales": false
     },
     {
-      "id": "ba43424e27034793",
-      "title": "雙11熱戰！蝦皮攜長榮航空送總價破2百萬元機票　這群人不用消費就能抽 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TSEpidVktakVfa01IOWxLcndxZ1FEaXphT3BpTVRnSVBkOERnd3MwRWt2R1A4TWhNVmFtRFlHc3BUWXhqZUQzbtIBTEFVX3lxTFBWYWROMHpRUmNhRkd0aG1ZUDEzN3FDTXlMZEFfNng2alRENXZxUmFjZzgxODgyd2FRTVYwNTlxaE9LVlRxRF9uSml4Q28?oc=5",
-      "published": "Tue, 27 Oct 2026 03:46:00 GMT",
-      "publisher": "三立新聞",
+      "id": "72a131ce416f8048",
+      "title": "蝦皮雙十購物6大優惠狂撒抽iPhone Duo、品牌下殺10元起- 生活 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aa3IyMEhHR09Od29paFFYcmN0a3ppd0l4V2xiUXlHd3AwLTN4T0JQbDFNbG5MVzZhcTRfNWdtXzFDUHprZ0xWeXYzOG9ib2dJLXZMRGRVOURRM3A2NEFF?oc=5",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "publisher": "工商時報",
       "search_keyword": "蝦皮 熱銷 商品",
       "platform_mentions": [
         "蝦皮"
@@ -69,11 +69,11 @@
       "verified_sales": false
     },
     {
-      "id": "72a131ce416f8048",
-      "title": "蝦皮雙十購物6大優惠狂撒抽iPhone Duo、品牌下殺10元起- 生活 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aa3IyMEhHR09Od29paFFYcmN0a3ppd0l4V2xiUXlHd3AwLTN4T0JQbDFNbG5MVzZhcTRfNWdtXzFDUHprZ0xWeXYzOG9ib2dJLXZMRGRVOURRM3A2NEFF?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "publisher": "工商時報",
+      "id": "4a8dfdebbddb4c9d",
+      "title": "雙11熱戰！蝦皮攜長榮航空送總價破2百萬元機票　這群人不用消費就能抽 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWYWROMHpRUmNhRkd0aG1ZUDEzN3FDTXlMZEFfNng2alRENXZxUmFjZzgxODgyd2FRTVYwNTlxaE9LVlRxRF9uSml4Q2_SAUxBVV95cUxQVmFkTjB6UVJjYUZHdGhtWVAxMzdxQ015TGRBXzZ4NmpURDV2cVJhY2c4MTg4MndhUU1WMDU5cWhPS1ZUcURfbkppeENv?oc=5",
+      "published": "Tue, 27 Oct 2026 03:46:00 GMT",
+      "publisher": "三立新聞",
       "search_keyword": "蝦皮 熱銷 商品",
       "platform_mentions": [
         "蝦皮"
@@ -108,11 +108,11 @@
       "verified_sales": false
     },
     {
-      "id": "8e447e934edfecf3",
-      "title": "雙11未開打待買清單先塞滿 Yahoo 購物統計「購物車」商品量翻倍 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFhWdVUzRVktbTIyWHRKclJNS3czNWRZUW56RjlZTHlqSDVzWWtfbjhPTnBDRnlFQ2pjQ3N6ejRQM0dLLTJZYV9XT2ZVOXBSQzh2c1phQ1hQeWY2dW9IN05mNXI5UDdZQjVPY3F0Y09VRGI4TERJTE5UV3ZiOTAwSdIBX0FVX3lxTE5ZTmRNdFd5anRuamFZdmpoUFotQVBDQnpmUDctUHIyWDF0aHBMM2cxMGFTWTFzWElZZ19sRWtZVEE3VEN4akNqaXQyZDNfUlFOSm1kVk5QeHh6VENPWVV3?oc=5",
-      "published": "Tue, 27 Oct 2026 06:35:33 GMT",
-      "publisher": "經濟日報",
+      "id": "a066ad223a5d102a",
+      "title": "蝦皮購物「11.11最強購物節」開跑！攜長榮航空豪送總價破200萬元機票 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FblljUjBxRkJoZV93NkJBZ0F4bjdaams1anFVQWt5T3R5VnBJMlJqcFZkSkRNNGJ5VHZBRWptSmJ3ZWZ1a1RHcEhMUzN0R3JlRVB6ZWln0gFWQVVfeXFMTUVuWWNSMHFGQmhlX3c2QkFnQXhuN1pqazVqcVVBa3lPdHlWcEkyUmpwVmRKRE00YnlUdkFFam1KYndlZnVrVEdwSExTM3RHcmVFUHplaWc?oc=5",
+      "published": "Tue, 27 Oct 2026 06:57:20 GMT",
+      "publisher": "UDN",
       "search_keyword": "蝦皮 熱銷 商品",
       "platform_mentions": [
         "蝦皮"
@@ -160,11 +160,11 @@
       "verified_sales": false
     },
     {
-      "id": "2a7b14a4ed4e378d",
-      "title": "大漲110%，抖音連夜起飛 - 鉅亨號",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUUZ5TDh1Nm42dlQwZXhMRlROek1mYjM0dW9wM25hYVdFOXRkd0U2TG8xVUZsNUluUEJGUkFwSTlMYTE5ODI0RA?oc=5",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "publisher": "鉅亨號",
+      "id": "c39a3c0bb48d2e2b",
+      "title": "字节又出億級爆款，騰訊坐不住了（美中报导） - 美中報導",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaU90ZURUaTlXNEZMa2xUMnZaQmFRY0Z2NWwtb0VPZzlUU1p1cWRmdFNvZUw1dE03TU52VHB4SDNUQjAtdkpVM1VXbHZDZTBHbVdPSThtenY4R09MR1BrMm5uaExsQ0E1dGJRN0Y1TVhXZjB5a2IzcXdpaFhMdVBTT0FFdkxKQnFXSWNVMldB?oc=5",
+      "published": "Thu, 15 Oct 2026 16:48:12 GMT",
+      "publisher": "美中報導",
       "search_keyword": "抖音 爆款 商品",
       "platform_mentions": [
         "抖音"
@@ -173,11 +173,11 @@
       "verified_sales": false
     },
     {
-      "id": "2412ec2c7f621700",
-      "title": "AI短劇「不燒心文學」爆紅 不怕虧錢只怕壞規矩 瀏覽破13.7億次 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOSzRLMy1UcDlhVU9Pd3hKSDBzSFBVNFhRdXd6b182NXVLTnM1Q1pkcXllSkE1ZzF4VEx6aGdJWk1TcFFvbzJwLTk5MVUxNjM1VFlrZXBWbWRheXU0YkxrWXQwY1FMM1N0Z0ZNUmREMHNqNlRGOENmaHVJb0pLWUxzUWtRSHBoR1UxWDcweWNvVmpkMjQ5WmxyOXRUMnNwQmxrMFFvelQwdml4VzVHM1kzdThlVFdjYnp5bmdac2RFM08wTjhMOFBoLWdHdHctVzMwTVVhaTNnU0F0Z281LWM2dllSanZ5Mk1RVXlGMXN2TURGS0szLW1QamxtQW5ncTZOM2V3SGZSVlZveTlaMVY0Q2FjNFp4OG1NeE9WaVJxYTlwMlMwaUs3MW1BVHpRMmRVQ0N1dE9Ca2NpdHRfT2VJanF1OGRZZDFmZjBzTnFURm9pUTMyU0NDVDlHeWUtdnNSZzZLUTRnbUI4Z1RLYjBZMkR5SjY0OERwTXZ3SDc5TXVWU1RaRGxPTmFhUVJMVFFNRWRpVU03dw?oc=5",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "publisher": "香港01",
+      "id": "a256350664939703",
+      "title": "TikTok美妝徹底火了，半年爆賣140億 - 鉅亨號",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rNDktajZSM3pMbUZKM2JmWjRmU05HV1ZDR05LLUJHWGZfRkt4OHoycXhSb3U4Yk04UGtTOWJZODVBckZDbGd5cw?oc=5",
+      "published": "Sun, 25 Oct 2026 06:46:06 GMT",
+      "publisher": "鉅亨號",
       "search_keyword": "抖音 爆款 商品",
       "platform_mentions": [
         "抖音"
@@ -199,24 +199,24 @@
       "verified_sales": false
     },
     {
-      "id": "44c618d5558d7787",
-      "title": "2026 Olive Young 必買攻略！35款面膜、保養美妝熱賣排行，最新優惠與退稅教學 - BEAUTY美人圈",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndDY1cVZWWllZZDVDQi1ya0szeVU0OWhyYV9mSUdzcVdodk11NkhlTmJYWGZVM1lyaU9tV2c2S3dIbThuY1drUWs3WGjSAVJBVV95cUxOZjBJTE1tWEFDN2NaNGpwWVFfRWZfTWVRNW02Xy0xSVVKZXF5WWljWjcyZ0dTbkVic0FVbFUxX0MteEljd1E4aFltYlc0UGRCcGh3?oc=5",
-      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "publisher": "BEAUTY美人圈",
-      "search_keyword": "小紅書 爆款 好物",
+      "id": "2a7b14a4ed4e378d",
+      "title": "大漲110%，抖音連夜起飛 - 鉅亨號",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUUZ5TDh1Nm42dlQwZXhMRlROek1mYjM0dW9wM25hYVdFOXRkd0U2TG8xVUZsNUluUEJGUkFwSTlMYTE5ODI0RA?oc=5",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+      "publisher": "鉅亨號",
+      "search_keyword": "抖音 爆款 商品",
       "platform_mentions": [
-        "小紅書"
+        "抖音"
       ],
       "source_type": "public_news_rss",
       "verified_sales": false
     },
     {
-      "id": "373213c0ec62186a",
-      "title": "韓國DAISO10大護膚好物熱賣排行榜！$29起入手高CP值爽膚水/面膜/面霜 - U Travel",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOVEp2M1kyYldvT1VuN0M5aG9MeTlEdmtQSmYxX1E1Q0ZQYjZheGNnT09qN1I3MUJJdkFOOGVzUjBabXMxa3ozWVFabFFLclBzTHJkVDg3d0pDYWVjSE91NFJLdUtBRXNyYWxoT0pfblh6U2dYZHYwbTE2MDRFUVlYVnBpZDZFUmJ3MXNtMGF1ckdEeVg1bmRnRnBScWJvaHk4RW9YUnhoTWNfMzJFc0FLNHZUaFpjbUo4V1NRbVhfZGEzbVJJa0NDNHlSbjF4ZVB1cFVaUlh0N1F2eEFmMXVaQmlEV1FWRkJ5S3dydVhPNUF4dXBBMjk5OFIwd0FaQUVXUmxjeDYwbk1HckoyOEhZYnBXb0h5UzUxQUJPX3BIWVZ6UWZsZ05KcWZPdl84MzMwR1hMNnlTTkpYYmlkOXpQMlFmYXdpNloybHRId09FS1B1VzR5cndOcjZOcG1UVExXNmxmcGZBdUVDX2E5Z0V2OGRwcEx4SkY3eHc2MXFYNVhIelZCYlE?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "publisher": "U Travel",
+      "id": "061338903f6a2518",
+      "title": "擠爆了！\"排隊王\"上海首店開業！爆款單品不到10元，有人一早趕來\"已經100人了\" - 鉅亨號",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zY3BrZ1VRRGhFV1NpUU1rOE1ab0xtVVRtSzNlQTBsT083Tk14TW51b2Z4NGNEX3docTlIOWpEY2IzUkJfQ0FjNg?oc=5",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "publisher": "鉅亨號",
       "search_keyword": "小紅書 爆款 好物",
       "platform_mentions": [
         "小紅書"
@@ -238,11 +238,11 @@
       "verified_sales": false
     },
     {
-      "id": "7025734a86e0c500",
-      "title": "香港超市必買清單逾60零食推介！惠康、百佳、馬莎、樓上、Donki附優惠攻略 - U Food",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOcGhWQXNOaUlGRXc1cnRYcHMtdkJDNlZ0TEtpcjEwNnR3SjI3UUlJQlF2QVN5Tlc1OGVOWGdnUHVwUkhnMjRUZ0xrSEc4NTBwWHJLS3poZFVDbVVEelQ4dU9FLVBuOUJYcVppQWxSVTNlam1GOS1Penp2WDgwdlp4MWRDWG9XMUxfd0UwNWdXa1F5cUF0aFZrNTFlc1VwUGFaWHcyZHBib01mTWZUMXdobFc0X3JGczJOd3FITnlwTnJVYWNpUWxBbUR4NnNaSzByVGZJV3dlRHFUanFkSU1yUmtLeXdwdXo5RnI4bjRZaFRFbklLVFgwblZVaExCZHZtT3BZeVNwODZxY196U1h4dUNWOUJyQ3FuS0N5Yk9vMnBlS1dqbEhxc0RZTzZXU3VjMGpyTFhZSTZVYlRhMWRzeTRNTkdaZlRwMGdrN1FweGMwR3ZZQUVJYmEwSWk5dzZIN2VfTUV0a3VYMk5NdmYybDJzUXRNeWo2Z0ZNamhZem8yNUxXM2VsUk0wMmJaeEE?oc=5",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "publisher": "U Food",
+      "id": "cff1ca799b10e406",
+      "title": "日本MUJI「小廢盒」被笑裝空氣？拆解5大隱藏用法：根本係旅行收納神器！ - U Travel",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUUxlZjA5Z3pIMDZPS01zMDZhNl9YMHcteVhjSXQ2UDVfRWR6TV9haW1hMWFpeDFOeXg5c0xUR1ZaZnZmcUVBYTM0VHFDbkt1eUFoa3BoZV9aNEsxQ0dhOXZWZWVWSXhlNDVtaWgtRWF6UUdmOTMzenh6RXVJNGczeW05dUdLVGRnaWFTRWJKc1BtQ0d5QmJTcjVWMHBjemZ0UVBQb0UzTDBhUmkwd0E2Rk9aQnRZS2hZUERVVXItU0tYSUJzTU9XdHEtWUZwQlhOY00weUQ0WklKRnVWanZJcUxvRm9fZHhrS2JKdExVcDRad3Q3Vnp6OHpKajYyRnkzWkg0QkRTTDRRRUZTMF96azhmcTBCVmlNUElveGxwRG5IaER2TXZITm01eVR2Y1JnaFptUi1KcjFGWUQ0OEgtQ280dWlDRFU0cDVmd1hoQ2NiWEtXWE1nTmItMTRveTlBUklDc3dLVUxEVzhhcEwtbjdUMWl6OUtmaklaM2tJMXM3ZnlwV3ZDSGl2aXlNZFlGUEFhOGJEbHk1VzQ?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "publisher": "U Travel",
       "search_keyword": "小紅書 爆款 好物",
       "platform_mentions": [
         "小紅書"
@@ -251,10 +251,36 @@
       "verified_sales": false
     },
     {
-      "id": "cff1ca799b10e406",
-      "title": "日本MUJI「小廢盒」被笑裝空氣？拆解5大隱藏用法：根本係旅行收納神器！ - U Travel",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUUxlZjA5Z3pIMDZPS01zMDZhNl9YMHcteVhjSXQ2UDVfRWR6TV9haW1hMWFpeDFOeXg5c0xUR1ZaZnZmcUVBYTM0VHFDbkt1eUFoa3BoZV9aNEsxQ0dhOXZWZWVWSXhlNDVtaWgtRWF6UUdmOTMzenh6RXVJNGczeW05dUdLVGRnaWFTRWJKc1BtQ0d5QmJTcjVWMHBjemZ0UVBQb0UzTDBhUmkwd0E2Rk9aQnRZS2hZUERVVXItU0tYSUJzTU9XdHEtWUZwQlhOY00weUQ0WklKRnVWanZJcUxvRm9fZHhrS2JKdExVcDRad3Q3Vnp6OHpKajYyRnkzWkg0QkRTTDRRRUZTMF96azhmcTBCVmlNUElveGxwRG5IaER2TXZITm01eVR2Y1JnaFptUi1KcjFGWUQ0OEgtQ280dWlDRFU0cDVmd1hoQ2NiWEtXWE1nTmItMTRveTlBUklDc3dLVUxEVzhhcEwtbjdUMWl6OUtmaklaM2tJMXM3ZnlwV3ZDSGl2aXlNZFlGUEFhOGJEbHk1VzQ?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "id": "b8aba93ca47cb99a",
+      "title": "DONKI $29.9沖涼黑科技爆紅！無痛搓出千年老泥 網民大讚：皮膚滑到似重新投胎 - UHK 港生活",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPM1prV2tNT3NoeUVQMm80a0FLcWxzVC1zeV9jUFhrbk1waVpwOC01SDlzMWQ0by03ZnFLQktpOWVQT1ZpalR3dzd0TzBRYnhaVlhqX0JkdTdpNTZnc1RjZDhqSUZzNWQxYnVZdFpuRU5RMVpjZVR5cUtoN21OZlhIemR6elgyZ1kwSW4xWlhpaXhOZGFET3JfVDhaeXRxTlFVRDVRYzByUmhLa0FfaUJFVXBpMEZjQ2N5TmdRRmZOeUd4N2JkbWJudktHbEdNR2hmcThNcDRlTmdhT0YxLUUzbDJJN0ItQjdHaW1mTnI2U25GTlR0SE5VMXp5OENmdDN4aE81Ujh2cW9PNm9odTNUMDJtREkyUFB4b2pycjlFaU9LSVg5cUNobzlvZ2tiVWZERHFHWU93ODl0NUFMNUtOOXVWT3dES0xsS251UWNYcWF2Vk5MWFN4TG1xZXNiZzdyWXlwMEFPQkxMT3RJcWEzNDdjbXhQa1ZabmEyY055QkpxRnJwMEpHdEVuSy1MeGlycHlOY1Jrb05lTXRCbWJHdjBTc0NBVlNWSkxhWjViQ2M3THZnZ005NXh2c0VFNFhYeUVZNFAzSjBOa18ybFVzdHpUTEZYcXZJX09VaDdn?oc=5",
+      "published": "Fri, 23 Oct 2026 10:04:25 GMT",
+      "publisher": "UHK 港生活",
+      "search_keyword": "小紅書 爆款 好物",
+      "platform_mentions": [
+        "小紅書"
+      ],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "bd3b80ef5f6230e6",
+      "title": "日本網民熱推！DAISO「清潔魔法粉」只需$5.5 瞬間去茶漬＋消除排水孔異味 附4大使用步驟 - U Travel",
+      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxObC1zLVRnWUF1OXdyN2EtSDhUM1NQQ2syTHJFNzFjOTRLcWRYajdEM0gwNlRKLXpPTXVsVl9lNmVaVDJhTWxwVDBjZXlFT0pDWktacjQza09YR2NCSTQ4SkZYbEJsZHRqQVRtcWs0ejlRQmNrSnBKUjdfc1ZIS3g4bnFpYWxra1FYTlBEMXZHMzRsMV9waHBJQ2p5NnJVQ0VtR3FIa2ExeGVBTWtpSldrOE1ETWx4NGZ4aHBXeVlqbTdCeWlXS2lJYTFNUERFbVh6bVBDWXlJSlRWazhBR2tyZ21vWDhmQ2dlRXRwQy1iMmx5bDdadWpWZmJoQkRyd21tbjRBeFMwQU1YVVRkTHZySzZ4T1dfbWlmWDJxZExPMW1aRkJDRDJLWXVoN2pXNzdKNUpod1R5a0hWOGxNWkJIRGNmUjIwekpHSGo4RV9mckU0QzVXQlZoU1VMY1hzclI0Qm1JTlhZb1ZfeHI4dVcwMEItQTJYLS1zQlhPU19GY082YXVzWnRYOXJOZUFsYUNyTmF1VTkxTVNlREItQWdoWEQ1aVRVaVViNkp0UmZqa0E3MENlR1ZITS0wNFk5V3JYckFFcGtyRE43aUh4N1lmajNRa2Jna3dzSGpJ?oc=5",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "publisher": "U Travel",
+      "search_keyword": "小紅書 爆款 好物",
+      "platform_mentions": [
+        "小紅書"
+      ],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "e6bc04d175b5c74b",
+      "title": "夏天外遊必備｜日本@cosme防曬最新榜單出爐 10款好用防曬推薦！網民激讚清爽不黏膩 - U Travel",
+      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOQjk4cFFxTEIwcENzZHV1WmtSTEF0cEVJYXR1OTZ0M0hKOVhqMDVvWHBocmZMU2JnWW5scWRUTENZbWRXRmhwMEU5Vi1NYWJ2M2dubkl1Z29UOTFfMjE1Q1ZzWXFNeE9pbUFCZ2N4MjRmNkhjM0lGNHMzLVE3OWplaFRJYWZyc1pJUk5EQ0NzbGNCdTVEUW05WkRPeDd3ZU1Bbzl3U2JCWG1aOUlmVUhUVHBMR1FYc1pmQ2xRbVRpV2d6TDlPb1R4emFFNkI4Tm1FZVprQVFTUFFPemJNT2VsVU1vTTBUQXlJMF8zelhJTy1fTWU2OXVMSHRYZ2UtZ1VzWUhnZVlOd2drbnNBemJ0Wjc5VWRVSzZ3MU5xN240Nkp1LVhwUnRPUUVodmd5NVB4WUJmMkQ4dTR0amxzMkJkZjh6dU5kZnVQNFBIcEg4b1dlbkRjczlENDVoc0VVWHFUeXAxNDdrenlFbGVOajB4MHhXZzZ5OC05VzhaRzBHVnpobU9SYzdkT0k3eHNFNTJyVmc1c0hPaE92ZE9naUhFT3dzdEZYYkJqR2czb3hUelJWWmM4UEF1N3d4YW5YZ0kyLVRBdXpPazlhUnl6bUhUUENSeXh5aTVJRnJuRkxXS2dyeTg?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
       "publisher": "U Travel",
       "search_keyword": "小紅書 爆款 好物",
       "platform_mentions": [
@@ -312,33 +338,11 @@
       "verified_sales": false
     },
     {
-      "id": "cae4d7073e427e6a",
-      "title": "網購氣泡紙別直接丟！日本廠商教學神用途　冬天保暖、避難都有用 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xWW0zMDJwM0FrT2tDWkIxTS1zcEVOaVNLLVNydnpHd2lLeHZYRERILUZCMDFuQmtOWm5yWGlTLU02bHNoN25oWk1tY0LSAVJBVV95cUxQOTBjU0Jrb1FLM3paT2tsTTZENmhGTl9UdDNpZEkxSUp5UkFGNXhtNkN3NjRPcktpMjFNNU9VMm05endTclhjTkdra3R1cGh3UnZB?oc=5",
-      "published": "Sun, 11 Oct 2026 07:00:00 GMT",
-      "publisher": "NOWnews今日新聞",
-      "search_keyword": "冬季 保暖 商品",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
       "id": "aef596be1a1665c8",
       "title": "網購泡泡紙別直接丟 日本廠商揭神級用途 冬天保暖、避難都有用 - 香港01",
       "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPaFdUMFBqZndJV09XWmVZVW1LazVSQVQzS0cyTzk3VG82R0hYSjNfbWtlOWxQcEFRSFlaOERadTgzODBqOU1IbElIakhoWGRpNk1Xc19YOEh2Qk55ZFAxRFlDTEh5UWZBRjR0ZkJNa1FnZ2tNTTBuYWRfUkhsQ01xZnF0Q0lheGJ2RUhjS01pREhoRF84ZVREZ3QtU1ctZWpDZHJZUVJ3emp4bC04Z2Q5Q1ZqYllrd3QtYm5wSDE5SFhmWTYxWmsyMTlwLXFwNERKS0pBTkI4SUxTdkJDM3ZCakRUbmo2XzZZMVF1QnhtWjk1ZkFmRXBTRWM3OVlQRHVrUHFLLUF4ZklSU0FPN3AtZGtOZWk4ZnZEMlE1aktRaW9hU2x0STZGZ3cyR3dYR0Q4WHk0eWRZaDJHWXF4LUt2NUItazRETWFZVUVpcDBMSWZWRkp1UERxX2loQ1hSVy12cHBSVWZmc21kOFZIaEFfRFplWWd6dk43U0V0bVB6LVkxZk03djNHRGE3VXBVQkFJWDZXYzF1dHhEMnNVektoZnAydkJnZw?oc=5",
       "published": "Sun, 25 Oct 2026 11:00:21 GMT",
       "publisher": "香港01",
-      "search_keyword": "冬季 保暖 商品",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "f651de4b2fa5b11c",
-      "title": "lululemon 2026 冬季外套「Featherweight」登場，Lewis Hamilton 演繹輕盈保暖| 美人計 - Niusnews妞新聞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjU1A4Y1o0emRjV0FObmFmODBGcTlkREFLS1VaQXc0QmRUWWN3SzVFZUtVOXgyUTJYVUs4Uy11SUFGNHd0REVKdFRYTQ?oc=5",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "publisher": "Niusnews妞新聞",
       "search_keyword": "冬季 保暖 商品",
       "platform_mentions": [],
       "source_type": "public_news_rss",
@@ -356,11 +360,11 @@
       "verified_sales": false
     },
     {
-      "id": "990de54a64983418",
-      "title": "日本控最愛買的羽絨外套首次登台！TAION快閃必買推薦，專業羽絨x高CP值、輕薄好搭 - 女人我最大",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xcmx6Vm41RkZSRTdiVG8xSl9xX3Y1YV9NbVZpSExkR2ctUFgtLVFRX2tqYmJhWW9QZWpuZU8wUHYyZUNUVU81OHR3TWpENC1N?oc=5",
-      "published": "Fri, 23 Oct 2026 07:58:00 GMT",
-      "publisher": "女人我最大",
+      "id": "984c5bc50a739946",
+      "title": "MiuMiu新品被指撞樣川渝「雞婆鞋」 網民：加個品牌名淨賺1萬 - Sing Tao Daily 星島日報加拿大",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1VTSnFoYTlDeDR3Y1pHU05mcW1aSlM1RWNzazJ5RlJSLVdGbk1COEZOd1h4SlVYcHZid3JhYi00ZG9Kd2h3MXFaMzRPaHM3QUp6Zl80M3pWZG1DcXZSeFg4ZjNnX2NLQjYyMktEejIyQXAxZG1peFpNQThTWmtROXVOdTMzcWljbXlwMNIBjAFBVV95cUxQR1VTSnFoYTlDeDR3Y1pHU05mcW1aSlM1RWNzazJ5RlJSLVdGbk1COEZOd1h4SlVYcHZid3JhYi00ZG9Kd2h3MXFaMzRPaHM3QUp6Zl80M3pWZG1DcXZSeFg4ZjNnX2NLQjYyMktEejIyQXAxZG1peFpNQThTWmtROXVOdTMzcWljbXlwMA?oc=5",
+      "published": "Wed, 28 Oct 2026 00:00:54 GMT",
+      "publisher": "Sing Tao Daily 星島日報加拿大",
       "search_keyword": "冬季 保暖 商品",
       "platform_mentions": [],
       "source_type": "public_news_rss",
@@ -400,28 +404,6 @@
       "verified_sales": false
     },
     {
-      "id": "e588aa62a9521899",
-      "title": "拿起來就讓人驚訝！無印良品的新款毛毯蓬鬆柔軟又輕盈，讓我一覺熟睡到早晨 - www.roomie.tw",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zaE82TXpmTXBnSXkzbnYyNmFhS2lTWnVUV2R5aWVsVzR6TEhrRVM5RUFFZE1FTnZYM1ZFZDNjUng4VUlxMU94RE1R?oc=5",
-      "published": "Mon, 26 Oct 2026 04:00:54 GMT",
-      "publisher": "www.roomie.tw",
-      "search_keyword": "冬季 保暖 商品",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "04490e1f3fd472c8",
-      "title": "《Chikawa》快閃店將於10月23日起在海老名丸井開幕! - コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaW9iSTFITmZfLXM4SzdSMzZJNVNjcHpXRnNUT1EwS2hZTjZpcy1VdVNwRWs4ZWlyUkExc2cyNm9nVElNcUVFT3UwbV9rUGlCWFZUVG5GRFlZXzFUVzR4dmVYSm5yak5TWkVfWjdCUFhibE1XZ1VaUDZJZHlWSjdVQlY3VFgybGtJcHBpWXF4SdIBlwFBVV95cUxOWHpGMTBibEVXVG9uT0xUTTlpZzcxNnlPYmZyTW9rRzlOYjlMZUQtMy1xeDQ2U2k1SzFhbjhtc3JQeVlzN21yMjk1aG1nU3BSTm5ya2FmMzFZc0NZamlJTms1ZDEzUnVYNnNDelJoWmJ5YzRYMkxVQU4xUTl5MWEwSkxja19yUVhsZlpweDhLcEFwRjRlTVJv?oc=5",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "publisher": "コラボカフェ",
-      "search_keyword": "冬季 保暖 商品",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
       "id": "adb19e27e2bafbd1",
       "title": "【別有洞天】Wacky WiLLy聯名「WONI」打造冬季粉彩療癒居家服 - https://www.webook.com.tw/",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVVM3YzJxSGtGVW9OcGZ3RVMxYS1qSGRUN2dHeDdxUEloQzJVdzE0c3ZYNTJyYWpmVlBJQTdMaTVIZXhDN0p6U0p2Q0Rzd0NzVERFOC1xdWtqUWpmWVRDa3JXeGRYMWd2UGV0SWhZdEtGWW8?oc=5",
@@ -433,32 +415,10 @@
       "verified_sales": false
     },
     {
-      "id": "8a4faaec413193a5",
-      "title": "《Chikawa》快閃店將於永旺夢樂城常滑於10月16日起登場! - コラボカフェ",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0QxajBUaVRnOFdjQjRxbC12TW9RemlLTF9aamlMeHVxQWZObWlaNEFEYmxlWXJQZHNCSEhLMExlUGtWeTkxTncxZnNlQllXd2ZkNS1GYjdDeTJzVFY3bEcta1M0SjNlczRRTjg1ZU9Id2tRVWxuYVhxNDdfVU1OYTBuWnpUUGlfbVFOaXo3SS1FWk5lZ0Iw0gGfAUFVX3lxTFBabmh1Z2R3YUhCZXNjQmtXOFM2WlZydkdDUUpNR2RjSjhNSWN0ZFlYZUVXLVoyb3Vnck5IVGtDSVFYeFJDYTkwSkpJU19GZ3dsRl9ubzFwOWdCQlBHdXpLUm5DTVdTTGVHVkRPZTE4S1ZmMktScnJBZGd3bjBOdzBjVEdPaEVfcGdpcnBBMkFMX3BXdmxTTG43c0tkRkVtYw?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "publisher": "コラボカフェ",
-      "search_keyword": "冬季 保暖 商品",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "49040e1a166638b3",
-      "title": "漢來美食水餃熱銷7,000包 插旗萬家福量販、電商營收拚5,000萬元 - CMoney",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GbVl6RWZrbGhGUFJHMW1WYWJOOE45dV92azdmYjdfTkprS1d0eGJ0eHc2QndJNnQxSTNuUUFYYUwtcGw0R3l1NGxjb3FvU1NEWWlwOGdHSi0?oc=5",
-      "published": "Mon, 19 Oct 2026 07:23:22 GMT",
-      "publisher": "CMoney",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "a81adb92b1b2aef1",
-      "title": "PChome為何賣起超商咖啡？拆解借力統一的「雞尾酒療法」，讓3C客更常回來 - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0RlckF3ZlRGdjFSZzFTdXpvc3lTamNYR2lLVnhDM1ZhOFVnNWc3eE41SjF3RmFOUG5IbzQ5UGItZGNDdWFYZTBNd2ppR1RwbnFQR3VnNUdaZ3JsajRiV0JvV2w3c3VJQ3dTelo0LWJVclYzQ2p4dFU0Yk1qNE02S1gxWkJNaXFWU3c?oc=5",
-      "published": "Wed, 28 Oct 2026 00:35:00 GMT",
+      "id": "b3a25724d9510046",
+      "title": "2025台灣消費趨勢：便當店、健身房10年成長近3倍，12個數據看人口減少下的新商機 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBma3h3RXliRXlNNjZCRW1RRmdnY2VEektHUTduTnVFTVBJLWZiT25YLXR0bDNYOEhVNGRXZTcyU0h1MDVqUFZoaml3dE1rOEFEMk83TFZ2SmNPaUpLdGZJWTBpYVBrYjU2bFBkMUplM2pqWXFS?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
       "publisher": "數位時代",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
@@ -488,22 +448,11 @@
       "verified_sales": false
     },
     {
-      "id": "73a955b0902bb5e1",
-      "title": "三星、LG之外還有誰？中小品牌智慧家電悄悄搶進台灣市場的生存之道 - 墨新聞-MORE News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQU1U0RlQ5N05uMG96OUFMNGNEYmdhUlNLQzVmcm8xdVJnRV9ETm1pYzBBMGFNUUNYeHNFemVBeTJnQQ?oc=5",
-      "published": "Fri, 23 Oct 2026 05:59:49 GMT",
-      "publisher": "墨新聞-MORE News",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "f2a667947235d21a",
-      "title": "優迪攜手玩具「反」斗城展開策略合作 服務年齡層延伸至十二歲 - 樂聯網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ucl94enowNy1wakZ0VXJkdTNuYXRCY181V0JHR3Q4SEFjUHhfbkhydExMcGlVVGwybUZZYUxua0tvZjJjc1JUeFBDdw?oc=5",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "publisher": "樂聯網",
+      "id": "c568bed39ebf1461",
+      "title": "中國造AI 爆款海外熱銷訂單排至明年 - 台灣中評網",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yeHBlTUl1MmsxaE1BVmdGc0RiLV9XUEZVUHRFd3NrOGZtZzMxZjdwcF84b3NWVWdPb01sYUZ4UHlLZ2MyOU01T3FVM0JyQU5Xdm1Ub3ZOZDhyVTdDTlIxcmQ1c2dHZnQxbkxSbHRueXJlazV5MTBtSzQxLWJMQQ?oc=5",
+      "published": "Wed, 28 Oct 2026 01:28:37 GMT",
+      "publisher": "台灣中評網",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
       "source_type": "public_news_rss",
@@ -521,32 +470,43 @@
       "verified_sales": false
     },
     {
-      "id": "e504fa884b5ab9bf",
-      "title": "義美食品良心家喻戶曉的食品巨頭- 生活新聞 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEpMN2hwem9jbnB0Vjg3RDZKck1PM3ZyMFQtbmZPN1FIdlVqaGY5TlBrUGt2dGxKNzNsRmR3Y2VLcEw4aUhpVEdHaFBfcXJTQUhlazVTZXhldkpfR3A4Tm1pb0Z2Z0dIc01Db3pHaDJzRDFGX0hHY3FfTGxGLUwwbkxOVEhzYnhZNTFn?oc=5",
-      "published": "Tue, 20 Oct 2026 07:48:03 GMT",
-      "publisher": "PChome Online 新聞",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "863577e8b6ac6ecc",
-      "title": "蘋果新筆電 MacBook Neo 熱銷陷兩難 獨特晶片製程現瓶頸 - 商傳媒",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcG81ZEFETkRzXzJGclktMGhYOU43alJOTllubVZzcHZLSG9JX1dDdngzRHJQY1RoUjh2a2dRMDI5WWlhUEViYmYxMlVDalJYU1Q2V2pVNWswWGs4VlBWaWlXdGw3dTlzMzh4aXBteFBLSWZMS1BKU1NGZ0V3M2xxSlFLLURUMkZlZWRUNUxGZWFBeEJXZ0I5LVFNNXE1YjhJdFJrWGFRVWY4cjNzSmVkNk52QXBzOG1OSnkwTmtjc1hKXy1yM2FqQ2VfV2FKaUMyRzBDWEJ2YVJiMndVQ2RHNGdLNjRxM01XLWJlTWEtZ21NMVZIREJCUFpPemo3eGxiWTVpSnh6MTR5YXhMbmEzRld2VXB6N2pTNUNaa2hOWUdHTC15TWRXb1Q5X0VGMnhMUm1INnE3RTNGNFZjd0V4WjJCWDJ2UTRVQk90aHRuczB3VW5fNk9jWHlFUDE?oc=5",
+      "id": "8dc6045e3ce70205",
+      "title": "蘋果新筆電 MacBook Neo 熱銷陷兩難 獨特晶片製程現瓶頸 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOV052djVUVzlweWNVQ1RwVnd6RkZlVWJFSnBqN1NnaFJ2cGNTaHVOeFc5VjVzQ0lFa0ZrZFZmX0RUbWRZSk9RZ1ZqR0dqbkMyNXhSc05MZHJ1UjRSaDc1bmtCcU44aGJvNHlmNnJFbjAyeDYtb1hjWV90X2o4ZDJicmFmRjZYRGVIQWZGTGxiTXdiLWZrX2xfS3FFMnNXQlgtTl9ZVjhBaGtTWHYyNnFxSV8ydDhkS1Y4MlVvWnRCQVJoTzVWMWZnWENNc3I0NEhqWTZfY205bjFJV1RiRnZrcEhHLVQyTm5KdEV2TnpTaE1zTm1fZlh1WWdFX0wtaHRvZW5YVGc3aU16a3U2TzhtbkRvWXZuRzQyenBRQWxqOExPN1k0X3Y4QmJ2UVZBS3NFTl9UZDhDQ2lDcG9NWkNxZndLM0tlcFlJeThmNnFRQ1NZQQ?oc=5",
       "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "publisher": "商傳媒",
+      "publisher": "Yahoo股市",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
       "source_type": "public_news_rss",
       "verified_sales": false
     },
     {
-      "id": "38fb263de965db96",
-      "title": "統一、OK都想搶「家戶廚房」！社區迷你超市為何成零售新戰場？ - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT19wWHZwbS10X05wTTNkdnJxQXNqV3BZS09OcnVva0FCbnJyVFF4anRWZWNfQmoyMVdyUVo1UzFyVXlCbm1vd09XUnhpUlJpa1Q0S1NGbGt0czU5TjRfdEh1Z21XT2hBaV9sNWQxUm54UVdpMnptUkNIaDBOYl9GVS1NYlhqVUpXYTYweE5DTE81TG1zNENnck5R?oc=5",
+      "id": "13d2025969052dc4",
+      "title": "電商雙11檔期正式開跑！AI換機潮引爆商機，網家訂單激增89%-財經焦點情報站 - CMoney投資網誌",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUUwVWFRSy0yeEF0Z2dpOWxKdXN6TGc0S2xqX05ZYWV3QlhTc2FqX3k4aVpFUEJCbmJlM2NsRGJwRTZKbF81MHpVbW5BUXJldldoY2VldUZydjNsMXhGemtxUU5yZnZyZ0dqWlBYYmZHT1NUM1FTRVVxUFJtOWJCWjJR?oc=5",
+      "published": "Tue, 27 Oct 2026 08:39:14 GMT",
+      "publisher": "CMoney投資網誌",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "0c8f2265ac5aaf5d",
+      "title": "3COINS 台灣 2 號店即將插旗中山商圈！1 號店、momo購物旗艦館「熱銷商品 TOP 5」一次看 - 上報Up Media",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13LTAtUDVUS3YwM0E3QXpxaHdTdXRJdlVVSlhiUzlSc2dEWEZVRmVOeHNpY2FhbEdhdVVpc2dDOFllU2ZuMjl0NW1mZUUzdnFzcTBOZFh5NXFHUU81LXFF?oc=5",
       "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "publisher": "上報Up Media",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "a81adb92b1b2aef1",
+      "title": "PChome為何賣起超商咖啡？拆解借力統一的「雞尾酒療法」，讓3C客更常回來 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0RlckF3ZlRGdjFSZzFTdXpvc3lTamNYR2lLVnhDM1ZhOFVnNWc3eE41SjF3RmFOUG5IbzQ5UGItZGNDdWFYZTBNd2ppR1RwbnFQR3VnNUdaZ3JsajRiV0JvV2w3c3VJQ3dTelo0LWJVclYzQ2p4dFU0Yk1qNE02S1gxWkJNaXFWU3c?oc=5",
+      "published": "Wed, 28 Oct 2026 00:35:00 GMT",
       "publisher": "數位時代",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
@@ -554,22 +514,11 @@
       "verified_sales": false
     },
     {
-      "id": "fd5f7aa4796c365f",
-      "title": "1MORE S20 Ultra 在台灣正式開賣 旗艦開放式耳夾耳機全通路齊發 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13VHFkZDA2TkJUTzYyY1hsVmdyVHkzS1V3d3R6eE9GTklBODlOMXQ5bkVtVVl1MTBmRjdBV0w2clVBMEZEb1lMU0N1U0lFT1FPQmNxS2ctRklsZGpL0gFiQVVfeXFMT2VqQndkcll4Qk1qYW96YllIQWRub0Y5eTVnQjdYd1JwS0dNUFBhNFpXek9TVDJHb0pyM2V2WTA4WTE3MWF2MnZqZ0M3RFRvWU1Yc2wxMVNfalRnbUZfdlpYUUE?oc=5",
-      "published": "Wed, 21 Oct 2026 04:00:28 GMT",
+      "id": "6a66bfe4f45deefe",
+      "title": "台灣樂天市場雙11將開跑 強化跨境購物優勢、與四大品牌合作 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SNDRtdEQ4QlJOaUo2RFhyMGdiS1pSNzZwcFd1Z2c0N1BfVE1YX0NkMEhXclpTdzFHeDZMdTV0TVFUV3R1Nm9qRDZjZFJ2N3FiUnNPUUh4d3drUdIBX0FVX3lxTE5fZ0t1VE5aSDVEWXdxTU8tVE5HU1JRa0RiUW01SEU1dy1oalhoX01iSW9YQ1Ffcy1HOGJPZ2xsOTEwZ3hmSDN1eWhXVHlUZXlNMi0zQk82RGxSbkhOQXN3?oc=5",
+      "published": "Wed, 28 Oct 2026 03:26:28 GMT",
       "publisher": "經濟日報",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "f08c551f3f8b2c1f",
-      "title": "全家喊「壓力很大」！統一、全聯到全家，為何都在搶當你花點數的第一站？ - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2phazdQd0ZrelU4aUdsMHo0amxRcGx1c1Ixb0hfUkxHejF1endLMEwtb1haNnZHRmdySVlIWEptZ3dEZVpqV1psM0dkNkFOYWliWFVCc05GcTRqTkNSdktQSmV6aUtKLW1IUG9uVk1vOGN1cnU2ZW1USTF6M1VFUHlyN2h3MnJORlUwYUJWbEdXbHZMMHJjcmVqQQ?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "publisher": "數位時代",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
       "source_type": "public_news_rss",
@@ -587,10 +536,10 @@
       "verified_sales": false
     },
     {
-      "id": "f079440bddb35f68",
-      "title": "LOPIA大巨蛋何時開幕？在幾樓、有哪些限定商品？ - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVQtVGtUVzFXMzhBRzNtSnFfaDRBazJqMDdzbjh4TUxRWG0tODhWMG92Vk9KTGU1alRqUGNQM1lHaWdzajh0S2RzNFJHekx0VmZBdHpEaXFmT2YtZjF4Z0ZsRDQyaDZsXy13b0dkSk45UHZBZlVNeGRNZlpmdmVWUTNzcW5NUGVJ?oc=5",
-      "published": "Tue, 27 Oct 2026 03:00:00 GMT",
+      "id": "38fb263de965db96",
+      "title": "統一、OK都想搶「家戶廚房」！社區迷你超市為何成零售新戰場？ - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT19wWHZwbS10X05wTTNkdnJxQXNqV3BZS09OcnVva0FCbnJyVFF4anRWZWNfQmoyMVdyUVo1UzFyVXlCbm1vd09XUnhpUlJpa1Q0S1NGbGt0czU5TjRfdEh1Z21XT2hBaV9sNWQxUm54UVdpMnptUkNIaDBOYl9GVS1NYlhqVUpXYTYweE5DTE81TG1zNENnck5R?oc=5",
+      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
       "publisher": "數位時代",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
@@ -609,72 +558,6 @@
       "verified_sales": false
     },
     {
-      "id": "255cf79e28932f95",
-      "title": "直播霸主圓剛科技以全方位產品，化身創作者的「解憂雜貨店」 - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9taXdmbjNEU1NybkhSOUdqSlZGZVdWS19leV9rOTMzdTdfSWtCQ3RobFY5dXhHdks0eGR6QUR2cnpWZFFzYWZMa200a2NreGpwV2t2S3AxMndXSHBCc25jSUFkZEc?oc=5",
-      "published": "Tue, 20 Oct 2026 06:00:00 GMT",
-      "publisher": "數位時代",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "51a3fa31d86ded23",
-      "title": "吉野家把美國市場交給台灣人！靠拉麵、湯包做到22億營收，丁懿辰是誰？ - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhSUnk4ZE5McWFGTFZfZ0h2Yy1YS0swX0dVTTV3NEhJSHJZVnZNcGkyQ2tjUmZSWXUzMGhNNFJTVmw4U05SeVBrLUllMWFKbUQyRVViMmRxVHJfQWZOLXR1Z0pMUWNmbEtWVHJCOGxubWFEU294WWNPU3V3azAzTkdn?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "publisher": "數位時代",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "b7e6f8e35404ef58",
-      "title": "塑膠袋、蒸籠救了無印良品？46歲品牌靠日用品再創新高 - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11a19KakRqOEdiOXg4QWN3M1BaekxObElScUdxUGwteWJ2VHUyU1Y4YVZDb0N2bEh3SUtIRTdRRzM5ZGpXd0Nacjd1UFF1Yjg2WHUyOFg0Nmp6LVVjblNkYVQwT1E0UnB2amVvRzBoR2pocUdKSFlOLQ?oc=5",
-      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "publisher": "數位時代",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "c347bf863c44f1a5",
-      "title": "路易莎黃銘賢告白：犯了2個錯！為何營收創新高，淨利卻暴跌56%？ - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjlpejg2MGxQOHdKNkg5OTRUSko5Y0taZi1rNHlIQ1d0TkxScGwwa0lUdDJlWlAwUUhOWjlXZTF3Zy1pbm0tT25Gd29HdHllMmV3bTdpclRoR29zU0tTU1hKNTFIOERiVE1ieTh0V2JTVndzLXVzcTVWUUNmN3RDSFZn?oc=5",
-      "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "publisher": "數位時代",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "eae31dad4d37ed64",
-      "title": "天良營收三創近五年同期新高 前9月達5.54億元 | 信傳媒 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JVE1fbUJsSU80bGl6Z1hQdl9OaGx2ZWxNX2NwT09lc1FsbVp3QTNBZVNjVmhrTmstTmtNT1BEb2FRYXJTSzJJZGU1STlsaTlSUUpvV0VR?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "publisher": "LINE TODAY",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
-      "id": "13d2025969052dc4",
-      "title": "電商雙11檔期正式開跑！AI換機潮引爆商機，網家訂單激增89%-財經焦點情報站 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUUwVWFRSy0yeEF0Z2dpOWxKdXN6TGc0S2xqX05ZYWV3QlhTc2FqX3k4aVpFUEJCbmJlM2NsRGJwRTZKbF81MHpVbW5BUXJldldoY2VldUZydjNsMXhGemtxUU5yZnZyZ0dqWlBYYmZHT1NUM1FTRVVxUFJtOWJCWjJR?oc=5",
-      "published": "Tue, 27 Oct 2026 08:39:14 GMT",
-      "publisher": "CMoney投資網誌",
-      "search_keyword": "台灣 電商 熱銷",
-      "platform_mentions": [],
-      "source_type": "public_news_rss",
-      "verified_sales": false
-    },
-    {
       "id": "54ad43dbee4da4ee",
       "title": "Garmin如何轉型車用電子？從導航機到智慧座艙，打進豐田、BMW供應鏈 - 數位時代",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVh0VEFXV0FwYktQTVEtSG5DZjlGMjBDY0F4b3VzSkFyNXUyVVRFTVM4S3EtY3QyRU5UMlMtem9zdXVDUGI2S08yY0ZRZTgzZ3BidlI1WjFBbk9DUzh6YnM1ZWFLMVdTM1I0RWw1NGY0NEJMWTBFeFozVjIzeTJnMHpKZEo?oc=5",
@@ -686,10 +569,76 @@
       "verified_sales": false
     },
     {
-      "id": "127948b5dc81207e",
-      "title": "momo買i Duo激省16% PChome寵物推車31折 - PChome Online 新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGlkX0RQbDh2cjhpcE0xRnQ1UUNYYWZibWFCTEFud3ZrNEdqNThob0pjckhsTEoyTlV1OUZaMU8yZ3RpV1M0QW9Vay1XZzBqdzBieG9kal9RVm11bFhHdTdkV0NPNDlIRjZocF90RE84Sk50Ui1MNHhYd3Z2aE5oYmVZXzNraWcw?oc=5",
-      "published": "Mon, 19 Oct 2026 19:46:08 GMT",
+      "id": "5ae9915bdb8c6f1e",
+      "title": "AMD還要加碼台灣！蘇姿丰：100億美元投資還會增加，供應鏈規畫一口氣拉長到5年 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2NQV19OMW5scWp6NXRYQldaeG9HYTJ6OTlfZlBaSGpKWF9NVFhNVFJ4SERtWEVtMU1HWmNkbkVVX0tLbUNBNVItTnYtUE95QjYzS3F1NGY1Qy1XQTZwRG9kVEZmRXNPUURoRmljenhGUTAzcFZKQjF5eTk2d1pGNTZ3aDdUa096anQwXzlSNA?oc=5",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "publisher": "數位時代",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "0cfb4d3590960a75",
+      "title": "新漢RoboWIZ是什麼？搶AI機器人商機，打造機器人開放平台 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53MTUtdmkxNXZRbDFZaU5Uc3o2VWVJVW04OERBdmNfZFlwRFZfdkVsRzg5azc2SGh6bjl5ZjM2Tm5CVmoxX2dVTWJNbS1WZUJwMXhHLW1MOGlnclhFTEU1TlhvMjU3QQ?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "publisher": "數位時代",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "d362f3c2348da91b",
+      "title": "Apple新品一次看！M6版14吋MacBook Pro與iMac正式發表，頂規觸控款傳起價9.4萬元 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42enhGVHJNTFpNbE9fYk05WnJTY1YzU2hoeGFtZ3J3ZU8wMy1kTS03UWF0TUZaclFlMkM0b1V3T0kyejlNUDNwbE0xdHZKdFJVTlAweDFEdGlsYm1EMklKcFg1STdtUnA1QzZfTzREX3BidkRzZEZlVnBCV18?oc=5",
+      "published": "Wed, 28 Oct 2026 03:32:00 GMT",
+      "publisher": "數位時代",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "44d0c3988476f62e",
+      "title": "宏達電VIVEE是什麼？VIVEE多少錢、台灣何時上市？ - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXp2YVoxbV9ZTHBJa096cFlvY0xYclQ0LWNLWVMwZEh5NGxGWlE4R2NnSXhRNDR3LW5QYm8xajF2YzN3eGNfaHp6ZUhJSFpyVVhreUVxN2N0aW03eWJYUlpId0NzRzhhZHNvWDdiWE5DdFNYMEJmeUVXUFlRQTYxNA?oc=5",
+      "published": "Tue, 27 Oct 2026 08:17:00 GMT",
+      "publisher": "數位時代",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "b05f875e55595e93",
+      "title": "美光台中HBM封裝二廠啟用！台灣擴產布局與記憶體缺貨現況一次看 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTExxNHhUZFBPTm9RRXN6UGZJS3czTUU3MDQwT0Z3M0lKQWw1dlRwMUctcko4MlFMdXFlVE5sSUZUZ2FXR1lvVzVIN0lDczAtdE9hVFRETWZCYzBjTEI2RUdWUWNISjRMTmZWdWQ4cWFJR3NzZjhRRFQxZ2w3b3doMjVkSHo?oc=5",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "publisher": "數位時代",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "f321ff47436362ed",
+      "title": "在家爽吃五星主廚水餃！全台這家量販超市都能買到，３種口味開箱、現省10元 - 食尚玩家",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPMkloNHM0T1N6Z1ItLTJfSXVOWmJ5Z09aZzAzelgwT3VfWXVGWDRFdURiWnhoQ2NTcFpsMzFUWkRXM2FLTENJX3dZMEdVWHVXSmoySNIBWkFVX3lxTFBhT0RIZXlpRHR0cVhHZTB6UVRwM3NNTWZVTllscHRxNTJhX2NHaVoxekM3M0xrZk0tZ0ZIbHdfU1I4eXBreWd3SDlvdmd1V2xNTWFsckFwMGM5QQ?oc=5",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "publisher": "食尚玩家",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "43fed346f259eeda",
+      "title": "全台最大城市慶典台中購物節開跑！ 源正集團加碼贈送百瓶頂級印加果油 - PChome Online 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTFMVXlCZ0NGMmJfU19WNEQ0MkhNTkxQUDlJZDZXLUV2STYyUnZ2eVVJUHkyYXA0ZjVMNThjNVRaeDdNQmU4X2xhRHhmbDVBSHVPN3ZjMGhqbkNSTTJEQU93ZjFEdzEzdjFmUkJCdktnT183a1A1eENCb3ZhOEk5RTdkN1JmQnhmMDZN?oc=5",
+      "published": "Sun, 25 Oct 2026 12:22:29 GMT",
       "publisher": "PChome Online 新聞",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
@@ -697,10 +646,32 @@
       "verified_sales": false
     },
     {
-      "id": "5ae9915bdb8c6f1e",
-      "title": "AMD還要加碼台灣！蘇姿丰：100億美元投資還會增加，供應鏈規畫一口氣拉長到5年 - 數位時代",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2NQV19OMW5scWp6NXRYQldaeG9HYTJ6OTlfZlBaSGpKWF9NVFhNVFJ4SERtWEVtMU1HWmNkbkVVX0tLbUNBNVItTnYtUE95QjYzS3F1NGY1Qy1XQTZwRG9kVEZmRXNPUURoRmljenhGUTAzcFZKQjF5eTk2d1pGNTZ3aDdUa096anQwXzlSNA?oc=5",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "id": "1541f0c71fadc9a4",
+      "title": "WOO、活力、迪爵 系列最新促銷訊息 - SYM三陽機車",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10bWpWRERqYVdXeU5SUERIbkZ1S2FTN0M4RXh1eTBwS1dRTjNRbFliV2psMlpWR0h2ZkhFbDFIYXJteVVTX1BmUEZIbnZlcXU1ODJYWlRKQjg?oc=5",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "publisher": "SYM三陽機車",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "a27055918e4bf1dd",
+      "title": "水壺沒買Owala！電商銷售榜出爐：象印彈蓋款、史努比聯名被買爆 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xT3dyOXk2bFBaNExPQjlGcFp0bjhoNHo5aXBteGxEcnUzcjl6YTYwQ2p4U3ZidWlIQ051cFpTV3l6YXJ3Y0NvUk04YkrSAVJBVV95cUxQcElfNTdiWHlTWW1vZWVNZENNLUMwRnJCa0tBTkRYc3RRRUhVTDZLVlJ2REQwNGpabmNtWElZN2FXbHUwZlZ3RFpVZXhZeHpRYkZn?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "publisher": "NOWnews今日新聞",
+      "search_keyword": "台灣 電商 熱銷",
+      "platform_mentions": [],
+      "source_type": "public_news_rss",
+      "verified_sales": false
+    },
+    {
+      "id": "a2282001ba0f3548",
+      "title": "中國過半AI算力都拿去拍爽劇？紅果短劇爆紅，豆包：字節影片生成僅占約一成 - 數位時代",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0JpN1dBT0NzQk9kMU5oakJJNnFXLUdLNDg5N0pTUVM3M240OGl1NFRuWldMYnJUVU12ekNzRU02UXc2NEpMMzlhWU9hdjRZLUw3WVJWTDdJZl90VmN1ek5QcldpVDU2WGswVWk5TzVHZmxRaWFzYzdxU2VMcGNWTXN1Y3dqUVRYcHc?oc=5",
+      "published": "Sun, 25 Oct 2026 23:53:00 GMT",
       "publisher": "數位時代",
       "search_keyword": "台灣 電商 熱銷",
       "platform_mentions": [],
