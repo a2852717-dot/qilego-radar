@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-28T14:07:38.245863+08:00",
+  "source": "Google Trends TW trending RSS",
+  "source_note": "只觀測免費熱門搜尋 RSS，不含蝦皮全站商品銷量、完整商品搜索量、未驗證預測機率。",
+  "history_days": 1,
+  "today_raw_terms": 10,
+  "today_extracted_products": 0,
+  "data_status": "ok",
+  "warnings": [],
+  "early_signals": [],
+  "watchlist": [],
+  "metrics_description": {
+    "observed_days_7d": "近7天中此具體商品出現在公開熱門搜尋 RSS 的天數",
+    "observed_days_previous_7d": "前7天出現天數",
+    "shopee_units_sold_30d": "未接入合法授權銷量資料時為 null",
+    "sales_probability": "未經驗證，永遠不虛構機率"
+  }
+}

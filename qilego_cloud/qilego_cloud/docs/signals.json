@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:23:53.676126+00:00",
+  "updated_at": "2026-10-28T06:07:37.951301+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,8 +13,94 @@
   },
   "records": [
     {
-      "term": "bts 演唱會",
+      "term": "消費 券",
+      "traffic_label": "200+",
+      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "代表者らは、クーポン券をめぐる「法的抜け穴」について懸念を表明し、それが企業にとってリスクとなり、消費者に損害を与える可能性があると指摘した。",
+          "url": "https://www.vietnam.vn/ja/dai-bieu-lo-khoang-trong-phap-ly-hinh-thuc-voucher-rui-ro-cho-doanh-nghiep-thiet-nguoi-dung",
+          "source": "Vietnam.vn"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "唐绮阳",
       "traffic_label": "100+",
+      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "12星座運勢出爐！獅子成果大豐收 天秤忌急做重大決定",
+          "url": "https://fnc.ebc.net.tw/fncnews/life/221490",
+          "source": "東森電視"
+        },
+        {
+          "title": "【唐綺陽星座運勢週報10/26-11/1】雙子桃花朵朵開，水瓶事業停看聽",
+          "url": "https://www.elle.com/tw/lovelife/horoscopes/g74239733/jessetang11-horoscopes-weekly-2026-1026/",
+          "source": "ELLE"
+        },
+        {
+          "title": "唐綺陽本周星座運勢巨蟹、獅子受惠女性貴人- 好運到",
+          "url": "https://truemii.chinatimes.com/content/20261026000009-265005",
+          "source": "觸mii"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "美國",
+      "traffic_label": "200+",
+      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "伊朗戰爭成錢坑！美五角大廈燒掉470億美元 超出預期25%",
+          "url": "https://tw.news.yahoo.com/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%88%90%E9%8C%A2%E5%9D%91-%E7%BE%8E%E4%BA%94%E8%A7%92%E5%A4%A7%E5%BB%88%E7%87%92%E6%8E%89470%E5%84%84%E7%BE%8E%E5%85%83-%E8%B6%85%E5%87%BA%E9%A0%90%E6%9C%9F25-020527527.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "川普真準備再來一場小規模史詩怒火？WSJ：傳美已通知波灣國家備戰| 國際焦點| 全球",
+          "url": "https://udn.com/news/story/6809/9841441",
+          "source": "UDN"
+        },
+        {
+          "title": "紐油、布蘭特重返100、110美元大關！WSJ：美國已告知多個波灣國家 為選後猛攻伊朗預作準備",
+          "url": "https://news.cnyes.com/news/id/6639193",
+          "source": "鉅亨網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00419a",
+      "traffic_label": "200+",
+      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "中選會",
+      "traffic_label": "200+",
+      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "蘇俊榮",
+      "traffic_label": "100+",
+      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "bts 演唱會",
+      "traffic_label": "200+",
       "published": "Tue, 27 Oct 2026 21:40:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
@@ -24,14 +110,14 @@
           "source": "Yahoo新聞"
         },
         {
+          "title": "BTS高雄演唱會要來了！V度假帥照藏亮點 手中1物曝光直接賣到缺貨",
+          "url": "https://news.videoland.com.tw/article/3df1c7ed-64ec-4331-b7c1-7a8cf6ffd82b.html",
+          "source": "緯來新聞網"
+        },
+        {
           "title": "BTS V 金泰亨智利葡萄園美照掀熱議！褲子疑沾泥土，他親回：「原本就這樣！」",
           "url": "https://www.juksy.com/article/153351",
           "source": "JUKSY 街星"
-        },
-        {
-          "title": "曬13張度假照掀搶購潮！BTS V手拿「這瓶」粉絲神出　2小時售罄：補貨要等2個月",
-          "url": "https://www.mirrormedia.mg/external/mirrordaily_94016",
-          "source": "鏡週刊Mirror Media"
         }
       ],
       "source": "google_trends_rss"
@@ -86,152 +172,24 @@
     },
     {
       "term": "加班",
-      "traffic_label": "100+",
+      "traffic_label": "200+",
       "published": "Tue, 27 Oct 2026 21:30:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
+          "title": "買設備送工程師！ 「設備股股王」驚傳員工過勞遭解雇 公司回應了",
+          "url": "https://fnc.ebc.net.tw/fncnews/headline/221571",
+          "source": "東森電視"
+        },
+        {
+          "title": "「設備股王」遭爆血汗公司！18年員工賣命上班「突發心梗」 竟被逼自願離職",
+          "url": "https://www.mirrordaily.news/story/94215",
+          "source": "鏡報"
+        },
+        {
           "title": "股王好苛2／2萬底薪拚出鴻勁兆元市值　陰陽班表藏月加班200小時 | 社會 | CTWANT",
           "url": "https://www.ctwant.com/article/504030/",
           "source": "CTWANT"
-        },
-        {
-          "title": "「設備股王」遭爆血汗公司！18年員工賣命上班「突發心梗」 竟被逼自願離職",
-          "url": "https://tw.news.yahoo.com/%E8%A8%AD%E5%82%99%E8%82%A1%E7%8E%8B-%E9%81%AD%E7%88%86%E8%A1%80%E6%B1%97%E5%85%AC%E5%8F%B8-18%E5%B9%B4%E5%93%A1%E5%B7%A5%E8%B3%A3%E5%91%BD%E4%B8%8A%E7%8F%AD-%E7%AA%81%E7%99%BC%E5%BF%83%E6%A2%97-%E7%AB%9F%E8%A2%AB%E9%80%BC%E8%87%AA%E9%A1%98%E9%9B%A2%E8%81%B7-024100210.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "「設備股王」遭爆血汗公司！18年員工賣命上班「突發心梗」 竟被逼自願離職",
-          "url": "https://www.mnews.tw/external/mirrordaily94215",
-          "source": "鏡新聞"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "主審",
-      "traffic_label": "500+",
-      "published": "Tue, 27 Oct 2026 21:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "相手選手へ拍手をしたつもりが、主審は侮辱行為として退場処分に トルコリーグで1分間に2枚イエローをもらった事例が注目される (2026年10月27日掲載)",
-          "url": "https://news.livedoor.com/topics/detail/32672091/",
-          "source": "ライブドアニュース"
-        },
-        {
-          "title": "相手選手へ拍手をしたつもりが、主審は侮辱行為として退場処分に トルコリーグで1分間に2枚イエローをもらった事例が注目される",
-          "url": "http://www.excite.co.jp/news/article/TheWorld_511477/",
-          "source": "Excite エキサイト"
-        },
-        {
-          "title": "Ｊ２で急増する監督へのイエローカード。「ＶＡＲを入れて全部解決」はない。問題の根っこはＶＡＲではない #エキスパートトピ",
-          "url": "https://news.yahoo.co.jp/expert/articles/45508a162f5aa60f34ee6b43b3fc6860d83add9b",
-          "source": "Yahoo!ニュース"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "達米安·里拉德",
-      "traffic_label": "100+",
-      "published": "Tue, 27 Oct 2026 21:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Damian Lillard Reveals Sad Reason Why Bucks Experiment Failed",
-          "url": "https://sports.yahoo.com/articles/damian-lillard-reveals-sad-reason-022118416.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Damian Lillard has no regrets about the journey that brought him back to Portland",
-          "url": "https://www.nbcnews.com/sports/nba/damian-lillard-portland-trail-blazers-nba-season-rcna605770",
-          "source": "NBC News"
-        },
-        {
-          "title": "Damian Lillard Reflects on Playing With Giannis, Bucks After Blazers Reunion, 'It Wasn't My Home'",
-          "url": "https://bleacherreport.com/articles/25521177-damian-lillard-reflects-playing-giannis-bucks-after-blazers-reunion-it-wasnt-my-home",
-          "source": "Bleacher Report"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "體育",
-      "traffic_label": "100+",
-      "published": "Tue, 27 Oct 2026 21:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "運動日校園免費開放、學生每周運動150分鐘 全教產籲修法勿增校園負擔",
-          "url": "https://udn.com/news/story/6885/9841398",
-          "source": "UDN"
-        },
-        {
-          "title": "國體法修法！體育班轉型恐釀訓練斷層　專任教練協會提4大訴求",
-          "url": "https://sports.ettoday.net/news/3262176",
-          "source": "ETtoday運動雲"
-        },
-        {
-          "title": "校園運動設施免費開放？全教產憂教職員假日加班、經費沒著落- 生活",
-          "url": "https://www.ctee.com.tw/news/20261028700998-431401",
-          "source": "工商時報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "mlb",
-      "traffic_label": "20000+",
-      "published": "Tue, 27 Oct 2026 21:00:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Rays live to fight another day thanks to Williamson's walk-off single",
-          "url": "https://www.mlb.com/news/rays-win-world-series-game-4-2026",
-          "source": "MLB.com"
-        },
-        {
-          "title": "World Series Game 4: Live updates from Brewers-Rays",
-          "url": "https://www.espn.com/mlb/story/_/id/50241025/world-series-game-4-brewers-rays-live-updates-takeaways",
-          "source": "ESPN"
-        },
-        {
-          "title": "Licensable picture: MLB: World Series-Milwaukee Brewers at Tampa Bay Rays",
-          "url": "https://www.reutersconnect.com/item/mlb-world-series-milwaukee-brewers-at-tampa-bay-rays/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyMDM5OTY",
-          "source": "Reuters Connect"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "威剛",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 21:00:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "高山峰",
-      "traffic_label": "2000+",
-      "published": "Tue, 27 Oct 2026 20:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "砸1500萬就能買4房！高山峰爆泰國房地產「驚人內幕」：還送兩個車位",
-          "url": "https://tw.news.yahoo.com/%E7%A0%B81500%E8%90%AC%E5%B0%B1%E8%83%BD%E8%B2%B74%E6%88%BF-%E9%AB%98%E5%B1%B1%E5%B3%B0%E7%88%86%E6%B3%B0%E5%9C%8B%E6%88%BF%E5%9C%B0%E7%94%A2-%E9%A9%9A%E4%BA%BA%E5%85%A7%E5%B9%95-%E9%82%84%E9%80%81%E5%85%A9%E5%80%8B%E8%BB%8A%E4%BD%8D-021000294.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "泰國普吉島山洪淹沒道路 機車、家具都被沖走｜#公視新聞網 #Shorts",
-          "url": "https://news.pts.org.tw/video/22793",
-          "source": "你的公共電視"
-        },
-        {
-          "title": "高山峰旅居泰國靠寫中文菜單維生 遇曼谷大水災曝「居民驚人禮儀」",
-          "url": "https://stars.udn.com/star/story/10089/9841358",
-          "source": "噓！星聞"
         }
       ],
       "source": "google_trends_rss"
