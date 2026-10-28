@@ -1,40 +1,34 @@
-
 name: Daily Qilego Market Collection
-
 on:
   schedule:
     - cron: '17 1 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
+concurrency:
+  group: qilego-data-updates
+  cancel-in-progress: false
 jobs:
   collect:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Run market collector
-        run: |
-          python qilego_cloud/qilego_cloud/scripts/collect.py
-
-      - name: Run Google Trends collector
-        run: |
-          python qilego_cloud/qilego_cloud/scripts/collect_signals.py
+      - name: Collect public Google Trends TW RSS
+        run: python qilego_cloud/qilego_cloud/scripts/collect_signals.py
+      - name: Build evidence-only product history
+        run: python qilego_cloud/qilego_cloud/scripts/build_early.py
       - name: Save collected data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add qilego_cloud/qilego_cloud/docs/
+          git add qilego_cloud/qilego_cloud/docs/signals.json qilego_cloud/qilego_cloud/docs/early.json qilego_cloud/qilego_cloud/docs/early_history.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update market intelligence"
-            git push
+            git commit -m "Update public market signals"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
