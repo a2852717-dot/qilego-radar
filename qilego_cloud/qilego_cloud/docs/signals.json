@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T06:07:37.951301+00:00",
+  "updated_at": "2026-10-29T02:01:50.834142+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,185 +13,211 @@
   },
   "records": [
     {
-      "term": "消費 券",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "代表者らは、クーポン券をめぐる「法的抜け穴」について懸念を表明し、それが企業にとってリスクとなり、消費者に損害を与える可能性があると指摘した。",
-          "url": "https://www.vietnam.vn/ja/dai-bieu-lo-khoang-trong-phap-ly-hinh-thuc-voucher-rui-ro-cho-doanh-nghiep-thiet-nguoi-dung",
-          "source": "Vietnam.vn"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "唐绮阳",
+      "term": "康霈",
       "traffic_label": "100+",
-      "published": "Tue, 27 Oct 2026 22:50:00 -0700",
+      "published": "Wed, 28 Oct 2026 18:50:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "12星座運勢出爐！獅子成果大豐收 天秤忌急做重大決定",
-          "url": "https://fnc.ebc.net.tw/fncnews/life/221490",
-          "source": "東森電視"
+          "title": "健康趨勢加上減重藥普及 海尼根籲英酒吧推無酒精飲品",
+          "url": "https://n.yam.com/Article/20261026338266",
+          "source": "蕃新聞"
         },
         {
-          "title": "【唐綺陽星座運勢週報10/26-11/1】雙子桃花朵朵開，水瓶事業停看聽",
-          "url": "https://www.elle.com/tw/lovelife/horoscopes/g74239733/jessetang11-horoscopes-weekly-2026-1026/",
-          "source": "ELLE"
+          "title": "「減肥藥經濟」連鎖反應：誰是贏家，誰是輸家？",
+          "url": "https://www.moomoo.com/hant/news/post/1002508522",
+          "source": "Moomoo"
         },
         {
-          "title": "唐綺陽本周星座運勢巨蟹、獅子受惠女性貴人- 好運到",
-          "url": "https://truemii.chinatimes.com/content/20261026000009-265005",
-          "source": "觸mii"
+          "title": "GLP-1 降血糖藥普及化 藥局成患者照護關鍵角色",
+          "url": "https://sunmedia.tw/news/collaborative/1OQHOQE1th2Jcs9CDRmUHOlSSp0UKk1yg9MoWcgGyQigGLy1kWnlM6ydgyRZcsRl4OVD8y2tLspnVd5ZheTSvWH7vruMCLgkzn1k9xvYPiZBvx8GOiCjSvmTlaAt0I7KjJdLCfABkkEHZOUItvFjjgrnEz",
+          "source": "商傳媒"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "美國",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
+      "term": "快艇 對 湖人",
+      "traffic_label": "10000+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "伊朗戰爭成錢坑！美五角大廈燒掉470億美元 超出預期25%",
-          "url": "https://tw.news.yahoo.com/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%88%90%E9%8C%A2%E5%9D%91-%E7%BE%8E%E4%BA%94%E8%A7%92%E5%A4%A7%E5%BB%88%E7%87%92%E6%8E%89470%E5%84%84%E7%BE%8E%E5%85%83-%E8%B6%85%E5%87%BA%E9%A0%90%E6%9C%9F25-020527527.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "川普真準備再來一場小規模史詩怒火？WSJ：傳美已通知波灣國家備戰| 國際焦點| 全球",
-          "url": "https://udn.com/news/story/6809/9841441",
-          "source": "UDN"
-        },
-        {
-          "title": "紐油、布蘭特重返100、110美元大關！WSJ：美國已告知多個波灣國家 為選後猛攻伊朗預作準備",
-          "url": "https://news.cnyes.com/news/id/6639193",
-          "source": "鉅亨網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00419a",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "中選會",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "蘇俊榮",
-      "traffic_label": "100+",
-      "published": "Tue, 27 Oct 2026 22:30:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "bts 演唱會",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 21:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "曬13張度假照掀搶購潮！BTS V手拿「這瓶」粉絲神出 2小時售罄：補貨要等2個月",
-          "url": "https://tw.news.yahoo.com/%E6%9B%AC13%E5%BC%B5%E5%BA%A6%E5%81%87%E7%85%A7%E6%8E%80%E6%90%B6%E8%B3%BC%E6%BD%AE-bts-v%E6%89%8B%E6%8B%BF-%E9%80%99%E7%93%B6-%E7%B2%89%E7%B5%B2%E7%A5%9E%E5%87%BA-044000297.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "BTS高雄演唱會要來了！V度假帥照藏亮點 手中1物曝光直接賣到缺貨",
-          "url": "https://news.videoland.com.tw/article/3df1c7ed-64ec-4331-b7c1-7a8cf6ffd82b.html",
-          "source": "緯來新聞網"
-        },
-        {
-          "title": "BTS V 金泰亨智利葡萄園美照掀熱議！褲子疑沾泥土，他親回：「原本就這樣！」",
-          "url": "https://www.juksy.com/article/153351",
-          "source": "JUKSY 街星"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "精心策劃",
-      "traffic_label": "100+",
-      "published": "Tue, 27 Oct 2026 21:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "中職/蔣銲任隊友宰割變光頭 味全龍小編爆料：女兒看到爆哭",
-          "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E8%94%A3%E9%8A%B2%E4%BB%BB%E9%9A%8A%E5%8F%8B%E5%AE%B0%E5%89%B2%E8%AE%8A%E5%85%89%E9%A0%AD-%E5%91%B3%E5%85%A8%E9%BE%8D%E5%B0%8F%E7%B7%A8%E7%88%86%E6%96%99-%E5%A5%B3%E5%85%92%E7%9C%8B%E5%88%B0%E7%88%86%E5%93%AD-062328915.html",
+          "title": "NBA運彩分析》10/29 湖人背靠背出賽體能調節避連敗 快艇傷兵成群Garland更顯孤掌難鳴",
+          "url": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1029-%E6%B9%96%E4%BA%BA%E8%83%8C%E9%9D%A0%E8%83%8C%E5%87%BA%E8%B3%BD%E9%AB%94%E8%83%BD%E8%AA%BF%E7%AF%80%E9%81%BF%E9%80%A3%E6%95%97-%E5%BF%AB%E8%89%87%E5%82%B7%E5%85%B5%E6%88%90%E7%BE%A4garland%E6%9B%B4%E9%A1%AF%E5%AD%A4%E6%8E%8C%E9%9B%A3%E9%B3%B4-074211730.html",
           "source": "Yahoo運動"
         },
         {
-          "title": "蔣銲封王剃光頭嚇哭女兒！韓媒關注味全奪冠趣事卻鬧烏龍",
-          "url": "https://sports.ettoday.net/news/3262106",
-          "source": "ETtoday運動雲"
+          "title": "唐西奇為何沒打？砍41分後背部緊繃　湖人教頭無奈：起床全身痠痛",
+          "url": "https://www.nownews.com/news/6887459",
+          "source": "NOWnews今日新聞"
         },
         {
-          "title": "球員拚命老闆卻失言魏應交一句話碎了味全龍封王光環| 關鍵評析",
-          "url": "https://vip.udn.com/vip/story/122367/9838981",
-          "source": "聯合報數位版"
+          "title": "NBA／背部緊繃高掛免戰牌！Luka Doncic缺席洛城內戰 | 民視新聞網",
+          "url": "https://today.line.me/tw/v3/article/2D959QN",
+          "source": "LINE TODAY"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "湖人",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 21:30:00 -0700",
+      "term": "大甲",
+      "traffic_label": "100+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "[流言板]NBA目前场均得分前五：杰罗姆，东契奇，布克，拉文和马克西",
-          "url": "https://bbs.hupu.com/643315930.html",
-          "source": "虎扑体育网"
+          "title": "【藝術文化】台灣國樂團繪本劇場音樂會出《出大甲城》 原著作者Ballboss跨界合作",
+          "url": "https://art.ltn.com.tw/article/paper/1776155",
+          "source": "自由藝文網"
         },
         {
-          "title": "重新崛起的灰熊：新三少展现出惊人的潜力",
-          "url": "https://m.sohu.com/a/1093415309_121921784?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "搜狐网"
+          "title": "《出大甲城》繪本躍上舞台！國樂尬電音、花車重現媽祖遶境",
+          "url": "https://www.rti.org.tw/news?uid=3&pid=240168",
+          "source": "Rti 中央廣播電臺"
         },
         {
-          "title": "灰熊力克国王迎3连胜 杰罗姆31+6 布泽尔16+11",
-          "url": "https://lq.7m.com.cn/news/20261026/282944.shtml",
-          "source": "7M体育"
+          "title": "臺灣國樂團《出大甲城》繪本劇場音樂會媽祖遶境車隊躍上舞臺重現臺灣小鎮人神共處的奇幻時空| 大媒體",
+          "url": "https://today.line.me/tw/v3/article/Nv52nxm",
+          "source": "LINE TODAY"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "加班",
-      "traffic_label": "200+",
-      "published": "Tue, 27 Oct 2026 21:30:00 -0700",
+      "term": "玉晶光",
+      "traffic_label": "500+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "買設備送工程師！ 「設備股股王」驚傳員工過勞遭解雇 公司回應了",
-          "url": "https://fnc.ebc.net.tw/fncnews/headline/221571",
-          "source": "東森電視"
+          "title": "最狂不是南亞！「這檔」90天暴漲559%、玉晶光60天飆197% 20檔注意股一次看",
+          "url": "https://tw.stock.yahoo.com/news/%E6%9C%80%E7%8B%82%E4%B8%8D%E6%98%AF%E5%8D%97%E4%BA%9E-%E9%80%99%E6%AA%94-90%E5%A4%A9%E6%9A%B4%E6%BC%B2559-%E7%8E%89%E6%99%B6%E5%85%8960%E5%A4%A9%E9%A3%86197-20%E6%AA%94%E6%B3%A8%E6%84%8F%E8%82%A1-002000880.html",
+          "source": "Yahoo股市"
         },
         {
-          "title": "「設備股王」遭爆血汗公司！18年員工賣命上班「突發心梗」 竟被逼自願離職",
-          "url": "https://www.mirrordaily.news/story/94215",
-          "source": "鏡報"
+          "title": "焦點股》玉晶光：引資3M題材仍熱 直奔漲停",
+          "url": "https://stock.ltn.com.tw/article/ls0aq9sb93ed",
+          "source": "自由時報"
         },
         {
-          "title": "股王好苛2／2萬底薪拚出鴻勁兆元市值　陰陽班表藏月加班200小時 | 社會 | CTWANT",
-          "url": "https://www.ctwant.com/article/504030/",
-          "source": "CTWANT"
+          "title": "「這股」90日狂飆498% ! 22檔列注意股玉晶光、禾伸堂、聯茂、高力全入列| 財經",
+          "url": "https://newtalk.tw/news/view/2026-10-28/1067867",
+          "source": "Newtalk新聞"
         }
       ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "kospi",
+      "traffic_label": "200+",
+      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Global stock markets rise as investors continue to bet on AI",
+          "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "South Korea's KOSPI Tries to Settle Above 6,000; Foreign Buying Streak Lifts Index to 6,040 Range",
+          "url": "https://finance.biggo.com/news/d1f86bcd-eccf-472a-a4dd-c9324c3122a8",
+          "source": "BigGo Finance"
+        },
+        {
+          "title": "Seoul stocks open tad higher as Fed holds rates ahead of Samsung earnings report",
+          "url": "https://www.koreatimes.co.kr/economy/20261029/seoul-stocks-open-tad-higher-as-fed-holds-rates-ahead-of-samsung-earnings-report",
+          "source": "The Korea Times"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "頎邦",
+      "traffic_label": "100+",
+      "published": "Wed, 28 Oct 2026 18:30:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "驅動 IC 也能卡位 AI 夢：頎邦封裝老本業跨界光通訊，景氣循環股破局之道？",
+          "url": "https://tw.stock.yahoo.com/news/%E9%A9%85%E5%8B%95-ic-%E4%B9%9F%E8%83%BD%E5%8D%A1%E4%BD%8D-ai-%E5%A4%A2-041354234.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "6147 頎邦 - 軟腳站不穩…. - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/186254766",
+          "source": "CMoney"
+        },
+        {
+          "title": "頎邦Q3獲利看增；Q4營運拚持穩| MoneyDJ理財網",
+          "url": "https://today.line.me/tw/v3/article/VxpJjnL",
+          "source": "LINE TODAY"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "聯電",
+      "traffic_label": "5000+",
+      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "加碼32億美元攻矽光子、先進封裝！聯電法說會喊話3年內營收占比衝25% 股價昨反彈4.49%",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8A%A0%E7%A2%BC32%E5%84%84%E7%BE%8E%E5%85%83%E6%94%BB%E7%9F%BD%E5%85%89%E5%AD%90-%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-%E8%81%AF%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E5%96%8A%E8%A9%B13%E5%B9%B4%E5%85%A7%E7%87%9F%E6%94%B6%E5%8D%A0%E6%AF%94%E8%A1%9D25-%E8%82%A1%E5%83%B9%E6%98%A8%E5%8F%8D%E5%BD%884-49-003800939.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "進擊的聯電！追加千億國內外擴產 搶攻矽光子、先進封裝 2027年喊漲10％",
+          "url": "https://www.ctee.com.tw/news/20261029700071-439901",
+          "source": "工商時報"
+        },
+        {
+          "title": "聯電Q3營收、出貨創高；追加32億美元資本支出- 新聞",
+          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3caf6c11-a7b9-44c1-ab47-f3065fe70b9c",
+          "source": "MoneyDJ"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "台達電",
+      "traffic_label": "2000+",
+      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "法說前自爆！ 台達電三率全衰退 阮慕驊揭「小金雞」庫存危機",
+          "url": "https://tw.stock.yahoo.com/news/%E6%B3%95%E8%AA%AA%E5%89%8D%E8%87%AA%E7%88%86-%E5%8F%B0%E9%81%94%E9%9B%BB%E4%B8%89%E7%8E%87%E5%85%A8%E8%A1%B0%E9%80%80-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD-%E5%B0%8F%E9%87%91%E9%9B%9E-%E5%BA%AB%E5%AD%98%E5%8D%B1%E6%A9%9F-010500604.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "台達電（2308）Q3三率全下滑！毛利率跌破35％…阮慕驊揭泰國子公司隱憂| 台股雜談| 股市",
+          "url": "https://udn.com/news/story/12806/9843881",
+          "source": "UDN"
+        },
+        {
+          "title": "千萬別追！台達電跌4成彈40元小摩曝最大軟肋目標價、毛利率「1原因」全砍了- 上市櫃",
+          "url": "https://wantrich.chinatimes.com/news/20261028900130-420101",
+          "source": "旺得富理財網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "3035",
+      "traffic_label": "200+",
+      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "誠美材",
+      "traffic_label": "200+",
+      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
       "source": "google_trends_rss"
     }
   ],
