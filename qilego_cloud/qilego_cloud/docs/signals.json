@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:01:50.834142+00:00",
+  "updated_at": "2026-10-30T02:04:07.093686+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,211 +13,153 @@
   },
   "records": [
     {
-      "term": "康霈",
-      "traffic_label": "100+",
-      "published": "Wed, 28 Oct 2026 18:50:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "健康趨勢加上減重藥普及 海尼根籲英酒吧推無酒精飲品",
-          "url": "https://n.yam.com/Article/20261026338266",
-          "source": "蕃新聞"
-        },
-        {
-          "title": "「減肥藥經濟」連鎖反應：誰是贏家，誰是輸家？",
-          "url": "https://www.moomoo.com/hant/news/post/1002508522",
-          "source": "Moomoo"
-        },
-        {
-          "title": "GLP-1 降血糖藥普及化 藥局成患者照護關鍵角色",
-          "url": "https://sunmedia.tw/news/collaborative/1OQHOQE1th2Jcs9CDRmUHOlSSp0UKk1yg9MoWcgGyQigGLy1kWnlM6ydgyRZcsRl4OVD8y2tLspnVd5ZheTSvWH7vruMCLgkzn1k9xvYPiZBvx8GOiCjSvmTlaAt0I7KjJdLCfABkkEHZOUItvFjjgrnEz",
-          "source": "商傳媒"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "快艇 對 湖人",
-      "traffic_label": "10000+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "NBA運彩分析》10/29 湖人背靠背出賽體能調節避連敗 快艇傷兵成群Garland更顯孤掌難鳴",
-          "url": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1029-%E6%B9%96%E4%BA%BA%E8%83%8C%E9%9D%A0%E8%83%8C%E5%87%BA%E8%B3%BD%E9%AB%94%E8%83%BD%E8%AA%BF%E7%AF%80%E9%81%BF%E9%80%A3%E6%95%97-%E5%BF%AB%E8%89%87%E5%82%B7%E5%85%B5%E6%88%90%E7%BE%A4garland%E6%9B%B4%E9%A1%AF%E5%AD%A4%E6%8E%8C%E9%9B%A3%E9%B3%B4-074211730.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "唐西奇為何沒打？砍41分後背部緊繃　湖人教頭無奈：起床全身痠痛",
-          "url": "https://www.nownews.com/news/6887459",
-          "source": "NOWnews今日新聞"
-        },
-        {
-          "title": "NBA／背部緊繃高掛免戰牌！Luka Doncic缺席洛城內戰 | 民視新聞網",
-          "url": "https://today.line.me/tw/v3/article/2D959QN",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "大甲",
-      "traffic_label": "100+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "【藝術文化】台灣國樂團繪本劇場音樂會出《出大甲城》 原著作者Ballboss跨界合作",
-          "url": "https://art.ltn.com.tw/article/paper/1776155",
-          "source": "自由藝文網"
-        },
-        {
-          "title": "《出大甲城》繪本躍上舞台！國樂尬電音、花車重現媽祖遶境",
-          "url": "https://www.rti.org.tw/news?uid=3&pid=240168",
-          "source": "Rti 中央廣播電臺"
-        },
-        {
-          "title": "臺灣國樂團《出大甲城》繪本劇場音樂會媽祖遶境車隊躍上舞臺重現臺灣小鎮人神共處的奇幻時空| 大媒體",
-          "url": "https://today.line.me/tw/v3/article/Nv52nxm",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "玉晶光",
-      "traffic_label": "500+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "最狂不是南亞！「這檔」90天暴漲559%、玉晶光60天飆197% 20檔注意股一次看",
-          "url": "https://tw.stock.yahoo.com/news/%E6%9C%80%E7%8B%82%E4%B8%8D%E6%98%AF%E5%8D%97%E4%BA%9E-%E9%80%99%E6%AA%94-90%E5%A4%A9%E6%9A%B4%E6%BC%B2559-%E7%8E%89%E6%99%B6%E5%85%8960%E5%A4%A9%E9%A3%86197-20%E6%AA%94%E6%B3%A8%E6%84%8F%E8%82%A1-002000880.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "焦點股》玉晶光：引資3M題材仍熱 直奔漲停",
-          "url": "https://stock.ltn.com.tw/article/ls0aq9sb93ed",
-          "source": "自由時報"
-        },
-        {
-          "title": "「這股」90日狂飆498% ! 22檔列注意股玉晶光、禾伸堂、聯茂、高力全入列| 財經",
-          "url": "https://newtalk.tw/news/view/2026-10-28/1067867",
-          "source": "Newtalk新聞"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "kospi",
-      "traffic_label": "200+",
-      "published": "Wed, 28 Oct 2026 18:40:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Global stock markets rise as investors continue to bet on AI",
-          "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "South Korea's KOSPI Tries to Settle Above 6,000; Foreign Buying Streak Lifts Index to 6,040 Range",
-          "url": "https://finance.biggo.com/news/d1f86bcd-eccf-472a-a4dd-c9324c3122a8",
-          "source": "BigGo Finance"
-        },
-        {
-          "title": "Seoul stocks open tad higher as Fed holds rates ahead of Samsung earnings report",
-          "url": "https://www.koreatimes.co.kr/economy/20261029/seoul-stocks-open-tad-higher-as-fed-holds-rates-ahead-of-samsung-earnings-report",
-          "source": "The Korea Times"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "頎邦",
-      "traffic_label": "100+",
-      "published": "Wed, 28 Oct 2026 18:30:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "驅動 IC 也能卡位 AI 夢：頎邦封裝老本業跨界光通訊，景氣循環股破局之道？",
-          "url": "https://tw.stock.yahoo.com/news/%E9%A9%85%E5%8B%95-ic-%E4%B9%9F%E8%83%BD%E5%8D%A1%E4%BD%8D-ai-%E5%A4%A2-041354234.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "6147 頎邦 - 軟腳站不穩…. - 股市爆料同學會",
-          "url": "https://www.cmoney.tw/forum/article/186254766",
-          "source": "CMoney"
-        },
-        {
-          "title": "頎邦Q3獲利看增；Q4營運拚持穩| MoneyDJ理財網",
-          "url": "https://today.line.me/tw/v3/article/VxpJjnL",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "聯電",
-      "traffic_label": "5000+",
-      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "加碼32億美元攻矽光子、先進封裝！聯電法說會喊話3年內營收占比衝25% 股價昨反彈4.49%",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8A%A0%E7%A2%BC32%E5%84%84%E7%BE%8E%E5%85%83%E6%94%BB%E7%9F%BD%E5%85%89%E5%AD%90-%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-%E8%81%AF%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E5%96%8A%E8%A9%B13%E5%B9%B4%E5%85%A7%E7%87%9F%E6%94%B6%E5%8D%A0%E6%AF%94%E8%A1%9D25-%E8%82%A1%E5%83%B9%E6%98%A8%E5%8F%8D%E5%BD%884-49-003800939.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "進擊的聯電！追加千億國內外擴產 搶攻矽光子、先進封裝 2027年喊漲10％",
-          "url": "https://www.ctee.com.tw/news/20261029700071-439901",
-          "source": "工商時報"
-        },
-        {
-          "title": "聯電Q3營收、出貨創高；追加32億美元資本支出- 新聞",
-          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3caf6c11-a7b9-44c1-ab47-f3065fe70b9c",
-          "source": "MoneyDJ"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台達電",
+      "term": "00878",
       "traffic_label": "2000+",
-      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "旺宏",
+      "traffic_label": "500+",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "法說前自爆！ 台達電三率全衰退 阮慕驊揭「小金雞」庫存危機",
-          "url": "https://tw.stock.yahoo.com/news/%E6%B3%95%E8%AA%AA%E5%89%8D%E8%87%AA%E7%88%86-%E5%8F%B0%E9%81%94%E9%9B%BB%E4%B8%89%E7%8E%87%E5%85%A8%E8%A1%B0%E9%80%80-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD-%E5%B0%8F%E9%87%91%E9%9B%9E-%E5%BA%AB%E5%AD%98%E5%8D%B1%E6%A9%9F-010500604.html",
+          "title": "淡出ROM，旺宏深耕醫療應用- 新聞",
+          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=67d2b2bf-5b03-462f-adb9-4fb9f12e4df0",
+          "source": "MoneyDJ"
+        },
+        {
+          "title": "旺宏Q3獲利創新高、毛利率突破7成！ 吳敏求不追長約 新產能2027下半年到位",
+          "url": "https://money.udn.com/money/story/5612/9845722",
+          "source": "經濟日報"
+        },
+        {
+          "title": "【Hot台股】法說變法會？旺宏翻黑跌逾2%...網哭「價最低牆最厚」 分析師歎：綠色趴趴熊",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%90hot%E5%8F%B0%E8%82%A1%E3%80%91%E6%B3%95%E8%AA%AA%E8%AE%8A%E6%B3%95%E6%9C%83%EF%BC%9F%E6%97%BA%E5%AE%8F%E7%BF%BB%E9%BB%91%E8%B7%8C%E9%80%BE2%E7%B6%B2%E5%93%AD%E3%80%8C%E5%83%B9%E6%9C%80%E4%BD%8E%E7%89%86%E6%9C%80%E5%8E%9A%E3%80%8D-%E5%88%86%E6%9E%90%E5%B8%AB%E6%AD%8E%EF%BC%9A%E7%B6%A0%E8%89%B2%E8%B6%B4%E8%B6%B4%E7%86%8A-032718995.html",
+          "source": "Yahoo股市"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "奧涅卡·奧孔武",
+      "traffic_label": "200+",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Onyeka Okongwu gets the hoop and the harm",
+          "url": "https://www.espn.com/video/clip/_/id/50323518/onyeka-okongwu-gets-hoop-harm",
+          "source": "ESPN"
+        },
+        {
+          "title": "Onyeka Okongwu posts 11/9/1/2/1 line vs. Houston",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-26/onyeka-okongwu-posts-11-9-1-2-1-line-vs-houston",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Onyeka Okongwu News: Hands out seven dimes",
+          "url": "https://www.rotowire.com/basketball/headlines/onyeka-okongwu-news-hands-out-seven-dimes-535522",
+          "source": "RotoWire"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "緯創",
+      "traffic_label": "200+",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "創意",
+      "traffic_label": "100+",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "威剛",
+      "traffic_label": "1000+",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "股市爆料同學會",
+      "traffic_label": "100+",
+      "published": "Thu, 29 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "2303 聯電 - 10/29(四) 投信 - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/187080631",
+          "source": "CMoney"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "聯電股價",
+      "traffic_label": "5000+",
+      "published": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "聯電法說會後摜跌停！蔡明翰揭2大利空：不如買台積電",
+          "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E5%BE%8C%E6%91%9C%E8%B7%8C%E5%81%9C-%E8%94%A1%E6%98%8E%E7%BF%B0%E6%8F%AD2%E5%A4%A7%E5%88%A9%E7%A9%BA-%E4%B8%8D%E5%A6%82%E8%B2%B7%E5%8F%B0%E7%A9%8D%E9%9B%BB-235000482.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "台達電（2308）Q3三率全下滑！毛利率跌破35％…阮慕驊揭泰國子公司隱憂| 台股雜談| 股市",
-          "url": "https://udn.com/news/story/12806/9843881",
+          "title": "聯電跌停能抄底？ 聯發科4000元拉警報 法人曝進退攻略",
+          "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BB%E8%B7%8C%E5%81%9C%E8%83%BD%E6%8A%84%E5%BA%95-%E8%81%AF%E7%99%BC%E7%A7%914000%E5%85%83%E6%8B%89%E8%AD%A6%E5%A0%B1-%E6%B3%95%E4%BA%BA%E6%9B%9D%E9%80%B2%E9%80%80%E6%94%BB%E7%95%A5-000700038.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "聯電怎麼了？外資看法分歧 目標價135至200元",
+          "url": "https://www.ctee.com.tw/news/20261029700848-430201",
+          "source": "工商時報"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00406a",
+      "traffic_label": "2000+",
+      "published": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "南亞科",
+      "traffic_label": "1000+",
+      "published": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "【Hot台股】南亞科漲逾4%後翻黑！網喊「記憶體剩牙科苦撐」分析師示警上檔有壓力",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%90hot%E5%8F%B0%E8%82%A1%E3%80%91%E5%8D%97%E4%BA%9E%E7%A7%91%E6%BC%B2%E9%80%BE4%E5%BE%8C%E7%BF%BB%E9%BB%91%EF%BC%81%E7%B6%B2%E5%96%8A%E3%80%8C%E8%A8%98%E6%86%B6%E9%AB%94%E5%89%A9%E7%89%99%E7%A7%91%E8%8B%A6%E6%92%90%E3%80%8D%E5%88%86%E6%9E%90%E5%B8%AB%E7%A4%BA%E8%AD%A6%E4%B8%8A%E6%AA%94%E6%9C%89%E5%A3%93%E5%8A%9B-032550593.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "南亞科、群聯 四檔放電",
+          "url": "https://udn.com/news/story/7255/9845842",
           "source": "UDN"
         },
         {
-          "title": "千萬別追！台達電跌4成彈40元小摩曝最大軟肋目標價、毛利率「1原因」全砍了- 上市櫃",
-          "url": "https://wantrich.chinatimes.com/news/20261028900130-420101",
-          "source": "旺得富理財網"
+          "title": "目標價給到525元！「這記憶體」EPS狂飆13股本 報價大漲6成＋長約占7成毛利率噴86%",
+          "url": "https://www.ftnn.com.tw/news/591297",
+          "source": "FTNN 新聞網"
         }
       ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "3035",
-      "traffic_label": "200+",
-      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "誠美材",
-      "traffic_label": "200+",
-      "published": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
       "source": "google_trends_rss"
     }
   ],
