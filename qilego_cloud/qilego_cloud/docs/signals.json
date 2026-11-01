@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:02:00.882064+00:00",
+  "updated_at": "2026-11-01T02:08:28.800984+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,227 +13,195 @@
   },
   "records": [
     {
-      "term": "安芬尼·西蒙斯",
+      "term": "拉梅羅·鮑爾",
+      "traffic_label": "100+",
+      "published": "Sat, 31 Oct 2026 18:50:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Spurs will test LaMelo Ball's ability to handle physicality",
+          "url": "https://dunkingwithwolves.com/spurs-will-test-lamelo-ball-s-ability-to-handle-physicality",
+          "source": "Dunking with Wolves"
+        },
+        {
+          "title": "Minnesota Timberwolves duo ‘a match made in heaven’, says former NFL star Robert Griffin III",
+          "url": "https://sports.yahoo.com/articles/minnesota-timberwolves-duo-match-made-143000196.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Lonzo Ball Shouts Out LaMelo's Defense in Trending Post During T-Wolves Win vs. Magic",
+          "url": "https://bleacherreport.com/articles/25519610-lonzo-ball-shouts-out-lamelos-defense-trending-post-during-t-wolves-win-vs-magic",
+          "source": "Bleacher Report"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "賈永婕",
       "traffic_label": "200+",
-      "published": "Fri, 30 Oct 2026 18:50:00 -0700",
+      "published": "Sat, 31 Oct 2026 18:30:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "[流言板]安芬尼-西蒙斯三分9中6砍下20分，詹姆斯三分再中追停步行者",
-          "url": "https://bbs.hupu.com/643410183.html",
-          "source": "虎扑体育网"
+          "title": "台灣同志遊行盛大登場！賈永婕披大型彩虹旗進台北101　揭連夜趕工內幕",
+          "url": "https://stars.udn.com/star/story/10088/9848484",
+          "source": "噓！星聞"
         },
         {
-          "title": "高强度训练计划显现成效，76人新后卫沉寂多场后终恢恢复状态",
-          "url": "https://m.sohu.com/a/1095236646_121908903?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "搜狐网"
+          "title": "賈永婕又有驚人之舉！化身女妖偕老公搭海盜船 101手扶梯變航道",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5625394",
+          "source": "自由娛樂"
         },
         {
-          "title": "需要你的火力！安芬尼·西蒙斯替补27分钟 6记三分轰20分3板！",
-          "url": "https://m.zhibo8.com/news/web/nba/2026-10-29/6ae2a70a4b6d0native.htm",
-          "source": "直播吧"
+          "title": "最瘋董事長！賈永婕夫婦《歌劇魅影》搬上101手扶梯 全網笑翻",
+          "url": "https://news.nextapple.com/entertainment/20261101/7747164734FA59FB42C9E02DA59412A4",
+          "source": "壹蘋新聞網"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "蔡澤俊",
+      "term": "返税",
       "traffic_label": "100+",
-      "published": "Fri, 30 Oct 2026 18:50:00 -0700",
+      "published": "Sat, 31 Oct 2026 18:20:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "高雄長髮男抱著貓「鬼騎車」見警逃逸 一驗陽性反應",
-          "url": "https://www.facebook.com/ETtoday/posts/%E9%AB%98%E9%9B%84%E9%95%B7%E9%AB%AE%E7%94%B7%E6%8A%B1%E8%91%97%E8%B2%93%E9%AC%BC%E9%A8%8E%E8%BB%8A%E8%A6%8B%E8%AD%A6%E9%80%83%E9%80%B8-%E4%B8%80%E9%A9%97%E9%99%BD%E6%80%A7%E5%8F%8D%E6%87%89/1610257431133336/",
-          "source": "Facebook"
-        },
-        {
-          "title": "【23歲買藍寶堅尼爆紅 網紅蔡澤俊驚傳車禍...重傷死亡】 天啊... （#起啵）",
-          "url": "https://www.facebook.com/ETtoday/posts/23%E6%AD%B2%E8%B2%B7%E8%97%8D%E5%AF%B6%E5%A0%85%E5%B0%BC%E7%88%86%E7%B4%85-%E7%B6%B2%E7%B4%85%E8%94%A1%E6%BE%A4%E4%BF%8A%E9%A9%9A%E5%82%B3%E8%BB%8A%E7%A6%8D%E9%87%8D%E5%82%B7%E6%AD%BB%E4%BA%A1%E5%A4%A9%E5%95%8A-%E8%B5%B7%E5%95%B5/1609854377840308/",
-          "source": "Facebook"
-        },
-        {
-          "title": "【泰式風情？】路上突見前方機車乘客頭戴「飯鍋」 原PO：怎麼變安全帽了呢？ 影片授權：Threads／lu_0.3.1.6",
-          "url": "https://www.facebook.com/ETtoday/posts/%E6%B3%B0%E5%BC%8F%E9%A2%A8%E6%83%85%E8%B7%AF%E4%B8%8A%E7%AA%81%E8%A6%8B%E5%89%8D%E6%96%B9%E6%A9%9F%E8%BB%8A%E4%B9%98%E5%AE%A2%E9%A0%AD%E6%88%B4%E9%A3%AF%E9%8D%8B-%E5%8E%9Fpo%E6%80%8E%E9%BA%BC%E8%AE%8A%E5%AE%89%E5%85%A8%E5%B8%BD%E4%BA%86%E5%91%A2%E5%BD%B1%E7%89%87%E6%8E%88%E6%AC%8Athreadslu_0316/1609810777844668/",
-          "source": "Facebook"
-        }
-      ],
+      "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "aj·迪班薩",
+      "term": "花毯節",
       "traffic_label": "100+",
-      "published": "Fri, 30 Oct 2026 18:50:00 -0700",
+      "published": "Sat, 31 Oct 2026 18:20:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "[流言板]迪班萨采访全文：哈登是我的偶像之一，防守他不能贸然掏球",
-          "url": "https://bbs.hupu.com/643418913.html",
-          "source": "虎扑体育网"
-        },
-        {
-          "title": "蒂格：交易AD只留下迪班萨搭配特雷-杨的话，奇才会更强",
-          "url": "https://news.qq.com/rain/a/20261029A072KL00",
-          "source": "QQ News"
-        },
-        {
-          "title": "状元首秀即将来临！奇才宣布迪班萨将于今日复出对阵骑士",
-          "url": "https://m.sohu.com/a/1094838752_121953615?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "搜狐网"
-        }
-      ],
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "11/1活動",
+      "traffic_label": "2000+",
+      "published": "Sat, 31 Oct 2026 18:00:00 -0700",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
       "source": "google_trends_rss"
     },
     {
       "term": "迪恩·韋德",
       "traffic_label": "200+",
-      "published": "Fri, 30 Oct 2026 18:20:00 -0700",
+      "published": "Sat, 31 Oct 2026 17:40:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
+        {
+          "title": "Multiple Sixers stars single out Dean Wade after Cup win over Knicks",
+          "url": "https://sports.yahoo.com/articles/multiple-sixers-stars-single-dean-144817007.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "76ers' Dean Wade: Heading to bench",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/76ers-dean-wade-heading-to-bench/",
+          "source": "CBS Sports"
+        },
         {
           "title": "Sixers to start Maxey, VJ, LeBron, Wade, Embiid",
           "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/sixers-to-start-maxey-vj-lebron-wade-embiid",
           "source": "NBC Sports"
-        },
-        {
-          "title": "Dean Wade News: Will start Friday",
-          "url": "https://www.rotowire.com/basketball/headlines/dean-wade-news-will-start-friday-536858",
-          "source": "RotoWire"
-        },
-        {
-          "title": "76ers' Dean Wade: Will start Friday",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/76ers-dean-wade-will-start-friday/",
-          "source": "CBS Sports"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "台股暴跌千點國安基金發聲與外資拋售最新消息",
-      "traffic_label": "5000+",
-      "published": "Fri, 30 Oct 2026 18:20:00 -0700",
+      "term": "安芬尼·西蒙斯",
+      "traffic_label": "200+",
+      "published": "Sat, 31 Oct 2026 17:40:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "血流成河！台指期夜盤失守4萬5大關了",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5624318",
-          "source": "自由財經"
-        },
-        {
-          "title": "郭哲榮：再跌破4萬點砸幾千萬買0050　點名6檔看好年底反彈",
-          "url": "https://finance.ettoday.net/news/3263745",
-          "source": "ETtoday財經雲"
-        },
-        {
-          "title": "〈美股早盤〉科技股又挨刀！那指重挫逾2%創兩個多月低點 台積電ADR跌逾3%",
-          "url": "https://news.cnyes.com/news/id/6642199",
-          "source": "鉅亨網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "阿明豬心",
-      "traffic_label": "100+",
-      "published": "Fri, 30 Oct 2026 18:20:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "何時再開店？台南阿明豬心冬粉急踩煞車 原定復業又取消饕客心碎了",
-          "url": "https://tw.news.yahoo.com/%E4%BD%95%E6%99%82%E5%86%8D%E9%96%8B%E5%BA%97-%E5%8F%B0%E5%8D%97%E9%98%BF%E6%98%8E%E8%B1%AC%E5%BF%83%E5%86%AC%E7%B2%89%E6%80%A5%E8%B8%A9%E7%85%9E%E8%BB%8A-%E5%8E%9F%E5%AE%9A%E5%BE%A9%E6%A5%AD%E5%8F%88%E5%8F%96%E6%B6%88%E9%A5%95%E5%AE%A2%E5%BF%83%E7%A2%8E%E4%BA%86-060800609.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "阿明豬心冬粉 復業延後",
-          "url": "https://www.cdns.com.tw/articles/1482671",
-          "source": "中華新聞雲／中華日報"
-        },
-        {
-          "title": "撲空！原定27日恢復營業 台南「冬粉名店」再暫停營業 | 華視新聞",
-          "url": "https://today.line.me/tw/v3/article/MLBkKq0",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "勇士 對 湖人",
-      "traffic_label": "5000+",
-      "published": "Fri, 30 Oct 2026 18:10:00 -0700",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "雷迪克：库里会不断拉扯防线考验防守原则 要在油漆区外完成延阻",
-          "url": "https://sports.sina.cn/nba/other/2026-10-31/detail-inixaray1735181.d.html?vt=4",
-          "source": "手机新浪网"
-        },
-        {
-          "title": "[流言板]雷迪克：扎伊尔仍有酸痛，开季赛程密集需谨慎",
-          "url": "https://bbs.hupu.com/643478333.html",
+          "title": "[流言板]西蒙斯采访全文：三分找回节奏，更要在防守端站稳脚跟",
+          "url": "https://bbs.hupu.com/643496116.html",
           "source": "虎扑体育网"
         },
         {
-          "title": "NBA常规赛前瞻：金州勇士VS洛杉矶湖人",
-          "url": "https://lq.7m.com.cn/news/20261030/283169.shtml",
+          "title": "西蒙斯:打出这样的表现不易 队友鼓励我大胆出手",
+          "url": "https://lq.7m.com.cn/news/20261031/283203.shtml",
           "source": "7M体育"
+        },
+        {
+          "title": "恩比德自嘲：我可能干脆不投三分了",
+          "url": "https://m.dongqiudi.com/article/6582879.html",
+          "source": "懂球帝"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "76ers vs knicks",
-      "traffic_label": "100+",
-      "published": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "term": "wnba",
+      "traffic_label": "200+",
+      "published": "Sat, 31 Oct 2026 17:30:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "New York Knicks vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
-          "url": "https://bleacherreport.com/liveblogs/25527369-new-york-knicks-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights",
-          "source": "Bleacher Report"
+          "title": "Angel Reese Trades Basketball Shorts and Sneakers for Capri Pants and Heels at Game 6 of the WNBA Finals",
+          "url": "https://www.marieclaire.com/fashion/celebrity-style/angel-reese-2026-wnba-finals-game-6-capri-pants-gucci-heels-schiaparelli/",
+          "source": "Marie Claire"
         },
         {
-          "title": "Sixers-Knicks: Game Discussion Thread",
-          "url": "https://sports.yahoo.com/articles/sixers-knicks-game-discussion-thread-230000138.html",
-          "source": "Yahoo Sports"
+          "title": "257abcee8a53eb01835e0cdb04aec56d54d722d3ccca8434f95a089f587dbc39",
+          "url": "https://medicinehatnews.com/sports/national-sports/2026/10/29/valkyries-look-to-clinch-first-wnba-title-as-they-take-a-3-2-series-lead-into-game-6-against-dream/attachment/257abcee8a53eb01835e0cdb04aec56d54d722d3ccca8434f95a089f587dbc39/",
+          "source": "Medicine Hat News"
         },
         {
-          "title": "LeBron James Looks to Lead 76ers Against Knicks After Strong Performance",
-          "url": "https://www.yardbarker.com/nba/articles/lebron_james_looks_to_lead_76ers_against_knicks_after_strong_performance/s1_17701_44494877",
-          "source": "Yardbarker"
+          "title": "‘Can’t Call For Attention And Hang Up': ‘Emmanuel Acho Scoffs At Angel Reese’s Protect Black Women Shirt. Calls Game 5 Performance ‘Atrocious’",
+          "url": "https://theshadowleague.com/emmanuel-acho-rips-angel-reese-finals-game-5-caitlin-clark-fans/",
+          "source": "The Shadow League"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "hle",
-      "traffic_label": "100+",
-      "published": "Fri, 30 Oct 2026 17:50:00 -0700",
+      "term": "台中旅展",
+      "traffic_label": "200+",
+      "published": "Sat, 31 Oct 2026 17:30:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "LCP 最後希望破滅！《英雄聯盟》2026 世界大賽CFO 不敵KC、遭到淘汰《League of Legends》",
-          "url": "https://gnn.gamer.com.tw/detail.php?sn=314189",
-          "source": "GNN 新聞網"
-        },
-        {
-          "title": "流量大戰來了！《英雄聯盟》HLE世界賽淘汰G2 下場竟打BLG爭八強名額",
-          "url": "https://tw.news.yahoo.com/%E6%B5%81%E9%87%8F%E5%A4%A7%E6%88%B0%E4%BE%86%E4%BA%86%EF%BC%81%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8Bhle%E4%B8%96%E7%95%8C%E8%B3%BD%E6%B7%98%E6%B1%B0g2-%E4%B8%8B%E5%A0%B4%E7%AB%9F%E6%89%93blg%E7%88%AD%E5%85%AB%E5%BC%B7%E5%90%8D%E9%A1%8D-005454429.html",
+          "title": "台中秋季旅展 主打直飛日本",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%A7%8B%E5%AD%A3%E6%97%85%E5%B1%95-%E4%B8%BB%E6%89%93%E7%9B%B4%E9%A3%9B%E6%97%A5%E6%9C%AC-201000810.html",
           "source": "Yahoo新聞"
         },
         {
-          "title": "《英雄聯盟》Viper開噴BLG隊內溝通失靈，CFO遺憾告別世界大賽",
-          "url": "https://www.4gamers.com.tw/news/detail/82973/kc-tes-qualified-for-the-quarter-finals-2026-worlds",
-          "source": "4Gamers"
+          "title": "ATTA台中國際旅展登場參山處推好湯華府旅行社搶攻平價冬遊| 旅遊",
+          "url": "https://newtalk.tw/news/view/2026-10-30/1068373",
+          "source": "Newtalk新聞"
+        },
+        {
+          "title": "屏東縣參展台中國際旅展 推秋冬活動與「再來一屏」獎助",
+          "url": "https://n.yam.com/Article/20261031588402",
+          "source": "蕃新聞"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "債券",
-      "traffic_label": "200+",
-      "published": "Fri, 30 Oct 2026 17:20:00 -0700",
+      "term": "7-11",
+      "traffic_label": "100+",
+      "published": "Sat, 31 Oct 2026 17:20:00 -0700",
       "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
+      "related_news": [
+        {
+          "title": "7-ELEVEN「咖啡買2送2」6款咖啡優惠10/28起快閃4天！美式、拿鐵、椰香冠軍拿鐵全都有！",
+          "url": "https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g74254904/7-eleven-coffee-1031/",
+          "source": "Cosmopolitan"
+        },
+        {
+          "title": "星巴克買一送一來了！萬聖節限定第二杯也半價 活動只到11／3",
+          "url": "https://tw.news.yahoo.com/%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B2%B7-%E9%80%81-%E4%BE%86%E4%BA%86-%E8%90%AC%E8%81%96%E7%AF%80%E9%99%90%E5%AE%9A%E7%AC%AC%E4%BA%8C%E6%9D%AF%E4%B9%9F%E5%8D%8A%E5%83%B9-%E6%B4%BB%E5%8B%95%E5%8F%AA%E5%88%B011-075300932.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "超商買一送一！全家雪糕泡麵半價　衛生紙買1送2「179元⭢60元」",
+          "url": "https://www.nownews.com/news/6887160",
+          "source": "NOWnews今日新聞"
+        }
+      ],
       "source": "google_trends_rss"
     }
   ],
