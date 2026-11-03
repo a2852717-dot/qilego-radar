@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T10:12:39.129748+08:00",
+  "generated_at": "2026-11-03T10:08:57.703897+08:00",
   "source": "Google Trends TW trending RSS",
   "source_note": "只觀測免費熱門搜尋 RSS，不含蝦皮全站商品銷量、完整商品搜索量、未驗證預測機率。",
-  "history_days": 6,
+  "history_days": 7,
   "today_raw_terms": 10,
   "today_extracted_products": 0,
   "data_status": "ok",
