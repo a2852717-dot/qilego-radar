@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T02:08:57.329665+00:00",
+  "updated_at": "2026-11-04T02:06:39.390326+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,209 +13,161 @@
   },
   "records": [
     {
-      "term": "宋家豪",
+      "term": "寧夏 夜市",
+      "traffic_label": "1000+",
+      "published": "Tue, 3 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "archeage chronicles",
       "traffic_label": "200+",
-      "published": "Mon, 2 Nov 2026 17:50:00 -0800",
+      "published": "Tue, 3 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "日職》宋家豪離開樂天金鷲成自由身 旅日11年無緣成「本土洋將」",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5627337",
-          "source": "自由體育"
+          "title": "XL Announces ArcheAge Chronicles Early Access Start Time & Answers Questions on Cross-Play, Server Transfers, & More",
+          "url": "https://www.mmorpg.com/news/xl-announces-archeage-chronicles-early-access-start-time-and-answers-questions-on-cross-play-server-transfers-and-more-2000139237",
+          "source": "MMORPG.com"
         },
         {
-          "title": "旅日11年仍無緣FA！宋家豪日職366場登板　轉列本土球員再等等",
-          "url": "https://sports.ettoday.net/news/3264594",
-          "source": "ETtoday運動雲"
+          "title": "First Impressions: Is ArcheAge Chronicles the next home for New World players?",
+          "url": "https://massivelyop.com/2026/11/03/first-impressions-is-archeage-chronicles-the-next-home-for-new-world-players/",
+          "source": "Massively Overpowered"
         },
         {
-          "title": "NPB》宋家豪遭樂天金鷲釋出！效力11年生涯399場出賽 正式成為自由球員",
-          "url": "https://tw.sports.yahoo.com/news/npb-%E5%AE%8B%E5%AE%B6%E8%B1%AA%E9%81%AD%E6%A8%82%E5%A4%A9%E9%87%91%E9%B7%B2%E9%87%8B%E5%87%BA-%E6%95%88%E5%8A%9B11%E5%B9%B4%E7%94%9F%E6%B6%AF399%E5%A0%B4%E5%87%BA%E8%B3%BD-%E6%AD%A3%E5%BC%8F%E6%88%90%E7%82%BA%E8%87%AA%E7%94%B1%E7%90%83%E5%93%A1-013437733.html",
-          "source": "Yahoo運動"
+          "title": "Open-world action MMORPG ArcheAge Chronicles launches via Early Access on November 3",
+          "url": "https://www.rpgsite.net/news/21636-open-world-action-mmorpg-archeage-chronicles-launches-via-early-access-on-november-3",
+          "source": "RPG Site"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "meleek thomas",
-      "traffic_label": "100+",
-      "published": "Mon, 2 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Meleek Thomas Third Ball Handler Role Earns Rookie Bigger Minutes",
-          "url": "https://sports.yahoo.com/articles/meleek-thomas-third-ball-handler-180650710.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Washington Wizards vs Cleveland Cavaliers Oct 28, 2026 Game Summary",
-          "url": "https://www.nba.com/game/0022600133?watchLive",
-          "source": "NBA.com"
-        },
-        {
-          "title": "James Harden Sends Message After Cavaliers Rookie’s Breakout NBA Debut",
-          "url": "https://heavy.com/sports/nba/cleveland-cavaliers/james-harden-rookie-message-instagram/",
-          "source": "Heavy.com"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台灣股市",
+      "term": "加權",
       "traffic_label": "200+",
-      "published": "Mon, 2 Nov 2026 17:50:00 -0800",
+      "published": "Tue, 3 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "台股今年狂飆55.81%稱霸全球！他好奇會「跌到4萬還是衝上5萬」 網揭最大隱憂",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%BB%8A%E5%B9%B4%E7%8B%82%E9%A3%8655-81-%E7%A8%B1%E9%9C%B8%E5%85%A8%E7%90%83-%E4%BB%96%E5%A5%BD%E5%A5%87%E6%9C%83-%E8%B7%8C%E5%88%B04%E8%90%AC%E9%82%84%E6%98%AF%E8%A1%9D%E4%B8%8A5%E8%90%AC-044800806.html",
+          "title": "台股崩1612點打回4萬3！國家隊撒27億搶進0050 反手掃貨「瑤池金母」2.1萬張",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A91612%E9%BB%9E%E6%89%93%E5%9B%9E4%E8%90%AC3-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E6%92%9227%E5%84%84%E6%90%B6%E9%80%B20050-%E5%8F%8D%E6%89%8B%E6%8E%83%E8%B2%A8-%E7%91%A4%E6%B1%A0%E9%87%91%E6%AF%8D-2-001000273.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "14檔股票基金 三年漲三倍",
-          "url": "https://udn.com/news/story/10103/9850611",
-          "source": "UDN"
+          "title": "1104台股盤前｜加權長黑破半年線、櫃買暴跌失守年線！外資提款破千億宣洩恐慌，急跌抄底鎖定地板股【禾伸堂】、【志聖】、【信邦】",
+          "url": "https://news.cnyes.com/news/id/6645293",
+          "source": "鉅亨網"
         },
         {
-          "title": "最強亞股！台股挺過亂流 前10個月累計漲56.1％",
-          "url": "https://stock.ltn.com.tw/article/ppnhjgyed5ru",
-          "source": "自由時報"
+          "title": "外資千億大逃殺16檔倖存- 日報",
+          "url": "https://www.ctee.com.tw/news/20261104700211-439901",
+          "source": "工商時報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "林得恩",
-      "traffic_label": "100+",
-      "published": "Mon, 2 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "今年每3個颱風就有1強颱 專家曝強聖嬰年颱風活躍原因",
-          "url": "https://udn.com/news/story/7266/9853246",
-          "source": "UDN"
-        },
-        {
-          "title": "超級聖嬰釀乾旱洪災全球銀行業重評貸款防呆帳- 財經新聞",
-          "url": "https://news.pchome.com.tw/finance/sunmedia/20261102/index-79359718080343329003.html",
-          "source": "PChome Online 新聞"
-        },
-        {
-          "title": "天氣／恐有新颱風大迴轉？最新路徑曝 專家揭今年「強颱警訊」",
-          "url": "https://news.tvbs.com.tw/life/4044944",
-          "source": "TVBS新聞網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "虎航",
-      "traffic_label": "500+",
-      "published": "Mon, 2 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "台灣虎航第2波夏季航班1599元起上午10時開賣 預告ITF旅展全航線999元",
-          "url": "https://udn.com/news/story/7270/9853277",
-          "source": "UDN"
-        },
-        {
-          "title": "虎航、樂桃今天都機票促銷！單程1505元起　36+4條航線、訂法一覽",
-          "url": "https://www.nownews.com/news/6887723",
-          "source": "NOWnews今日新聞"
-        },
-        {
-          "title": "ITF台灣國際旅展11/6-9舉行 進場體驗環遊世界樂趣",
-          "url": "https://art.ltn.com.tw/article/breakingnews/5627060",
-          "source": "自由藝文網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "adam robinson",
+      "term": "台幣匯率",
       "traffic_label": "1000+",
-      "published": "Mon, 2 Nov 2026 17:40:00 -0800",
+      "published": "Tue, 3 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
-          "url": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
-          "source": "The New York Times"
+          "title": "台股反彈沒用 新台幣再貶逾1角破32.8元",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8F%8D%E5%BD%88%E6%B2%92%E7%94%A8-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%86%8D%E8%B2%B6%E9%80%BE1%E8%A7%92%E7%A0%B432-8%E5%85%83-013615650.html",
+          "source": "Yahoo股市"
         },
         {
-          "title": "Florida plane crash. Brother, 4, and sister, 2, among the victims",
-          "url": "https://www.palmbeachpost.com/story/news/local/lakeworth/2026/11/02/learjet-plane-crash-cause-investigation-live-updates-what-happened-monday--live/92560334007/",
-          "source": "The Palm Beach Post"
+          "title": "台幣爆史上第四大量…重貶 1.68 角 最快今日測試 33 關",
+          "url": "https://udn.com/news/story/7239/9855447",
+          "source": "UDN"
         },
         {
-          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-          "url": "https://www.bbc.com/news/articles/cm369yy7lw73o",
-          "source": "BBC"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "中華職棒37年",
-      "traffic_label": "500+",
-      "published": "Mon, 2 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "光通訊",
-      "traffic_label": "2000+",
-      "published": "Mon, 2 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "1,150億美元！邁威爾併 Lumentum 今年全球規模最大的企業收購案",
-          "url": "https://money.udn.com/money/story/11162/9853065",
-          "source": "經濟日報"
-        },
-        {
-          "title": "《DJ在線》Marvell併Lumentum，獨立光學供應鏈受矚- 新聞",
-          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=57db6052-1681-4f18-9506-ae6572c607c1",
+          "title": "投資觀點-新台幣匯率33元受惠股",
+          "url": "https://www.moneydj.com/Z/ZD/ZDE/ZDEZ/ZDEZ.djhtm?a=%7BC4AEC47E-DC5D-4520-8518-4948A96A4EEE%7D",
           "source": "MoneyDJ"
-        },
-        {
-          "title": "真的成了！Marvell 宣布以股票交易方式收購光通訊龍頭 Lumentum",
-          "url": "https://technews.tw/2026/11/02/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity/",
-          "source": "TechNews 科技新報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "台玻",
-      "traffic_label": "500+",
-      "published": "Mon, 2 Nov 2026 17:20:00 -0800",
+      "term": "2026 us election results",
+      "traffic_label": "1000+",
+      "published": "Tue, 3 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "U.S. House Midterm Election Live Results 2026",
+          "url": "https://www.nbcnews.com/politics/2026-elections/house-results",
+          "source": "NBC News"
+        },
+        {
+          "title": "Midterm Election Results (Live Updates): First Races Called",
+          "url": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-first-races-called/",
+          "source": "Forbes"
+        },
+        {
+          "title": "2026 Midterm Elections Live Updates: Democrats Win Senate Races in Georgia and North Carolina",
+          "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
+          "source": "The New York Times"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "2890",
+      "traffic_label": "100+",
+      "published": "Tue, 3 Nov 2026 17:20:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "戰鬥機",
+      "term": "環球晶",
+      "traffic_label": "1000+",
+      "published": "Tue, 3 Nov 2026 17:10:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "工資",
       "traffic_label": "200+",
-      "published": "Mon, 2 Nov 2026 17:10:00 -0800",
+      "published": "Tue, 3 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "易斯達航空",
+      "traffic_label": "200+",
+      "published": "Tue, 3 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "日本股市",
+      "traffic_label": "500+",
+      "published": "Tue, 3 Nov 2026 17:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "美空軍規劃2035年戰鬥機機隊",
-          "url": "https://hk.crntt.com/doc/7_0_107249500_1_1031060014.html",
-          "source": "中國評論新聞"
+          "title": "韓股大反攻！指數飆逾3％ 重返5800點",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5628562",
+          "source": "自由財經"
         },
         {
-          "title": "【馬克時空】B-21的最新發現",
-          "url": "https://www.ntdtv.com/b5/2026/10/27/a104145710.html",
-          "source": "新唐人電視台"
+          "title": "韓股殺逾3%！SK海力士跌4.5%　日股休市逃過一劫",
+          "url": "https://finance.ettoday.net/news/3265269",
+          "source": "ETtoday財經雲"
         },
         {
-          "title": "美空軍後勤體系調整成效有限",
-          "url": "https://www.crntt.tw/doc/docDetail.jsp?coluid=4&kindid=0&docid=107248091",
-          "source": "台灣中評網"
+          "title": "Bitget IPO Prime即將上線Anthropic IPO認購，開放VIP優先認購通道",
+          "url": "https://news.cnyes.com/news/id/6645508",
+          "source": "鉅亨網"
         }
       ],
       "source": "google_trends_rss"
