@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T02:06:39.390326+00:00",
+  "updated_at": "2026-11-05T02:19:18.220002+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,161 +13,209 @@
   },
   "records": [
     {
-      "term": "寧夏 夜市",
-      "traffic_label": "1000+",
-      "published": "Tue, 3 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "archeage chronicles",
+      "term": "肯里奇·威廉斯",
       "traffic_label": "200+",
-      "published": "Tue, 3 Nov 2026 17:50:00 -0800",
+      "published": "Wed, 4 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "XL Announces ArcheAge Chronicles Early Access Start Time & Answers Questions on Cross-Play, Server Transfers, & More",
-          "url": "https://www.mmorpg.com/news/xl-announces-archeage-chronicles-early-access-start-time-and-answers-questions-on-cross-play-server-transfers-and-more-2000139237",
-          "source": "MMORPG.com"
+          "title": "[流言板]亚历山大：过去一周情绪起伏很大，我需要尽快调整个人状态",
+          "url": "https://bbs.hupu.com/643585229.html",
+          "source": "虎扑体育网"
         },
         {
-          "title": "First Impressions: Is ArcheAge Chronicles the next home for New World players?",
-          "url": "https://massivelyop.com/2026/11/03/first-impressions-is-archeage-chronicles-the-next-home-for-new-world-players/",
-          "source": "Massively Overpowered"
+          "title": "骑士112-117惜败雷霆：球员表现评析，2人出色，3人合格，5人低迷",
+          "url": "https://m.sohu.com/a/1096940259_121922756?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "搜狐网"
         },
         {
-          "title": "Open-world action MMORPG ArcheAge Chronicles launches via Early Access on November 3",
-          "url": "https://www.rpgsite.net/news/21636-open-world-action-mmorpg-archeage-chronicles-launches-via-early-access-on-november-3",
-          "source": "RPG Site"
+          "title": "[流言板]美媒：哈登的最佳状态是掌控球权主导进攻，骑士没正确用他",
+          "url": "https://bbs.hupu.com/643581366.html",
+          "source": "虎扑体育网"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "加權",
-      "traffic_label": "200+",
-      "published": "Tue, 3 Nov 2026 17:50:00 -0800",
+      "term": "國安基金進場了嗎",
+      "traffic_label": "2000+",
+      "published": "Wed, 4 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "台股崩1612點打回4萬3！國家隊撒27億搶進0050 反手掃貨「瑤池金母」2.1萬張",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A91612%E9%BB%9E%E6%89%93%E5%9B%9E4%E8%90%AC3-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E6%92%9227%E5%84%84%E6%90%B6%E9%80%B20050-%E5%8F%8D%E6%89%8B%E6%8E%83%E8%B2%A8-%E7%91%A4%E6%B1%A0%E9%87%91%E6%AF%8D-2-001000273.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "1104台股盤前｜加權長黑破半年線、櫃買暴跌失守年線！外資提款破千億宣洩恐慌，急跌抄底鎖定地板股【禾伸堂】、【志聖】、【信邦】",
-          "url": "https://news.cnyes.com/news/id/6645293",
-          "source": "鉅亨網"
-        },
-        {
-          "title": "外資千億大逃殺16檔倖存- 日報",
-          "url": "https://www.ctee.com.tw/news/20261104700211-439901",
+          "title": "台股42K保衛戰開打！權值、千金股齊挫玉山金等金融股逆勢上揚- 證券",
+          "url": "https://www.ctee.com.tw/news/20261105700621-430201",
           "source": "工商時報"
+        },
+        {
+          "title": "台股盤中重挫逾千點！最低下探41866點 台達電、國巨遭血洗",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%87%8D%E6%8C%AB%E9%80%BE%E5%8D%83%E9%BB%9E-%E6%9C%80%E4%BD%8E%E4%B8%8B%E6%8E%A241866%E9%BB%9E-%E5%8F%B0%E9%81%94%E9%9B%BB-%E5%9C%8B%E5%B7%A8%E9%81%AD%E8%A1%80%E6%B4%97-013304144.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "血洗1600點「該逃命or撿便宜」？ 專家曝3關鍵：別恐慌交易",
+          "url": "https://fnc.ebc.net.tw/fncnews/stock/222032",
+          "source": "東森電視"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "台幣匯率",
-      "traffic_label": "1000+",
-      "published": "Tue, 3 Nov 2026 17:40:00 -0800",
+      "term": "股市大跌",
+      "traffic_label": "10000+",
+      "published": "Wed, 4 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "台股反彈沒用 新台幣再貶逾1角破32.8元",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8F%8D%E5%BD%88%E6%B2%92%E7%94%A8-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%86%8D%E8%B2%B6%E9%80%BE1%E8%A7%92%E7%A0%B432-8%E5%85%83-013615650.html",
+          "title": "原以為會大逃殺！ 融資僅減84億 專家驚：口袋到底有多深",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8E%9F%E4%BB%A5%E7%82%BA%E6%9C%83%E5%A4%A7%E9%80%83%E6%AE%BA-%E8%9E%8D%E8%B3%87%E5%83%85%E6%B8%9B84%E5%84%84-%E5%B0%88%E5%AE%B6%E9%A9%9A-%E5%8F%A3%E8%A2%8B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%B7%B1-004900417.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "台幣爆史上第四大量…重貶 1.68 角 最快今日測試 33 關",
-          "url": "https://udn.com/news/story/7239/9855447",
-          "source": "UDN"
-        },
-        {
-          "title": "投資觀點-新台幣匯率33元受惠股",
-          "url": "https://www.moneydj.com/Z/ZD/ZDE/ZDEZ/ZDEZ.djhtm?a=%7BC4AEC47E-DC5D-4520-8518-4948A96A4EEE%7D",
-          "source": "MoneyDJ"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "2026 us election results",
-      "traffic_label": "1000+",
-      "published": "Tue, 3 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "U.S. House Midterm Election Live Results 2026",
-          "url": "https://www.nbcnews.com/politics/2026-elections/house-results",
-          "source": "NBC News"
-        },
-        {
-          "title": "Midterm Election Results (Live Updates): First Races Called",
-          "url": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-first-races-called/",
-          "source": "Forbes"
-        },
-        {
-          "title": "2026 Midterm Elections Live Updates: Democrats Win Senate Races in Georgia and North Carolina",
-          "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
-          "source": "The New York Times"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "2890",
-      "traffic_label": "100+",
-      "published": "Tue, 3 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "環球晶",
-      "traffic_label": "1000+",
-      "published": "Tue, 3 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "工資",
-      "traffic_label": "200+",
-      "published": "Tue, 3 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "易斯達航空",
-      "traffic_label": "200+",
-      "published": "Tue, 3 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "日本股市",
-      "traffic_label": "500+",
-      "published": "Tue, 3 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "韓股大反攻！指數飆逾3％ 重返5800點",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5628562",
+          "title": "跌破眼鏡！融資追繳沒有萬箭齊發 昨日追繳戶數還比前日減少",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5629877",
           "source": "自由財經"
         },
         {
-          "title": "韓股殺逾3%！SK海力士跌4.5%　日股休市逃過一劫",
-          "url": "https://finance.ettoday.net/news/3265269",
-          "source": "ETtoday財經雲"
+          "title": "融資餘額摔落6千億9/21來首見！國巨、台達電、聯電…高點下殺打超過對折，股民哀：雙11沒到先破盤",
+          "url": "https://www.businesstoday.com.tw/article/category/183008/post/202611030046/",
+          "source": "今周刊"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "taiex",
+      "traffic_label": "100+",
+      "published": "Wed, 4 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "TAIEX swings nearly 1,900 points",
+          "url": "https://www.taiwannews.com.tw/en/news/6472079",
+          "source": "Taiwan News"
         },
         {
-          "title": "Bitget IPO Prime即將上線Anthropic IPO認購，開放VIP優先認購通道",
-          "url": "https://news.cnyes.com/news/id/6645508",
+          "title": "Shares down slightly but stable",
+          "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/05/2003867163",
+          "source": "Taipei Times"
+        },
+        {
+          "title": "Taiwan Stocks Heads for Correction as Global AI Selloff Deepens",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "馬刺 對 獨行俠",
+      "traffic_label": "500+",
+      "published": "Wed, 4 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Game Preview: San Antonio Spurs vs. Dallas Mavericks",
+          "url": "https://www.poundingtherock.com/spurs-game-previews/109371/game-preview-san-antonio-spurs-vs-dallas-mavericks",
+          "source": "Pounding The Rock"
+        },
+        {
+          "title": "Mavericks vs. Spurs odds, picks, prediction, start time: Use Kalshi promo code CBSSPORTS55 for $55 bonus",
+          "url": "https://www.cbssports.com/prediction/news/mavericks-vs-spurs-odds-picks-prediction-start-time-use-kalshi-promo-code-cbssports55-for-55-bonus/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Spurs vs. Mavericks GAMEDAY: Betting Lines, Injuries, and How to Watch",
+          "url": "https://sports.yahoo.com/articles/spurs-vs-mavericks-gameday-betting-143556841.html",
+          "source": "Yahoo Sports"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "捷運桃園機場線",
+      "traffic_label": "200+",
+      "published": "Wed, 4 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00981a",
+      "traffic_label": "1000+",
+      "published": "Wed, 4 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "鐵路車站",
+      "traffic_label": "100+",
+      "published": "Wed, 4 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "圖解》台鐵有車站一天不到2人次進出！全台最冷清10站出爐，第一名「至今不廢站」 原因曝光",
+          "url": "https://www.storm.mg/lifestyle/11178108",
+          "source": "風傳媒"
+        },
+        {
+          "title": "台灣「最廢高鐵站」出爐是它！整年沒100萬人搭　乘客公認浪費錢",
+          "url": "https://www.nownews.com/news/6886727",
+          "source": "NOWnews今日新聞"
+        },
+        {
+          "title": "高鐵前9月載客破6千萬人次！台北居冠、嘉義成長最猛 為什麼全台僅「這站」沒破百萬？",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%89%8D9%E6%9C%88%E8%BC%89%E5%AE%A2%E7%A0%B46%E5%8D%83%E8%90%AC%E4%BA%BA%E6%AC%A1-%E5%8F%B0%E5%8C%97%E5%B1%85%E5%86%A0-%E5%98%89%E7%BE%A9%E6%88%90%E9%95%B7%E6%9C%80%E7%8C%9B-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%85%A8%E5%8F%B0%E5%83%85-%E9%80%99%E7%AB%99-141953494.html",
+          "source": "Yahoo新聞"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "0050",
+      "traffic_label": "10000+",
+      "published": "Wed, 4 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "0050跌破百元！手握200萬想進場 他猶豫「改買正2」 內行建議：放越久贏面越大",
+          "url": "https://tw.stock.yahoo.com/news/0050%E8%B7%8C%E7%A0%B4%E7%99%BE%E5%85%83-%E6%89%8B%E6%8F%A1200%E8%90%AC%E6%83%B3%E9%80%B2%E5%A0%B4-%E4%BB%96%E7%8C%B6%E8%B1%AB-%E6%94%B9%E8%B2%B7%E6%AD%A32-%E5%85%A7%E8%A1%8C%E5%BB%BA%E8%AD%B0-221500335.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "0050存股族糾結賣點 網曝：有「這些需求」再考慮賣股",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5629262",
+          "source": "自由財經"
+        },
+        {
+          "title": "台股洗盤震盪！0050能逢低布局嗎？市值型、高股息ETF與正投資指南",
+          "url": "https://news.cnyes.com/news/id/6646353",
           "source": "鉅亨網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "健策",
+      "traffic_label": "100+",
+      "published": "Wed, 4 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "輝達Rubin液冷商機升溫！奇鋐、雙鴻、健策、富世達等台廠受惠- 日報",
+          "url": "https://www.ctee.com.tw/news/20261102700069-439901",
+          "source": "工商時報"
+        },
+        {
+          "title": "【10:34 即時新聞】聯德控股-KY(4912)股價走強，AI水冷題材成盤中焦點",
+          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-4a70675a-d7f8-11f1-a81c-184f23a2819f",
+          "source": "CMoney投資網誌"
+        },
+        {
+          "title": "國盛證券：算力放量驅動液冷起勢 國產供應商話語權加速提升 作者 智通財經",
+          "url": "https://hk.investing.com/news/stock-market-news/article-1737400",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞"
         }
       ],
       "source": "google_trends_rss"
