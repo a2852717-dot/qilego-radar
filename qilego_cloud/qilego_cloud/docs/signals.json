@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:12:21.113084+00:00",
+  "updated_at": "2026-11-09T02:18:01.852359+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,193 +13,193 @@
   },
   "records": [
     {
-      "term": "warriors vs magic",
-      "traffic_label": "200+",
-      "published": "Sat, 7 Nov 2026 18:00:00 -0800",
+      "term": "00949",
+      "traffic_label": "100+",
+      "published": "Sun, 8 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "michelle",
+      "traffic_label": "100+",
+      "published": "Sun, 8 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "Final Injury Report for Magic-Warriors: Will Draymond Green, Jalen Suggs Play?",
-          "url": "https://sports.yahoo.com/articles/final-injury-report-magic-warriors-213000002.html",
-          "source": "Yahoo Sports"
+          "title": "Comedian says Amy Schumer took credit for jokes used by Kim Kardashian on ‘SNL’",
+          "url": "https://ew.com/michelle-wolf-says-amy-schumer-took-credit-jokes-kim-kardashian-snl-monologue-12243806",
+          "source": "Entertainment Weekly"
         },
         {
-          "title": "Orlando Magic at Golden State Warriors: Game Preview",
-          "url": "https://orlandomagic.com/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107",
-          "source": "NBA.com"
+          "title": "Comedian says Amy Schumer took credit for jokes used by Kim Kardashian on ‘SNL’",
+          "url": "https://twaslnews1.twaslnews.com/7346856/",
+          "source": "شبكة تواصل الإخبارية"
         },
         {
-          "title": "[Free] *Orlando Magic vs Golden State Warriors Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON NBA Free Tv Game",
-          "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2166413",
-          "source": "Powell River Peak"
+          "title": "Lydia Ko smacks drives through cave and over temple in new WTGL event in Florida",
+          "url": "https://www.stuff.co.nz/sport/361056831/lydia-ko-smacks-drives-through-cave-and-temple-new-wtgl-event-florida",
+          "source": "Stuff"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "彭双浪",
-      "traffic_label": "100+",
-      "published": "Sat, 7 Nov 2026 17:40:00 -0800",
+      "term": "0056股價",
+      "traffic_label": "1000+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "友達跨入CPO 市場期待跑太快？ 轉型成敗看三大關卡- 產業",
-          "url": "https://www.ctee.com.tw/news/20261108700011-430502",
-          "source": "工商時報"
-        },
-        {
-          "title": "面板雙虎開盤一度雙跌停！友達、群創能撿便宜？分析師：仍可分批布局",
-          "url": "https://tw.stock.yahoo.com/news/%E9%9D%A2%E6%9D%BF%E9%9B%99%E8%99%8E%E9%96%8B%E7%9B%A4%E4%B8%80%E5%BA%A6%E9%9B%99%E8%B7%8C%E5%81%9C%EF%BC%81%E5%8F%8B%E9%81%94%E3%80%81%E7%BE%A4%E5%89%B5%E8%83%BD%E6%92%BF%E4%BE%BF%E5%AE%9C%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%BB%8D%E5%8F%AF%E5%88%86%E6%89%B9%E5%B8%83%E5%B1%80-014901359.html",
+          "title": "177萬股東慌了！0056百分百填息神話恐破滅 股價摔破50元「2大關鍵」拚填息勝率",
+          "url": "https://tw.stock.yahoo.com/news/177%E8%90%AC%E8%82%A1%E6%9D%B1%E6%85%8C%E4%BA%86-0056%E7%99%BE%E5%88%86%E7%99%BE%E5%A1%AB%E6%81%AF%E7%A5%9E%E8%A9%B1%E6%81%90%E7%A0%B4%E6%BB%85-%E8%82%A1%E5%83%B9%E6%91%94%E7%A0%B450%E5%85%83-2%E5%A4%A7%E9%97%9C%E9%8D%B5-%E6%8B%9A%E5%A1%AB%E6%81%AF%E5%8B%9D%E7%8E%87-072100137.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "197億元賣廠案告吹！友達慘摔34％ 「2字頭」能撿？金控投顧說話了最新目標價、評等1次看- 上市櫃",
-          "url": "https://wantrich.chinatimes.com/news/20261104900072-420101",
+          "title": "零貼息紀錄掰？0056殺破50元關鍵找到了內行「2點」挺：175萬股東不用慌- 基金",
+          "url": "https://wantrich.chinatimes.com/news/20261107900004-420401",
           "source": "旺得富理財網"
+        },
+        {
+          "title": "0056 元大高股息- 0056安心存股的好標的💎💎💎 - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/187872875",
+          "source": "CMoney"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "謝祖武",
-      "traffic_label": "100+",
-      "published": "Sat, 7 Nov 2026 17:30:00 -0800",
+      "term": "台幣",
+      "traffic_label": "200+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "英特爾",
+      "term": "欣興",
       "traffic_label": "500+",
-      "published": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "信驊股價",
+      "traffic_label": "200+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "伺服器賣到缺貨、PC 卻沒人要買？英特爾財報曝兩極化現況，受零組件漲價拖累換機潮恐再延後",
-          "url": "https://www.techbang.com/posts/134564-intel-server-cpu-shortage-shipments-revenue-growth",
-          "source": "T客邦"
+          "title": "信驊10月績昂24% 連12個月攻頂| 經濟日報",
+          "url": "https://today.line.me/tw/v3/article/PGzeWYl",
+          "source": "LINE TODAY"
         },
         {
-          "title": "Intel股價月崩50% 陳立武逆勢砸近千萬美元買股",
-          "url": "https://www.ttv.com.tw/finance/view/112026051153C43C9965B2814AC89F3DD3A85C4FCF8B934F/587",
+          "title": "股王信驊慘遭外資「連11賣」狠倒貨 今再跌停摜破1萬2",
+          "url": "https://tech.tvbs.com.tw/money/4046740",
+          "source": "TVBS"
+        },
+        {
+          "title": "目標價慘遭大調降！「這伺服器管理晶片廠」EPS預估最多下降12% 外資喊後市大重點：AI產能是關鍵",
+          "url": "https://www.ftnn.com.tw/news/593625",
+          "source": "FTNN 新聞網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "台達電股價",
+      "traffic_label": "1000+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "台達電71萬股東嗨！近3萬人上周勇敢抄底 今漲停每張大賺10.5萬元",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%81%94%E9%9B%BB71%E8%90%AC%E8%82%A1%E6%9D%B1%E5%97%A8%EF%BC%81%E8%BF%913%E8%90%AC%E4%BA%BA%E4%B8%8A%E5%91%A8%E5%8B%87%E6%95%A2%E6%8A%84%E5%BA%95-%E4%BB%8A%E6%BC%B2%E5%81%9C%E6%AF%8F%E5%BC%B5%E5%A4%A7%E8%B3%BA105%E8%90%AC%E5%85%83-013453435.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "焦點股》台達電：跌深就是利多 來電漲停",
+          "url": "https://stock.ltn.com.tw/article/hckcf5qd5uu7",
+          "source": "自由時報"
+        },
+        {
+          "title": "不是說缺電？台達電股價卻腰斬！市場究竟在擔心什麼？",
+          "url": "https://www.ctee.com.tw/news/20261108700012-430502",
+          "source": "工商時報"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "加權",
+      "traffic_label": "200+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "史上第二大漲點！記憶體族群全數起飛 「它」卻掉隊急殺2.4%",
+          "url": "https://inews.setn.com/news/1935839",
+          "source": "三立新聞網SETN.com"
+        },
+        {
+          "title": "盤中速報 - 集中市場加權指數上漲1620.16點至41321.8點，漲幅4.08%｜新聞快訊｜豐雲學堂",
+          "url": "https://www.sinotrade.com.tw/richclub/news/6af1221b36ff4992b13f4625",
+          "source": "永豐金證券"
+        },
+        {
+          "title": "【11/09 產業即時新聞】電子上游-記憶體IC設計族群飆漲8.85%：報價回溫點火，群聯強勢亮燈",
+          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-29936fea-dbdd-11f1-a7ad-c51de6cad23d",
+          "source": "CMoney投資網誌"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "智邦",
+      "traffic_label": "100+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "營收越旺、股價卻摔了！「這檔網通股」10月營收衝446億元創新高新品出貨添Q4動能有望再寫高",
+          "url": "https://tw.stock.yahoo.com/news/%E7%87%9F%E6%94%B6%E8%B6%8A%E6%97%BA-%E8%82%A1%E5%83%B9%E5%8D%BB%E6%91%94%E4%BA%86-%E9%80%99%E6%AA%94%E7%B6%B2%E9%80%9A%E8%82%A1-10%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%9D446%E5%84%84%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-%E6%96%B0%E5%93%81%E5%87%BA%E8%B2%A8%E6%B7%BBq4%E5%8B%95%E8%83%BD%E6%9C%89%E6%9C%9B%E5%86%8D%E5%AF%AB%E9%AB%98-153000953.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "焦點股》智邦: 10月營收井噴 火速攻漲停",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5634120",
+          "source": "自由財經"
+        },
+        {
+          "title": "無視AI緩建逆風　智邦10月營收飆446億新高　AI機櫃代工將添成長新柴火",
+          "url": "https://www.mirrormedia.mg/external/mirrordaily_96201/",
+          "source": "鏡週刊Mirror Media"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "奇鋐",
+      "traffic_label": "100+",
+      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "奇鋐10月營收月增5.2%",
+          "url": "https://finance.technews.tw/2026/11/08/avc-3017-202610-financial-report/",
+          "source": "TechNews 科技新報"
+        },
+        {
+          "title": "奇鋐10月營收年增逾三成 連四個月創新高",
+          "url": "https://www.ttv.com.tw/finance/view/11202609075276C100D93CC14368B5C0A3893D97AC32E443/587",
           "source": "台視全球資訊網"
         },
         {
-          "title": "半世紀史詩崩跌！英特爾敲響晶片股警鐘 5星分析師下調輝達目標價 | TVBS",
-          "url": "https://today.line.me/tw/v3/article/j7pvKzr",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "u23 世界盃棒球錦標賽",
-      "traffic_label": "200+",
-      "published": "Sat, 7 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Close games and emotions: WBSC U-23 Baseball World Cup Day 1 had it all",
-          "url": "https://www.wbsc.org/en/events/2026-vi-wbsc-u-23-baseball-world-cup/news/wbsc-u-23-baseball-world-cup-2026-day-1-live-blog",
-          "source": "World Baseball Softball Confederation (WBSC)"
-        },
-        {
-          "title": "Baseball | Czechia U23 vs. Panama U23",
-          "url": "https://www.dazn.com/en-US/fixture/ContentId:19px964e14pfo1xt5yw52va928/19px964e14pfo1xt5yw52va928",
-          "source": "DAZN"
-        },
-        {
-          "title": "Baseball's Will Kraemer Represents Great Britain at WBSC U-23 Baseball World Cup",
-          "url": "https://pepperdinewaves.com/news/2026/11/4/baseballs-will-kraemer-represents-great-britain-at-wbsc-u-23-baseball-world-cup",
-          "source": "Pepperdine University Athletics"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "勇士 對 魔術",
-      "traffic_label": "2000+",
-      "published": "Sat, 7 Nov 2026 16:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "雷霆 對 巫師",
-      "traffic_label": "500+",
-      "published": "Sat, 7 Nov 2026 16:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Wizards vs. Thunder: Live updates, highlights for Saturday's game",
-          "url": "https://sports.yahoo.com/articles/wizards-vs-thunder-live-updates-000030896.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Washington Wizards @ Oklahoma City Thunder Odds",
-          "url": "https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-oklahoma-city-thunder-36282777",
-          "source": "FanDuel Sportsbook"
-        },
-        {
-          "title": "Preview: The Wizards face the Thunder on Saturday",
-          "url": "https://www.bulletsforever.com/washington-wizards-preview/73899/washington-wizards-oklahoma-city-thunder-nba-game-preview",
-          "source": "Bullets Forever"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "檢察官",
-      "traffic_label": "200+",
-      "published": "Sat, 7 Nov 2026 16:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "檢察官AI助理年底試辦 省時三成",
-          "url": "https://udn.com/news/story/7321/9864332",
-          "source": "UDN"
-        },
-        {
-          "title": "安全優先 法務部「三層蛋糕」自建AI",
-          "url": "https://udn.com/news/story/7321/9864334",
-          "source": "UDN"
-        },
-        {
-          "title": "法官擬委任前聯邦檢察官調查特朗普高爾夫球場案政府是否誤導",
-          "url": "https://www.bastillepost.com/hongkong/article/17139012-%E6%B3%95%E5%AE%98%E6%93%AC%E5%A7%94%E5%89%8D%E6%AA%A2%E5%AF%9F%E5%AE%98%E8%AA%BF%E6%9F%A5%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E7%88%BE%E5%A4%AB%E7%90%83%E5%A0%B4%E6%A1%88-%E6%94%BF%E5%BA%9C%E6%98%AF",
-          "source": "巴士的報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "太空飛機",
-      "traffic_label": "200+",
-      "published": "Sat, 7 Nov 2026 16:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "曾峻岳",
-      "traffic_label": "1000+",
-      "published": "Sat, 7 Nov 2026 16:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "中華職棒》曾峻岳正式申請入札挑戰MLB 45天交涉期啟動、封館成最大變數",
-          "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E3%80%8B%E6%9B%BE%E5%B3%BB%E5%B2%B3%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AB%8B%E5%85%A5%E6%9C%AD%E6%8C%91%E6%88%B0mlb-45%E5%A4%A9%E4%BA%A4%E6%B6%89%E6%9C%9F%E5%95%9F%E5%8B%95%E3%80%81%E5%B0%81%E9%A4%A8%E6%88%90%E6%9C%80%E5%A4%A7%E8%AE%8A%E6%95%B8-014148008.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "曾峻岳入札引日、韓媒關注　韓媒重提「WBC台灣守護神」關鍵一局",
-          "url": "https://sports.ettoday.net/news/3268286",
-          "source": "ETtoday運動雲"
-        },
-        {
-          "title": "FA轉隊後刷負評 導致市場冷清 | 自由電子報",
-          "url": "https://today.line.me/tw/v3/article/oqpKvGP",
-          "source": "LINE TODAY"
+          "title": "奇鋐 關注10日法說",
+          "url": "https://www.chinatimes.com/newspapers/20261108000277-260206",
+          "source": "中時新聞網"
         }
       ],
       "source": "google_trends_rss"
