@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:18:01.852359+00:00",
+  "updated_at": "2026-11-10T02:12:32.581013+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,193 +13,225 @@
   },
   "records": [
     {
-      "term": "00949",
+      "term": "安東尼·戴維斯",
       "traffic_label": "100+",
-      "published": "Sun, 8 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "michelle",
-      "traffic_label": "100+",
-      "published": "Sun, 8 Nov 2026 18:00:00 -0800",
+      "published": "Mon, 9 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "Comedian says Amy Schumer took credit for jokes used by Kim Kardashian on ‘SNL’",
-          "url": "https://ew.com/michelle-wolf-says-amy-schumer-took-credit-jokes-kim-kardashian-snl-monologue-12243806",
-          "source": "Entertainment Weekly"
+          "title": "‘Keep the Klutch Drama Out of LA,’ ‘God, Please Make it Happen’ — Lakers Fans In Two Minds Over Rumors Linking Anthony Davis With LA Return",
+          "url": "https://sports.yahoo.com/articles/keep-klutch-drama-la-god-041237199.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Comedian says Amy Schumer took credit for jokes used by Kim Kardashian on ‘SNL’",
-          "url": "https://twaslnews1.twaslnews.com/7346856/",
-          "source": "شبكة تواصل الإخبارية"
+          "title": "Former Lakers Superstar Anthony Davis Reportedly Open to Los Angeles Reunion",
+          "url": "https://www.si.com/nba/lakers/onsi/former-lakers-superstar-anthony-davis-reportedly-open-to-los-angeles-reunion",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Lydia Ko smacks drives through cave and over temple in new WTGL event in Florida",
-          "url": "https://www.stuff.co.nz/sport/361056831/lydia-ko-smacks-drives-through-cave-and-temple-new-wtgl-event-florida",
-          "source": "Stuff"
+          "title": "Walker Kessler trade took Lakers out of the running for an Anthony Davis reunion",
+          "url": "https://lakeshowlife.com/los-angeles-lakers-walker-kessler-trade-took-out-running-anthony-davis-reunion",
+          "source": "Lake Show Life"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "0056股價",
-      "traffic_label": "1000+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "term": "亞翔",
+      "traffic_label": "100+",
+      "published": "Mon, 9 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "177萬股東慌了！0056百分百填息神話恐破滅 股價摔破50元「2大關鍵」拚填息勝率",
-          "url": "https://tw.stock.yahoo.com/news/177%E8%90%AC%E8%82%A1%E6%9D%B1%E6%85%8C%E4%BA%86-0056%E7%99%BE%E5%88%86%E7%99%BE%E5%A1%AB%E6%81%AF%E7%A5%9E%E8%A9%B1%E6%81%90%E7%A0%B4%E6%BB%85-%E8%82%A1%E5%83%B9%E6%91%94%E7%A0%B450%E5%85%83-2%E5%A4%A7%E9%97%9C%E9%8D%B5-%E6%8B%9A%E5%A1%AB%E6%81%AF%E5%8B%9D%E7%8E%87-072100137.html",
+          "title": "台股翻紅！反指標女神竟「買這檔」 全網一片哀嚎",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%BF%BB%E7%B4%85-%E5%8F%8D%E6%8C%87%E6%A8%99%E5%A5%B3%E7%A5%9E%E7%AB%9F-%E8%B2%B7%E9%80%99%E6%AA%94-%E5%85%A8%E7%B6%B2-%E7%89%87%E5%93%80%E5%9A%8E-134908812.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "零貼息紀錄掰？0056殺破50元關鍵找到了內行「2點」挺：175萬股東不用慌- 基金",
-          "url": "https://wantrich.chinatimes.com/news/20261107900004-420401",
-          "source": "旺得富理財網"
+          "title": "巴逆逆突「買入這1檔」！網一看大盤傻了：就不能安靜幾天嗎",
+          "url": "https://news.tvbs.com.tw/money/4048256",
+          "source": "TVBS新聞網"
         },
         {
-          "title": "0056 元大高股息- 0056安心存股的好標的💎💎💎 - 股市爆料同學會",
-          "url": "https://www.cmoney.tw/forum/article/187872875",
-          "source": "CMoney"
+          "title": "反指標女神巴逆逆進場買一檔ETF！網友崩潰哀號：快逃命",
+          "url": "https://n.yam.com/Article/20261109401729",
+          "source": "蕃新聞"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "台幣",
-      "traffic_label": "200+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "term": "王柏融",
+      "traffic_label": "100+",
+      "published": "Mon, 9 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
+      "related_news": [
+        {
+          "title": "下一紙合約「薪」情 王柏融隨遇而安",
+          "url": "https://sports.ltn.com.tw/news/paper/1777906",
+          "source": "自由體育"
+        },
+        {
+          "title": "大王給「小鷹」壓力 盼肩負隊長重任",
+          "url": "https://sports.ltn.com.tw/news/paper/1777907",
+          "source": "自由體育"
+        },
+        {
+          "title": "Wing Stars合體台鋼雄鷹Mingo穿蛙鞋、芃芃拿鍋鏟趣味開打- 娛樂新聞",
+          "url": "https://news.pchome.com.tw/entertainment/wownews/20261109/index-17942371972145533006.html",
+          "source": "PChome Online 新聞"
+        }
+      ],
       "source": "google_trends_rss"
     },
     {
-      "term": "欣興",
+      "term": "旺宏股價",
       "traffic_label": "500+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "信驊股價",
-      "traffic_label": "200+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "published": "Mon, 9 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "信驊10月績昂24% 連12個月攻頂| 經濟日報",
-          "url": "https://today.line.me/tw/v3/article/PGzeWYl",
-          "source": "LINE TODAY"
+          "title": "南亞科、華邦電、力積電、旺宏…一票記憶體股都漲停！外資早就先買一步，為何這檔目標價反被砍？",
+          "url": "https://www.businesstoday.com.tw/article/category/183008/post/202611090007/",
+          "source": "今周刊"
         },
         {
-          "title": "股王信驊慘遭外資「連11賣」狠倒貨 今再跌停摜破1萬2",
-          "url": "https://tech.tvbs.com.tw/money/4046740",
-          "source": "TVBS"
-        },
-        {
-          "title": "目標價慘遭大調降！「這伺服器管理晶片廠」EPS預估最多下降12% 外資喊後市大重點：AI產能是關鍵",
-          "url": "https://www.ftnn.com.tw/news/593625",
-          "source": "FTNN 新聞網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台達電股價",
-      "traffic_label": "1000+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "台達電71萬股東嗨！近3萬人上周勇敢抄底 今漲停每張大賺10.5萬元",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%81%94%E9%9B%BB71%E8%90%AC%E8%82%A1%E6%9D%B1%E5%97%A8%EF%BC%81%E8%BF%913%E8%90%AC%E4%BA%BA%E4%B8%8A%E5%91%A8%E5%8B%87%E6%95%A2%E6%8A%84%E5%BA%95-%E4%BB%8A%E6%BC%B2%E5%81%9C%E6%AF%8F%E5%BC%B5%E5%A4%A7%E8%B3%BA105%E8%90%AC%E5%85%83-013453435.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "焦點股》台達電：跌深就是利多 來電漲停",
-          "url": "https://stock.ltn.com.tw/article/hckcf5qd5uu7",
+          "title": "旺宏股價強彈鎖漲停 套牢股民燃起解套希望",
+          "url": "https://stock.ltn.com.tw/article/yur1fsryxnmd",
           "source": "自由時報"
         },
         {
-          "title": "不是說缺電？台達電股價卻腰斬！市場究竟在擔心什麼？",
-          "url": "https://www.ctee.com.tw/news/20261108700012-430502",
-          "source": "工商時報"
+          "title": "華邦電、群聯、旺宏、力積電…記憶體全亮漲停！7大投顧掀降評潮它砍價逾3成最多- 上市櫃",
+          "url": "https://wantrich.chinatimes.com/news/20261109900160-420101",
+          "source": "旺得富理財網"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "加權",
+      "term": "信驊",
       "traffic_label": "200+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "published": "Mon, 9 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "史上第二大漲點！記憶體族群全數起飛 「它」卻掉隊急殺2.4%",
-          "url": "https://inews.setn.com/news/1935839",
-          "source": "三立新聞網SETN.com"
-        },
-        {
-          "title": "盤中速報 - 集中市場加權指數上漲1620.16點至41321.8點，漲幅4.08%｜新聞快訊｜豐雲學堂",
-          "url": "https://www.sinotrade.com.tw/richclub/news/6af1221b36ff4992b13f4625",
-          "source": "永豐金證券"
-        },
-        {
-          "title": "【11/09 產業即時新聞】電子上游-記憶體IC設計族群飆漲8.85%：報價回溫點火，群聯強勢亮燈",
-          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-29936fea-dbdd-11f1-a7ad-c51de6cad23d",
-          "source": "CMoney投資網誌"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "智邦",
-      "traffic_label": "100+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "營收越旺、股價卻摔了！「這檔網通股」10月營收衝446億元創新高新品出貨添Q4動能有望再寫高",
-          "url": "https://tw.stock.yahoo.com/news/%E7%87%9F%E6%94%B6%E8%B6%8A%E6%97%BA-%E8%82%A1%E5%83%B9%E5%8D%BB%E6%91%94%E4%BA%86-%E9%80%99%E6%AA%94%E7%B6%B2%E9%80%9A%E8%82%A1-10%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%9D446%E5%84%84%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-%E6%96%B0%E5%93%81%E5%87%BA%E8%B2%A8%E6%B7%BBq4%E5%8B%95%E8%83%BD%E6%9C%89%E6%9C%9B%E5%86%8D%E5%AF%AB%E9%AB%98-153000953.html",
+          "title": "外資喊真的完了？「這BMC大廠」Q3 EPS噴出48.13元目標價卻慘墜1字頭 瑞銀：利空攤牌",
+          "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%96%8A%E7%9C%9F%E7%9A%84%E5%AE%8C%E4%BA%86-%E9%80%99bmc%E5%A4%A7%E5%BB%A0-q3-eps%E5%99%B4%E5%87%BA48-13%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9%E5%8D%BB%E6%85%98%E5%A2%9C1%E5%AD%97%E9%A0%AD-235000554.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "焦點股》智邦: 10月營收井噴 火速攻漲停",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5634120",
-          "source": "自由財經"
+          "title": "屋漏偏逢連夜雨信驊股價近腰斬外資喊買但調降目標價機會與風險一次看- 日報",
+          "url": "https://www.ctee.com.tw/news/20261110700058-439901",
+          "source": "工商時報"
         },
         {
-          "title": "無視AI緩建逆風　智邦10月營收飆446億新高　AI機櫃代工將添成長新柴火",
-          "url": "https://www.mirrormedia.mg/external/mirrordaily_96201/",
-          "source": "鏡週刊Mirror Media"
+          "title": "伺服器上升週期帶動信驊強勁成長，高盛力挺目標價 22,000 元",
+          "url": "https://finance.technews.tw/2026/11/09/the-server-upcycle-has-driven-aspeeds-strong-growth/",
+          "source": "TechNews 科技新報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "奇鋐",
-      "traffic_label": "100+",
-      "published": "Sun, 8 Nov 2026 17:40:00 -0800",
+      "term": "環球晶股價",
+      "traffic_label": "200+",
+      "published": "Mon, 9 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "奇鋐10月營收月增5.2%",
-          "url": "https://finance.technews.tw/2026/11/08/avc-3017-202610-financial-report/",
-          "source": "TechNews 科技新報"
+          "title": "環球晶從1,600殺到512元能接刀嗎？法人揭反轉訊號目標價下修仍喊買- 證券",
+          "url": "https://www.ctee.com.tw/news/20261108700496-430201",
+          "source": "工商時報"
         },
         {
-          "title": "奇鋐10月營收年增逾三成 連四個月創新高",
-          "url": "https://www.ttv.com.tw/finance/view/11202609075276C100D93CC14368B5C0A3893D97AC32E443/587",
-          "source": "台視全球資訊網"
+          "title": "這檔「台灣矽晶圓大廠」恐變國巨第二？專家看套牢劇本又重演：用想的都可怕 | 張大任 | 新聞",
+          "url": "https://www.storm.mg/article/11179478",
+          "source": "風傳媒"
         },
         {
-          "title": "奇鋐 關注10日法說",
-          "url": "https://www.chinatimes.com/newspapers/20261108000277-260206",
-          "source": "中時新聞網"
+          "title": "從1600元跌到617元！環球晶重挫逾6成 股民崩潰：是要破產了嗎？",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5628932",
+          "source": "自由財經"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "寒潮",
+      "traffic_label": "100+",
+      "published": "Mon, 9 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
+          "url": "https://m.sohu.com/a/1098969942_121443915?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "搜狐网"
+        },
+        {
+          "title": "寒潮+大风预警持续 部分地区降温超10℃",
+          "url": "https://news.qq.com/rain/a/20261109A0308E00",
+          "source": "腾讯新闻"
+        },
+        {
+          "title": "华北东北强降雪与天气环流直接相关｜即时新闻｜中港台｜on.cc东网",
+          "url": "https://hk.on.cc/hk/bkn/cnt/news/20261109/bkn-20261109090001940-1109_00822_001_cn.html",
+          "source": "on.cc東網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "3661",
+      "traffic_label": "100+",
+      "published": "Mon, 9 Nov 2026 17:10:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "沃克·凱斯勒",
+      "traffic_label": "100+",
+      "published": "Mon, 9 Nov 2026 17:10:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks",
+          "url": "https://www.espn.com/nba/story/_/id/50436573/lakers-luka-doncic-returns-vs-hawks-austin-reaves-quentin-grimes-out",
+          "source": "ESPN"
+        },
+        {
+          "title": "Luka Doncic misses Sunday’s game against Pistons",
+          "url": "https://www.nba.com/news/luka-doncic-out-lakers-game-vs-pistons",
+          "source": "NBA.com"
+        },
+        {
+          "title": "JJ Redick Praises Walker Kessler’s Relentlessness On Offensive Glass & Protecting Rim",
+          "url": "https://lakersnation.com/jj-redick-praises-walker-kessler-relentlessness-on-offensive-glass-protecting-rim/",
+          "source": "Lakers Nation"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "柯林·塞克斯頓",
+      "traffic_label": "200+",
+      "published": "Mon, 9 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Buha：塞克斯顿数据不错但打球太混乱 湖人还没找到他的正确用法",
+          "url": "https://sports.sina.cn/nba/other/2026-11-09/detail-iniyearv3225565.d.html?vt=4",
+          "source": "新浪网"
+        },
+        {
+          "title": "[流言板]塞克斯顿全场10中5，罚球8中7得到17分2篮板2助攻",
+          "url": "https://bbs.hupu.com/643788814.html",
+          "source": "虎扑体育"
+        },
+        {
+          "title": "[流言板]塞克斯顿谈东契奇缺阵：保持侵略性，球队要什么我就做什么",
+          "url": "https://m.hupu.com/bbs/643790719",
+          "source": "虎扑体育"
         }
       ],
       "source": "google_trends_rss"
