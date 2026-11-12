@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T02:10:12.256463+00:00",
+  "updated_at": "2026-11-12T02:18:03.637800+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,177 +13,177 @@
   },
   "records": [
     {
-      "term": "蒋友柏",
+      "term": "富喬",
+      "traffic_label": "200+",
+      "published": "Wed, 11 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "穩懋",
       "traffic_label": "100+",
-      "published": "Tue, 10 Nov 2026 17:50:00 -0800",
+      "published": "Wed, 11 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "蔣友柏砍外送費省到爆！重返廚房煮飯氣到爆粗口　嗆年輕人：愛追名牌",
-          "url": "https://stars.udn.com/star/story/10089/9870711",
+          "title": "穩懋光通訊需求旺，發射端明年小量出貨",
+          "url": "https://www.ttv.com.tw/finance/view/112026101021062279FFD08C426981C5C5C8415029414E12/587",
+          "source": "台視全球資訊網"
+        },
+        {
+          "title": "穩懋(3105) 衛星、航太與長距離通訊占基建四成！規模可能超過基地台 | 優分析",
+          "url": "https://today.line.me/tw/v3/article/LXeezNV",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "穩懋強勢亮燈漲停！股民嗨喊：抱緊處理",
+          "url": "https://stock.ltn.com.tw/article/cuh6wgrdglpr",
+          "source": "自由時報"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "大量",
+      "traffic_label": "200+",
+      "published": "Wed, 11 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "大量在手PCB設備單量達4位數 高毛利TM4機台逐步放量",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774374_RAA4W0PX6ORD3U5M1R5WY",
+          "source": "DIGITIMES"
+        },
+        {
+          "title": "大量(3167) 不買地也要擴產，600 台月產能目標仍待外包與第二班到位| 優分析",
+          "url": "https://today.line.me/tw/v3/article/wJvxlzG",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "大量(3167) CPO 整合設備單價達既有機種 3 到 4 倍！量產時點落在明年第 3 季",
+          "url": "https://news.cnyes.com/news/id/6659828",
+          "source": "鉅亨網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00934",
+      "traffic_label": "200+",
+      "published": "Wed, 11 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "火箭 對 勇士",
+      "traffic_label": "1000+",
+      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "勇士柯瑞對決火箭杜蘭特拚9連勝 台灣亞冠賽首戰抗日 今日賽事預告與轉播",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5637522",
+          "source": "自由體育"
+        },
+        {
+          "title": "NBA運彩分析》11/12 火箭勇士誰技高一籌？曾經的冠軍隊友MVP級對決",
+          "url": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1112-%E7%81%AB%E7%AE%AD%E5%8B%87%E5%A3%AB%E8%AA%B0%E6%8A%80%E9%AB%98%E4%B8%80%E7%B1%8C%EF%BC%9F%E6%9B%BE%E7%B6%93%E7%9A%84%E5%86%A0%E8%BB%8D%E9%9A%8A%E5%8F%8Bmvp%E7%B4%9A%E5%B0%8D%E6%B1%BA-095224948.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "一圖看懂KD差柯瑞多少！火箭怎麼守勇士一哥？教頭不藏招喊1人名",
+          "url": "https://www.nownews.com/news/6891591",
+          "source": "NOWnews今日新聞"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "寬宏",
+      "traffic_label": "500+",
+      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "周蕙首登高雄巨蛋開唱！笑喊「衣錦還鄉」親友團全到齊變大型同樂會",
+          "url": "https://www.hitoradio.com/newweb/84087hitonews",
+          "source": "Hitoradio.com"
+        },
+        {
+          "title": "雙11好消息！周蕙樂喊衣錦還鄉 親揭聲帶最新狀況",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5636781",
+          "source": "自由娛樂"
+        },
+        {
+          "title": "周蕙驚爆打類固醇硬上！首度唱進高雄巨蛋 親揭聲帶真實病況",
+          "url": "https://stars.udn.com/star/story/10092/9871870",
           "source": "噓！星聞"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "1815",
+      "traffic_label": "200+",
+      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "又有翻船！景碩今爆六家券商申報2,908.61萬元鉅額違約交割- 證券",
+          "url": "https://www.ctee.com.tw/news/20261109701906-430201",
+          "source": "工商時報"
         },
         {
-          "title": "蔣友柏突喊「重點不在你成為誰」　提及這人：都是假的",
-          "url": "https://star.setn.com/news/1936688",
-          "source": "娛樂星聞"
+          "title": "台股同時爆3檔違約交割！光通訊、載板、玻纖布全中標「合計金額破億元」 富喬慘遭18家券商通報",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%90%8C%E6%99%82%E7%88%863%E6%AA%94%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2-%E5%85%89%E9%80%9A%E8%A8%8A-%E8%BC%89%E6%9D%BF-%E7%8E%BB%E7%BA%96%E5%B8%83%E5%85%A8%E4%B8%AD%E6%A8%99-%E5%90%88%E8%A8%88%E9%87%91%E9%A1%8D%E7%A0%B4%E5%84%84%E5%85%83-114000462.html",
+          "source": "Yahoo股市"
         },
         {
-          "title": "蔣友柏發聲「重點不在你成為誰」揭殘酷真相！震撼爆破「這人」真面目：都是假的",
-          "url": "https://www.ftvnews.com.tw/news/detail/2026B10W0515",
-          "source": "民視新聞網"
+          "title": "快訊／台股大翻車！3檔共爆1.17億違約交割　富喬18家券商通報最慘",
+          "url": "https://finance.ettoday.net/news/3269155",
+          "source": "ETtoday財經雲"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "南亞股價",
+      "traffic_label": "200+",
+      "published": "Wed, 11 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "11／12盤前｜南亞百億搶攻玻纖布今年股價大漲419％ 台塑四寶吸金內外資最愛不一樣- 證券",
+          "url": "https://www.ctee.com.tw/news/20261112700437-430201",
+          "source": "工商時報"
+        },
+        {
+          "title": "焦點股》南亞：砸115億元擴建玻纖布五廠 外資按讚",
+          "url": "https://stock.ltn.com.tw/article/umvgjzplmagh",
+          "source": "自由時報"
+        },
+        {
+          "title": "電子材料供需偏緊 漲價趨勢不變",
+          "url": "https://money.udn.com/money/story/5612/9872950",
+          "source": "經濟日報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
       "term": "英業達",
-      "traffic_label": "100+",
-      "published": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台玻",
-      "traffic_label": "2000+",
-      "published": "Tue, 10 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "玻纖布狂潮持續洶湧！「這兩強」漲停同登基量價雙增王 國巨與華邦電一齊入榜",
-          "url": "https://tw.stock.yahoo.com/news/%E7%8E%BB%E7%BA%96%E5%B8%83%E7%8B%82%E6%BD%AE%E6%8C%81%E7%BA%8C%E6%B4%B6%E6%B9%A7-%E9%80%99%E5%85%A9%E5%BC%B7-%E6%BC%B2%E5%81%9C%E5%90%8C%E7%99%BB%E5%9F%BA%E9%87%8F%E5%83%B9%E9%9B%99%E5%A2%9E%E7%8E%8B-%E5%9C%8B%E5%B7%A8%E8%88%87%E8%8F%AF%E9%82%A6%E9%9B%BB-%E9%BD%8A%E5%85%A5%E6%A6%9C-003100892.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "焦點股》台玻：10月營收大漲 目標價上看81元",
-          "url": "https://stock.ltn.com.tw/article/5gcxpbr8uzmu",
-          "source": "自由時報"
-        },
-        {
-          "title": "全民權證／台玻 鎖定逾100天",
-          "url": "https://udn.com/news/story/7255/9870556",
-          "source": "UDN"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "太陽 對 快艇",
-      "traffic_label": "500+",
-      "published": "Tue, 10 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Clippers vs Suns Prediction, Picks, Prop Bets For November 10, 2026 - NBA",
-          "url": "https://www.covers.com/sport/basketball/nba/matchup/388699/picks",
-          "source": "Covers.com"
-        },
-        {
-          "title": "Game Preview: Phoenix aims to bounce back vs. Clippers",
-          "url": "https://www.brightsideofthesun.com/suns-game/113404/game-preview-phoenix-aims-to-bounce-back-vs-clippers",
-          "source": "Bright Side Of The Sun"
-        },
-        {
-          "title": "Suns Reveal Starting Lineup vs Clippers",
-          "url": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-starting-lineup-los-angeles-clippers",
-          "source": "Sports Illustrated"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "76ers vs celtics",
       "traffic_label": "200+",
-      "published": "Tue, 10 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "\"Popcorn ready\" - Kyrie Irving is hyped for Philly vs. Boston tonight",
-          "url": "https://sports.yahoo.com/articles/popcorn-ready-kyrie-irving-hyped-181714239.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "“Well, I had to talk to him a little bit this morning, …",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/10/well-i-had-to-talk-to-him-a-little-bit-this-morning/92716176007/",
-          "source": "HoopsHype"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "4958",
-      "traffic_label": "100+",
-      "published": "Tue, 10 Nov 2026 17:30:00 -0800",
+      "published": "Wed, 11 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "爵士 對 熱火",
-      "traffic_label": "500+",
-      "published": "Tue, 10 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Preview: Utah Jazz Return Home to Host Miami Heat",
-          "url": "https://utahjazz.com/news/preview-utah-jazz-return-home-to-host-miami-heat",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Miami Heat @ Utah Jazz Odds",
-          "url": "https://sportsbook.fanduel.com/basketball/nba/miami-heat-@-utah-jazz-36295141",
-          "source": "FanDuel Sportsbook"
-        },
-        {
-          "title": "Jazz vs Heat Preview: The rise of Darryn Peterson is here",
-          "url": "https://www.slcdunk.com/utah-jazz-game-coverage/70652/jazz-vs-heat-preview-the-rise-of-darryn-peterson-is-here",
-          "source": "SLC Dunk"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "nba 直播 live",
+      "term": "昇達科",
       "traffic_label": "100+",
-      "published": "Tue, 10 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "NBA／溫班亞瑪進攻低迷無礙 馬刺7人得分上雙痛宰爵士奪5連勝",
-          "url": "https://udn.com/news/story/7002/9854209",
-          "source": "UDN"
-        },
-        {
-          "title": "【馬刺 vs 爵士】NBA 直播 LIVE 線上看，11/3 美國職籃線上轉播",
-          "url": "https://applealmond.com/posts/331022",
-          "source": "蘋果仁"
-        },
-        {
-          "title": "[2026/11/03 爵士 @ 馬刺] Dylan Harper 繳出17分8助攻 馬刺主場大勝爵士延續連勝",
-          "url": "https://www.juksy.com/article/154019",
-          "source": "JUKSY 街星"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00662",
-      "traffic_label": "500+",
-      "published": "Tue, 10 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "華通",
-      "traffic_label": "200+",
-      "published": "Tue, 10 Nov 2026 17:10:00 -0800",
+      "published": "Wed, 11 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
