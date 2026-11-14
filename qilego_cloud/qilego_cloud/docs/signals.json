@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T02:11:47.066597+00:00",
+  "updated_at": "2026-11-14T02:10:41.168662+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,225 +13,161 @@
   },
   "records": [
     {
-      "term": "警察",
-      "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:50:00 -0800",
+      "term": "楊超越",
+      "traffic_label": "100+",
+      "published": "Fri, 13 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "警察先生辛苦了！ 行政院發放獎勵金每月最高9000元",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5639102",
-          "source": "自由時報"
+          "title": "《今天是太陽雨》男主角是誰？董思成曾是NCT成員，跟《良陳美錦》任敏從小就認識，關於他的5個故事",
+          "url": "https://www.elle.com/tw/entertainment/voice/g74371111/about-dong-si-cheng/",
+          "source": "ELLE"
         },
         {
-          "title": "警察先生辛苦了！ 行政院發放獎勵金每月最高9000元 | 自由電子報",
-          "url": "https://today.line.me/tw/v3/article/kEpV2pL",
+          "title": "Netflix《今天是太陽雨》衝出好評！6大劇情、角色介紹：楊超越演技逆襲，網讚年度黑馬",
+          "url": "https://www.beauty321.com/post/73683",
+          "source": "BEAUTY美人圈"
+        },
+        {
+          "title": "從成衣廠女工到女明星！楊超越「天選鄭雨」 走紅後供同母異父妹妹讀書卻劃下這條紅線| 姊妹淘",
+          "url": "https://today.line.me/tw/v3/article/7NG3nKr",
           "source": "LINE TODAY"
-        },
-        {
-          "title": "警察值勤爆虐狗⋯持木棍圓鍬暴打47秒 犬隻慘叫「雙眼掛血漬」",
-          "url": "https://udn.com/news/story/7321/9875148",
-          "source": "UDN"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "2891",
-      "traffic_label": "100+",
-      "published": "Thu, 12 Nov 2026 17:50:00 -0800",
+      "term": "u23",
+      "traffic_label": "2000+",
+      "published": "Fri, 13 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "南韓的噩夢！林佾葳複製亞運驚奇6局6K僅失1分完全宰制！韓媒崩潰了",
+          "url": "https://tw.sports.yahoo.com/news/%E5%8D%97%E9%9F%93%E7%9A%84%E5%99%A9%E5%A4%A2-%E6%9E%97%E4%BD%BE%E8%91%B3%E8%A4%87%E8%A3%BD%E4%BA%9E%E9%81%8B%E9%A9%9A%E5%A5%876%E5%B1%806k%E5%83%85%E5%A4%B11%E5%88%86%E5%AE%8C%E5%85%A8%E5%AE%B0%E5%88%B6-%E9%9F%93%E5%AA%92%E5%B4%A9%E6%BD%B0%E4%BA%86-095820490.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "U23世界盃》漂亮！林佾葳主宰戰局 台灣6：1扳倒南韓",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5639305",
+          "source": "自由體育"
+        },
+        {
+          "title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Five-run second inning lifts Chinese Taipei past Korea",
+          "url": "https://www.wbsc.org/zh/news/wbsc-u-23-baseball-world-cup-2026-presented-by-raxus-game-report-36-korea-chinese-taipei",
+          "source": "World Baseball Softball Confederation (WBSC)"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "馬刺 對 勇士",
+      "traffic_label": "2000+",
+      "published": "Fri, 13 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "聯發科",
-      "traffic_label": "20000+",
-      "published": "Thu, 12 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "【Yahoo早盤】台股不甩輝達風波！狂飆逾1300點重返4萬4 分析師丁彥鈞：4萬5有壓",
-          "url": "https://tw.stock.yahoo.com/news/%E3%80%90yahoo%E6%97%A9%E7%9B%A4%E3%80%91%E5%8F%B0%E8%82%A1%E4%B8%8D%E7%94%A9%E8%BC%9D%E9%81%94%E9%A2%A8%E6%B3%A2%EF%BC%81%E7%8B%82%E9%A3%86%E9%80%BE1300%E9%BB%9E%E9%87%8D%E8%BF%944%E8%90%AC4-%E5%88%86%E6%9E%90%E5%B8%AB%E4%B8%81%E5%BD%A5%E9%88%9E%EF%BC%9A4%E8%90%AC5%E6%9C%89%E5%A3%93-013552497.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "黃仁勳辭職衝擊美股、台股卻強彈逾千點！聯發科漲停 ASIC 刷一排紅燈",
-          "url": "https://udn.com/news/story/7251/9876008",
-          "source": "UDN"
-        },
-        {
-          "title": "台股下一步怎麼走？黃仁勳請辭添變數法人估43K上下1,000點震盪- 日報",
-          "url": "https://www.ctee.com.tw/news/20261113700049-439901",
-          "source": "工商時報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "中信金",
+      "term": "公牛 對 老鷹",
       "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:40:00 -0800",
+      "published": "Fri, 13 Nov 2026 17:20:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "〈台股盤前要聞〉廣達明年AI伺服器營收年增高雙位數、中信金前10月加計FVOCI股票狂賺1488億元",
-          "url": "https://m.cnyes.com/news/id/6659644",
-          "source": "鉅亨網"
+          "title": "老鹰vs公牛：首节结束，老鹰24-33公牛，鲍威尔得到10分",
+          "url": "https://www.qiumiwu.com/news/2042430185773",
+          "source": "球迷屋"
         },
         {
-          "title": "多道引擎齊發 元大金控前十月獲利逼近600億再創新高",
-          "url": "https://money.udn.com/money/story/5613/9872496",
-          "source": "經濟日報"
+          "title": "NBA精选，收到重要情报，各种剧本上演？",
+          "url": "https://www.nowscore.com/news/1272965.htm?fromPage=0",
+          "source": "捷报比分网"
         },
         {
-          "title": "《台北股市》不斷更新！6金控10月獲利不藏私中信金一次拿2獎 - 上市櫃",
-          "url": "https://wantrich.chinatimes.com/news/20261113900040-420101",
-          "source": "旺得富理財網"
+          "title": "老鹰公布伤病报告，弗莱明斯出战成疑",
+          "url": "https://m.dongqiudi.com/article/6647980.html",
+          "source": "懂球帝"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "仁寶",
+      "term": "鵜鶘 對 灰熊",
       "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:40:00 -0800",
+      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "32萬股東看過來！仁寶前三季每股賺1.78元 再砸160億元美國擴產",
-          "url": "https://tw.stock.yahoo.com/news/32%E8%90%AC%E8%82%A1%E6%9D%B1%E7%9C%8B%E9%81%8E%E4%BE%86%EF%BC%81%E4%BB%81%E5%AF%B6%E5%89%8D%E4%B8%89%E5%AD%A3%E6%AF%8F%E8%82%A1%E8%B3%BA178%E5%85%83-%E5%86%8D%E7%A0%B8160%E5%84%84%E5%85%83%E7%BE%8E%E5%9C%8B%E6%93%B4%E7%94%A2-123026834.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "仁寶分割伺服器研發與銷售業務 移轉至子公司雲銳科技",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774641_62A7CRUU3FGX6Z2I3ZOAE",
-          "source": "DIGITIMES"
-        },
-        {
-          "title": "仁寶Q3伺服器營收占比逾1成 ISBG分割至全資子公司「雲銳」專攻伺服器研發與銷售",
-          "url": "https://news.cnyes.com/news/id/6660782",
-          "source": "鉅亨網"
-        }
-      ],
+      "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "outlook 故障",
+      "term": "熊海靈",
       "traffic_label": "100+",
-      "published": "Thu, 12 Nov 2026 17:40:00 -0800",
+      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "微軟Outlook、Office 365、Teams大範圍宕機",
-          "url": "https://www.epochtimes.com/gb/26/11/12/n14888058.htm",
-          "source": "大紀元"
+          "title": "張琍敏長居美國「台健保稅金照繳！」返台投票力挺蔣萬安、李四川",
+          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E7%90%8D%E6%95%8F%E9%95%B7%E5%B1%85%E7%BE%8E%E5%9C%8B-%E5%8F%B0%E5%81%A5%E4%BF%9D%E7%A8%85%E9%87%91%E7%85%A7%E7%B9%B3-%E8%BF%94%E5%8F%B0%E6%8A%95%E7%A5%A8%E5%8A%9B%E6%8C%BA%E8%94%A3%E8%90%AC%E5%AE%89-%E6%9D%8E%E5%9B%9B%E5%B7%9D-091909104.html",
+          "source": "Yahoo新聞"
         },
         {
-          "title": "微软发生大规模故障 影响数以千计用户",
-          "url": "https://www.8world.com/world/microsoft-365-outlook-down-for-thousands-of-users-3339231",
-          "source": "8world"
+          "title": "女星逆風挺羅大佑！讚一針見血「嗆爆民進黨爛黨」 開酸沈伯洋",
+          "url": "https://news.tvbs.com.tw/entertainment/drama/4050006",
+          "source": "TVBS新聞網"
         },
         {
-          "title": "微软365核心服务全球性大规模瘫痪：Outlook、OneDrive、Teams均受影响，正逐步重启恢复",
-          "url": "https://m.sohu.com/a/1100869851_114760?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "英業達股價",
-      "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "法說變法會？英業達重挫近7% 分析師示警：承接力道仍不足",
-          "url": "https://tw.stock.yahoo.com/news/%E6%B3%95%E8%AA%AA%E8%AE%8A%E6%B3%95%E6%9C%83%EF%BC%9F%E8%8B%B1%E6%A5%AD%E9%81%94%E9%87%8D%E6%8C%AB%E8%BF%917-%E5%88%86%E6%9E%90%E5%B8%AB%E7%A4%BA%E8%AD%A6%EF%BC%9A%E6%89%BF%E6%8E%A5%E5%8A%9B%E9%81%93%E4%BB%8D%E4%B8%8D%E8%B6%B3-014437388.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "英業達(2356) 2027 年 GPU 與 ASIC 出貨看高雙位數成長！一般伺服器出貨轉保守、單價走高| 優分析",
-          "url": "https://today.line.me/tw/v3/article/8nMvkak",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "AI訂單旺、存貨翻倍千億 英業達揭缺料困局",
-          "url": "https://www.peoplenews.tw/articles/economic-news/66815",
-          "source": "民報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "太陽 對 黃蜂",
-      "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Final Injury Report for Hornets-Suns: Will Brandon Miller, Kon Knueppel Play?",
-          "url": "https://sports.yahoo.com/articles/final-injury-report-hornets-suns-220000364.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Hornets vs. Suns Prediction, Odds and Best NBA Prop Bets for Thursday, Nov. 12",
-          "url": "https://www.si.com/betting/hornets-vs-suns-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-12-2026",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Charlotte Hornets vs Phoenix Suns Prediction, Picks & Odds | NBA Thursday",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/charlotte-hornets-vs-phoenix-suns-prediction-odds-6019783/",
-          "source": "Sportsgambler"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "u23 世界盃棒球錦標賽",
-      "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "U23世界盃》超級循環賽賽程出爐！中華隊13日起戰韓國、日本、委內瑞拉",
-          "url": "https://tw.sports.yahoo.com/news/u23%E4%B8%96%E7%95%8C%E7%9B%83-%E8%B6%85%E7%B4%9A%E5%BE%AA%E7%92%B0%E8%B3%BD%E8%B3%BD%E7%A8%8B%E5%87%BA%E7%88%90-%E4%B8%AD%E8%8F%AF%E9%9A%8A13%E6%97%A5%E8%B5%B7%E6%88%B0%E9%9F%93%E5%9C%8B-%E6%97%A5%E6%9C%AC-%E5%A7%94%E5%85%A7%E7%91%9E%E6%8B%89-072032497.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "超級循環賽賽程出爐！　台灣首戰交手韓國",
-          "url": "https://www.mirrormedia.mg/external/setn_1937308",
+          "title": "熊海靈表態挺蔣萬安讚羅大佑　網酸出來蹭",
+          "url": "https://www.mirrormedia.mg/external/setn_1937607",
           "source": "鏡週刊Mirror Media"
-        },
-        {
-          "title": "U23世界盃／中華隊帶2敗挺進超級循環賽 依序對戰韓、日、委",
-          "url": "https://udn.com/news/story/7001/9872011",
-          "source": "UDN"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "技嘉",
+      "term": "島國禮作市集",
       "traffic_label": "200+",
-      "published": "Thu, 12 Nov 2026 17:30:00 -0800",
+      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "華南銀行",
+      "traffic_label": "200+",
+      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "軍公教",
+      "traffic_label": "2000+",
+      "published": "Fri, 13 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "火箭 對 爵士",
+      "traffic_label": "500+",
+      "published": "Fri, 13 Nov 2026 17:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "《CNBC》揭小三黃樂與輝達對手「華為雲」商業關聯！牽出深圳資料中心",
-          "url": "https://hk.finance.yahoo.com/news/cnbc-%E6%8F%AD%E5%B0%8F%E4%B8%89%E9%BB%83%E6%A8%82%E8%88%87%E8%BC%9D%E9%81%94%E5%B0%8D%E6%89%8B-%E8%8F%AF%E7%82%BA%E9%9B%B2-%E5%95%86%E6%A5%AD%E9%97%9C%E8%81%AF-%E7%89%BD%E5%87%BA%E6%B7%B1%E5%9C%B3%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83-212008653.html",
-          "source": "Yahoo 財經"
+          "title": "【常规赛G13】NBA杯小组赛 客战休斯顿",
+          "url": "https://bbs.hupu.com/643907760.html",
+          "source": "虎扑体育网"
         },
         {
-          "title": "黃樂生意版圖曝光！牽出華為、DeepSeek 美方追查晶片走私疑雲| 全球財經| 全球",
-          "url": "https://udn.com/news/story/6811/9875908",
-          "source": "UDN"
+          "title": "火箭主场迎战爵士！伤病与禁赛情况更新",
+          "url": "https://m.sohu.com/a/1101369447_121926208?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
         },
         {
-          "title": "一切都串起來了？黃樂竟與輝達最大的中國競爭對手有交集",
-          "url": "https://stock.ltn.com.tw/article/5c2tpcc55ttw",
-          "source": "自由時報"
+          "title": "两队总分预期与外界设定有何玄机",
+          "url": "https://www.nowscore.com/news/1272678.htm",
+          "source": "捷报比分网"
         }
       ],
       "source": "google_trends_rss"
