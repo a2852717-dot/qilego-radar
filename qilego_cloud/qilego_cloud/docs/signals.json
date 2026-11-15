@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T02:10:41.168662+00:00",
+  "updated_at": "2026-11-15T02:12:59.429500+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,161 +13,225 @@
   },
   "records": [
     {
-      "term": "楊超越",
+      "term": "u23",
+      "traffic_label": "500+",
+      "published": "Sat, 14 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "錫安·威廉森",
       "traffic_label": "100+",
-      "published": "Fri, 13 Nov 2026 18:00:00 -0800",
+      "published": "Sat, 14 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "《今天是太陽雨》男主角是誰？董思成曾是NCT成員，跟《良陳美錦》任敏從小就認識，關於他的5個故事",
-          "url": "https://www.elle.com/tw/entertainment/voice/g74371111/about-dong-si-cheng/",
-          "source": "ELLE"
+          "title": "惨败后不再沉默！锡安直言鹈鹕全员需自省",
+          "url": "https://m.sohu.com/a/1101571046_121953481?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
         },
         {
-          "title": "Netflix《今天是太陽雨》衝出好評！6大劇情、角色介紹：楊超越演技逆襲，網讚年度黑馬",
-          "url": "https://www.beauty321.com/post/73683",
-          "source": "BEAUTY美人圈"
+          "title": "篮网vs鹈鹕全场录像回放-NBA常规赛(2026年11月12日)",
+          "url": "https://m.qiumiwu.com/news/2041174795285",
+          "source": "球迷屋"
         },
         {
-          "title": "從成衣廠女工到女明星！楊超越「天選鄭雨」 走紅後供同母異父妹妹讀書卻劃下這條紅線| 姊妹淘",
-          "url": "https://today.line.me/tw/v3/article/7NG3nKr",
+          "title": "篮网8人上双客场狂胜鹈鹕 杰明复出23分钟22分",
+          "url": "https://lq.7m.com.cn/news/20261112/283860.shtml",
+          "source": "7M体育"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "柯文哲",
+      "traffic_label": "100+",
+      "published": "Sat, 14 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "民眾黨桃園造勢張善政與會展現藍白合氣勢| 地方",
+          "url": "https://www.cna.com.tw/news/aloc/202611150002.aspx",
+          "source": "中央社 CNA"
+        },
+        {
+          "title": "柯Ｐ與江吃播 揚言電爆洋流",
+          "url": "https://www.cdns.com.tw/articles/1490696",
+          "source": "中華新聞雲／中華日報"
+        },
+        {
+          "title": "同框柯文哲直播 推青年地上權宅與育兒友善、柯讚江啟臣「有準備」",
+          "url": "https://www.ksnews.com.tw/e/159887",
+          "source": "更生新聞網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "灰狼 對 公牛",
+      "traffic_label": "500+",
+      "published": "Sat, 14 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "NBA》Dosunmu將爆砍84分？外界多看好灰狼主場輕鬆拿下公牛收5連勝",
+          "url": "https://tw.sports.yahoo.com/news/nba-dosunmu%E5%B0%87%E7%88%86%E7%A0%8D84%E5%88%86-%E5%A4%96%E7%95%8C%E5%A4%9A%E7%9C%8B%E5%A5%BD%E7%81%B0%E7%8B%BC%E4%B8%BB%E5%A0%B4%E8%BC%95%E9%AC%86%E6%8B%BF%E4%B8%8B%E5%85%AC%E7%89%9B%E6%94%B65%E9%80%A3%E5%8B%9D-150034408.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "NBA運彩分析 》金塊客場出擊挑戰鵜鶘，威廉姆斯獨木難支",
+          "url": "https://tsna.com/article/205751",
+          "source": "TSNA體育新聞團隊"
+        },
+        {
+          "title": "NBA 11/15賽程》熱火VS活塞必看！字母哥挑戰4連勝、卻碰王者活塞",
+          "url": "https://www.nownews.com/news/6892373",
+          "source": "NOWnews今日新聞"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "灰熊 對 籃網",
+      "traffic_label": "500+",
+      "published": "Sat, 14 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "NBA／ 獨行俠「電話不想接」！熱火搶厄文無望 名記建議轉盯灰熊王牌",
+          "url": "https://tw.sports.yahoo.com/news/nba-%E7%8D%A8%E8%A1%8C%E4%BF%A0-%E9%9B%BB%E8%A9%B1%E4%B8%8D%E6%83%B3%E6%8E%A5-%E7%86%B1%E7%81%AB%E6%90%B6%E5%8E%84%E6%96%87%E7%84%A1%E6%9C%9B-%E5%90%8D%E8%A8%98%E5%BB%BA%E8%AD%B0%E8%BD%89%E7%9B%AF%E7%81%B0%E7%86%8A%E7%8E%8B%E7%89%8C-091704584.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "NBA／國王1勝10敗慘開局！拉文遭熱火盯上 球團急找「老八奇蹟」功臣",
+          "url": "https://tw-nba.udn.com/nba/story/7002/9874718",
+          "source": "udn NBA"
+        },
+        {
+          "title": "NBA》開季1勝10敗急需後場戰力 國王向Gabe Vincent開出合約 | TSNA",
+          "url": "https://today.line.me/tw/v3/article/MLBlmYw",
           "source": "LINE TODAY"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "u23",
-      "traffic_label": "2000+",
-      "published": "Fri, 13 Nov 2026 17:50:00 -0800",
+      "term": "南港展覽館",
+      "traffic_label": "500+",
+      "published": "Sat, 14 Nov 2026 17:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "南韓的噩夢！林佾葳複製亞運驚奇6局6K僅失1分完全宰制！韓媒崩潰了",
-          "url": "https://tw.sports.yahoo.com/news/%E5%8D%97%E9%9F%93%E7%9A%84%E5%99%A9%E5%A4%A2-%E6%9E%97%E4%BD%BE%E8%91%B3%E8%A4%87%E8%A3%BD%E4%BA%9E%E9%81%8B%E9%A9%9A%E5%A5%876%E5%B1%806k%E5%83%85%E5%A4%B11%E5%88%86%E5%AE%8C%E5%85%A8%E5%AE%B0%E5%88%B6-%E9%9F%93%E5%AA%92%E5%B4%A9%E6%BD%B0%E4%BA%86-095820490.html",
+          "title": "返家製茶拿頭等獎、下班顧社群 木柵兩家茶坊迎茶博會",
+          "url": "https://www.cdns.com.tw/articles/1490331",
+          "source": "中華新聞雲／中華日報"
+        },
+        {
+          "title": "台灣國際茶業博覽會登場高雄山茶8大特色茶席亮相| 生活",
+          "url": "https://newtalk.tw/news/view/2026-11-14/1071139",
+          "source": "Newtalk新聞"
+        },
+        {
+          "title": "科學化評鑑接軌國際 蘇宗振肯定茶農、咖啡農努力 期許台灣好茶與咖啡走向世界 | 勁報",
+          "url": "https://today.line.me/tw/v3/article/BEmj77z",
+          "source": "LINE TODAY"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "熱火 對 活塞",
+      "traffic_label": "500+",
+      "published": "Sat, 14 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "NBA》強強對決！Cunningham領軍活塞 作客3連勝的熱火",
+          "url": "https://tw.sports.yahoo.com/news/nba-%E5%BC%B7%E5%BC%B7%E5%B0%8D%E6%B1%BA-cunningham%E9%A0%98%E8%BB%8D%E6%B4%BB%E5%A1%9E-%E4%BD%9C%E5%AE%A23%E9%80%A3%E5%8B%9D%E7%9A%84%E7%86%B1%E7%81%AB-094933330.html",
           "source": "Yahoo運動"
         },
         {
-          "title": "U23世界盃》漂亮！林佾葳主宰戰局 台灣6：1扳倒南韓",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5639305",
+          "title": "NBA》Cunningham轟52分11助攻無失誤！ 活塞2OT險勝巫師",
+          "url": "https://sport.vl.com.tw/newspage01.aspx?sno=86274",
+          "source": "緯來體育台"
+        },
+        {
+          "title": "逾50分、10助攻無失誤 坎寧安史上第1人",
+          "url": "https://sports.ltn.com.tw/news/paper/1778459",
+          "source": "自由體育"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "u23 賽程",
+      "traffic_label": "2000+",
+      "published": "Sat, 14 Nov 2026 16:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "黃鈞麟一棒擊沉日本！U23中華隊2比1逆轉勝 晉級獎牌戰差一步",
+          "url": "https://tw.news.yahoo.com/%E9%BB%83%E9%88%9E%E9%BA%9F-%E6%A3%92%E6%93%8A%E6%B2%89%E6%97%A5%E6%9C%AC-u23%E4%B8%AD%E8%8F%AF%E9%9A%8A2%E6%AF%941%E9%80%86%E8%BD%89%E5%8B%9D-%E6%99%89%E7%B4%9A%E7%8D%8E%E7%89%8C%E6%88%B0%E5%B7%AE-%E6%AD%A5-022452732.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "U23世界盃》兄弟新星超前轟、混血火球男完投！台灣克日本奪2連勝",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5640370",
           "source": "自由體育"
         },
         {
-          "title": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Five-run second inning lifts Chinese Taipei past Korea",
-          "url": "https://www.wbsc.org/zh/news/wbsc-u-23-baseball-world-cup-2026-presented-by-raxus-game-report-36-korea-chinese-taipei",
+          "title": "由RAXUS呈現，2026年WBSC U-23世界盃棒球賽：戰報—黃俊麟第六局全壘打建功，助中華隊力克日本",
+          "url": "https://www.wbsc.org/zh/news/wbsc-u-23-baseball-world-cup-2026-presented-by-raxus-game-report-41-chinese-taipei-japan",
           "source": "World Baseball Softball Confederation (WBSC)"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "馬刺 對 勇士",
-      "traffic_label": "2000+",
-      "published": "Fri, 13 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "公牛 對 老鷹",
-      "traffic_label": "200+",
-      "published": "Fri, 13 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "老鹰vs公牛：首节结束，老鹰24-33公牛，鲍威尔得到10分",
-          "url": "https://www.qiumiwu.com/news/2042430185773",
-          "source": "球迷屋"
-        },
-        {
-          "title": "NBA精选，收到重要情报，各种剧本上演？",
-          "url": "https://www.nowscore.com/news/1272965.htm?fromPage=0",
-          "source": "捷报比分网"
-        },
-        {
-          "title": "老鹰公布伤病报告，弗莱明斯出战成疑",
-          "url": "https://m.dongqiudi.com/article/6647980.html",
-          "source": "懂球帝"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "鵜鶘 對 灰熊",
-      "traffic_label": "200+",
-      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "熊海靈",
+      "term": "android xr",
       "traffic_label": "100+",
-      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
+      "published": "Sat, 14 Nov 2026 16:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "張琍敏長居美國「台健保稅金照繳！」返台投票力挺蔣萬安、李四川",
-          "url": "https://tw.news.yahoo.com/%E5%BC%B5%E7%90%8D%E6%95%8F%E9%95%B7%E5%B1%85%E7%BE%8E%E5%9C%8B-%E5%8F%B0%E5%81%A5%E4%BF%9D%E7%A8%85%E9%87%91%E7%85%A7%E7%B9%B3-%E8%BF%94%E5%8F%B0%E6%8A%95%E7%A5%A8%E5%8A%9B%E6%8C%BA%E8%94%A3%E8%90%AC%E5%AE%89-%E6%9D%8E%E5%9B%9B%E5%B7%9D-091909104.html",
-          "source": "Yahoo新聞"
+          "title": "See our intelligent eyewear lineup and pre-order your pair",
+          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+          "source": "blog.google"
         },
         {
-          "title": "女星逆風挺羅大佑！讚一針見血「嗆爆民進黨爛黨」 開酸沈伯洋",
-          "url": "https://news.tvbs.com.tw/entertainment/drama/4050006",
-          "source": "TVBS新聞網"
+          "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
+          "url": "https://tech.yahoo.com/ar-vr/articles/googles-android-xr-smart-glasses-042917899.html",
+          "source": "Yahoo Tech"
         },
         {
-          "title": "熊海靈表態挺蔣萬安讚羅大佑　網酸出來蹭",
-          "url": "https://www.mirrormedia.mg/external/setn_1937607",
-          "source": "鏡週刊Mirror Media"
+          "title": "Your Pixel Watch or Galaxy Watch Can Control Samsung and Google’s New Smart Glasses",
+          "url": "https://gizmodo.com/pixel-watch-galaxy-watch-samsung-smart-glasses-2000839184",
+          "source": "Gizmodo"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "島國禮作市集",
+      "term": "聖槍哥",
       "traffic_label": "200+",
-      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "華南銀行",
-      "traffic_label": "200+",
-      "published": "Fri, 13 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "軍公教",
-      "traffic_label": "2000+",
-      "published": "Fri, 13 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "火箭 對 爵士",
-      "traffic_label": "500+",
-      "published": "Fri, 13 Nov 2026 17:00:00 -0800",
+      "published": "Sat, 14 Nov 2026 16:20:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "【常规赛G13】NBA杯小组赛 客战休斯顿",
-          "url": "https://bbs.hupu.com/643907760.html",
-          "source": "虎扑体育网"
+          "title": "[流言板]忘剑得神彬，Bin成为LPL历史首位大满贯上路选手",
+          "url": "https://bbs.hupu.com/643943278.html",
+          "source": "虎扑"
         },
         {
-          "title": "火箭主场迎战爵士！伤病与禁赛情况更新",
-          "url": "https://m.sohu.com/a/1101369447_121926208?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
+          "title": "",
+          "url": "https://news.qq.com/rain/a/20261114A0DM7700",
+          "source": "QQ News"
         },
         {
-          "title": "两队总分预期与外界设定有何玄机",
-          "url": "https://www.nowscore.com/news/1272678.htm",
-          "source": "捷报比分网"
+          "title": "BLG赛季总结：先锋赛冠军开头S冠收尾，MSI、联赛双亚略显遗憾",
+          "url": "https://m.dongqiudi.com/article/6654547.html",
+          "source": "懂球帝"
         }
       ],
       "source": "google_trends_rss"
