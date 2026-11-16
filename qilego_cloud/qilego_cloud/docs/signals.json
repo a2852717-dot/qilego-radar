@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T02:12:59.429500+00:00",
+  "updated_at": "2026-11-16T02:25:29.072452+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,227 +13,147 @@
   },
   "records": [
     {
-      "term": "u23",
+      "term": "欣興",
       "traffic_label": "500+",
-      "published": "Sat, 14 Nov 2026 18:00:00 -0800",
+      "published": "Sun, 15 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "錫安·威廉森",
-      "traffic_label": "100+",
-      "published": "Sat, 14 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "惨败后不再沉默！锡安直言鹈鹕全员需自省",
-          "url": "https://m.sohu.com/a/1101571046_121953481?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
-        },
-        {
-          "title": "篮网vs鹈鹕全场录像回放-NBA常规赛(2026年11月12日)",
-          "url": "https://m.qiumiwu.com/news/2041174795285",
-          "source": "球迷屋"
-        },
-        {
-          "title": "篮网8人上双客场狂胜鹈鹕 杰明复出23分钟22分",
-          "url": "https://lq.7m.com.cn/news/20261112/283860.shtml",
-          "source": "7M体育"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "柯文哲",
-      "traffic_label": "100+",
-      "published": "Sat, 14 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "民眾黨桃園造勢張善政與會展現藍白合氣勢| 地方",
-          "url": "https://www.cna.com.tw/news/aloc/202611150002.aspx",
-          "source": "中央社 CNA"
-        },
-        {
-          "title": "柯Ｐ與江吃播 揚言電爆洋流",
-          "url": "https://www.cdns.com.tw/articles/1490696",
-          "source": "中華新聞雲／中華日報"
-        },
-        {
-          "title": "同框柯文哲直播 推青年地上權宅與育兒友善、柯讚江啟臣「有準備」",
-          "url": "https://www.ksnews.com.tw/e/159887",
-          "source": "更生新聞網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "灰狼 對 公牛",
-      "traffic_label": "500+",
-      "published": "Sat, 14 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "NBA》Dosunmu將爆砍84分？外界多看好灰狼主場輕鬆拿下公牛收5連勝",
-          "url": "https://tw.sports.yahoo.com/news/nba-dosunmu%E5%B0%87%E7%88%86%E7%A0%8D84%E5%88%86-%E5%A4%96%E7%95%8C%E5%A4%9A%E7%9C%8B%E5%A5%BD%E7%81%B0%E7%8B%BC%E4%B8%BB%E5%A0%B4%E8%BC%95%E9%AC%86%E6%8B%BF%E4%B8%8B%E5%85%AC%E7%89%9B%E6%94%B65%E9%80%A3%E5%8B%9D-150034408.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "NBA運彩分析 》金塊客場出擊挑戰鵜鶘，威廉姆斯獨木難支",
-          "url": "https://tsna.com/article/205751",
-          "source": "TSNA體育新聞團隊"
-        },
-        {
-          "title": "NBA 11/15賽程》熱火VS活塞必看！字母哥挑戰4連勝、卻碰王者活塞",
-          "url": "https://www.nownews.com/news/6892373",
-          "source": "NOWnews今日新聞"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "灰熊 對 籃網",
-      "traffic_label": "500+",
-      "published": "Sat, 14 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "NBA／ 獨行俠「電話不想接」！熱火搶厄文無望 名記建議轉盯灰熊王牌",
-          "url": "https://tw.sports.yahoo.com/news/nba-%E7%8D%A8%E8%A1%8C%E4%BF%A0-%E9%9B%BB%E8%A9%B1%E4%B8%8D%E6%83%B3%E6%8E%A5-%E7%86%B1%E7%81%AB%E6%90%B6%E5%8E%84%E6%96%87%E7%84%A1%E6%9C%9B-%E5%90%8D%E8%A8%98%E5%BB%BA%E8%AD%B0%E8%BD%89%E7%9B%AF%E7%81%B0%E7%86%8A%E7%8E%8B%E7%89%8C-091704584.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "NBA／國王1勝10敗慘開局！拉文遭熱火盯上 球團急找「老八奇蹟」功臣",
-          "url": "https://tw-nba.udn.com/nba/story/7002/9874718",
-          "source": "udn NBA"
-        },
-        {
-          "title": "NBA》開季1勝10敗急需後場戰力 國王向Gabe Vincent開出合約 | TSNA",
-          "url": "https://today.line.me/tw/v3/article/MLBlmYw",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "南港展覽館",
-      "traffic_label": "500+",
-      "published": "Sat, 14 Nov 2026 17:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "返家製茶拿頭等獎、下班顧社群 木柵兩家茶坊迎茶博會",
-          "url": "https://www.cdns.com.tw/articles/1490331",
-          "source": "中華新聞雲／中華日報"
-        },
-        {
-          "title": "台灣國際茶業博覽會登場高雄山茶8大特色茶席亮相| 生活",
-          "url": "https://newtalk.tw/news/view/2026-11-14/1071139",
-          "source": "Newtalk新聞"
-        },
-        {
-          "title": "科學化評鑑接軌國際 蘇宗振肯定茶農、咖啡農努力 期許台灣好茶與咖啡走向世界 | 勁報",
-          "url": "https://today.line.me/tw/v3/article/BEmj77z",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "熱火 對 活塞",
-      "traffic_label": "500+",
-      "published": "Sat, 14 Nov 2026 16:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "NBA》強強對決！Cunningham領軍活塞 作客3連勝的熱火",
-          "url": "https://tw.sports.yahoo.com/news/nba-%E5%BC%B7%E5%BC%B7%E5%B0%8D%E6%B1%BA-cunningham%E9%A0%98%E8%BB%8D%E6%B4%BB%E5%A1%9E-%E4%BD%9C%E5%AE%A23%E9%80%A3%E5%8B%9D%E7%9A%84%E7%86%B1%E7%81%AB-094933330.html",
-          "source": "Yahoo運動"
-        },
-        {
-          "title": "NBA》Cunningham轟52分11助攻無失誤！ 活塞2OT險勝巫師",
-          "url": "https://sport.vl.com.tw/newspage01.aspx?sno=86274",
-          "source": "緯來體育台"
-        },
-        {
-          "title": "逾50分、10助攻無失誤 坎寧安史上第1人",
-          "url": "https://sports.ltn.com.tw/news/paper/1778459",
-          "source": "自由體育"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "u23 賽程",
+      "term": "消費 券",
       "traffic_label": "2000+",
-      "published": "Sat, 14 Nov 2026 16:30:00 -0800",
+      "published": "Sun, 15 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "黃鈞麟一棒擊沉日本！U23中華隊2比1逆轉勝 晉級獎牌戰差一步",
-          "url": "https://tw.news.yahoo.com/%E9%BB%83%E9%88%9E%E9%BA%9F-%E6%A3%92%E6%93%8A%E6%B2%89%E6%97%A5%E6%9C%AC-u23%E4%B8%AD%E8%8F%AF%E9%9A%8A2%E6%AF%941%E9%80%86%E8%BD%89%E5%8B%9D-%E6%99%89%E7%B4%9A%E7%8D%8E%E7%89%8C%E6%88%B0%E5%B7%AE-%E6%AD%A5-022452732.html",
+          "title": "錯過等明年！阿里山賞楓列車11／17開放搶票，限量500名額、遊程內容一次看",
+          "url": "https://tw.news.yahoo.com/%E9%8C%AF%E9%81%8E%E7%AD%89%E6%98%8E%E5%B9%B4-%E9%98%BF%E9%87%8C%E5%B1%B1%E8%B3%9E%E6%A5%93%E5%88%97%E8%BB%8A11-17%E9%96%8B%E6%94%BE%E6%90%B6%E7%A5%A8-%E9%99%90%E9%87%8F500%E5%90%8D%E9%A1%8D-%E9%81%8A%E7%A8%8B%E5%85%A7%E5%AE%B9-000000982.html",
           "source": "Yahoo新聞"
         },
         {
-          "title": "U23世界盃》兄弟新星超前轟、混血火球男完投！台灣克日本奪2連勝",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5640370",
-          "source": "自由體育"
+          "title": "最新旅遊補助加碼來了！觀光署發「每人最高2500元」全國都能申請，發放金額/ 資格方式一文看",
+          "url": "https://www.storm.mg/lifestyle/11180454",
+          "source": "風傳媒"
         },
         {
-          "title": "由RAXUS呈現，2026年WBSC U-23世界盃棒球賽：戰報—黃俊麟第六局全壘打建功，助中華隊力克日本",
-          "url": "https://www.wbsc.org/zh/news/wbsc-u-23-baseball-world-cup-2026-presented-by-raxus-game-report-41-chinese-taipei-japan",
-          "source": "World Baseball Softball Confederation (WBSC)"
+          "title": "百年蒸汽火車開進楓紅！阿里山賞楓專列限量500名　訂票時間曝",
+          "url": "https://travel.setn.com/News/1939279",
+          "source": "三立新聞網SETN.com"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "android xr",
-      "traffic_label": "100+",
-      "published": "Sat, 14 Nov 2026 16:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "See our intelligent eyewear lineup and pre-order your pair",
-          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
-          "source": "blog.google"
-        },
-        {
-          "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
-          "url": "https://tech.yahoo.com/ar-vr/articles/googles-android-xr-smart-glasses-042917899.html",
-          "source": "Yahoo Tech"
-        },
-        {
-          "title": "Your Pixel Watch or Galaxy Watch Can Control Samsung and Google’s New Smart Glasses",
-          "url": "https://gizmodo.com/pixel-watch-galaxy-watch-samsung-smart-glasses-2000839184",
-          "source": "Gizmodo"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "聖槍哥",
+      "term": "景碩",
       "traffic_label": "200+",
-      "published": "Sat, 14 Nov 2026 16:20:00 -0800",
+      "published": "Sun, 15 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "[流言板]忘剑得神彬，Bin成为LPL历史首位大满贯上路选手",
-          "url": "https://bbs.hupu.com/643943278.html",
-          "source": "虎扑"
+          "title": "台股4檔遭關禁閉！全新近5日飆逾2成、景碩同入列 致茂、台勝科今日出關",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A14%E6%AA%94%E9%81%AD%E9%97%9C%E7%A6%81%E9%96%89-%E5%85%A8%E6%96%B0%E8%BF%915%E6%97%A5%E9%A3%86%E9%80%BE2%E6%88%90-%E6%99%AF%E7%A2%A9%E5%90%8C%E5%85%A5%E5%88%97-%E8%87%B4%E8%8C%82-%E5%8F%B0%E5%8B%9D%E7%A7%91%E4%BB%8A%E6%97%A5%E5%87%BA%E9%97%9C-005000314.html",
+          "source": "Yahoo股市"
         },
         {
-          "title": "",
-          "url": "https://news.qq.com/rain/a/20261114A0DM7700",
-          "source": "QQ News"
+          "title": "《台北股市》處置股：13日6檔 致茂、台勝科準備出關了！",
+          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6359550001&PU=1002",
+          "source": "富聯網"
         },
         {
-          "title": "BLG赛季总结：先锋赛冠军开头S冠收尾，MSI、联赛双亚略显遗憾",
-          "url": "https://m.dongqiudi.com/article/6654547.html",
-          "source": "懂球帝"
+          "title": "《興櫃股》注意股：合聖科技* 近5日漲47.12%",
+          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6354978001&PU=1002",
+          "source": "富聯網"
         }
       ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "京元電",
+      "traffic_label": "200+",
+      "published": "Sun, 15 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "智邦",
+      "traffic_label": "100+",
+      "published": "Sun, 15 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "外資修正 AI 族群估值 調降指標股目標價",
+          "url": "https://money.udn.com/money/story/5607/9880551",
+          "source": "經濟日報"
+        },
+        {
+          "title": "外資下修智邦目標價仍看好長線基本面、維持正向評等| 經濟日報",
+          "url": "https://today.line.me/tw/v3/article/WBpvzNv",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "「網通大廠」法說會登場倒數！大摩、瑞銀、大和資本目標價全下修 理由一次看",
+          "url": "https://www.ftnn.com.tw/news/595720",
+          "source": "FTNN"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00892",
+      "traffic_label": "200+",
+      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "季增13萬人搶息！00878豪配1.25元新高今最後買進日 「這6檔」年化配息率飆逾16%超香",
+          "url": "https://tw.stock.yahoo.com/news/%E5%AD%A3%E5%A2%9E13%E8%90%AC%E4%BA%BA%E6%90%B6%E6%81%AF-00878%E8%B1%AA%E9%85%8D1-25%E5%85%83%E6%96%B0%E9%AB%98%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E9%80%996%E6%AA%94-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%A3%86%E9%80%BE16-012000015.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "00878配息1.25元創新高! 今為參與配息最後買進日",
+          "url": "https://stock.ltn.com.tw/article/87kbescl8qhp",
+          "source": "自由時報"
+        },
+        {
+          "title": "台股回檔 ETF「跌」出高殖利率！29檔除息大秀開跑 單次殖利率最高17.09％",
+          "url": "https://www.ctee.com.tw/news/20261116700070-439901",
+          "source": "工商時報"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "陳永福",
+      "traffic_label": "200+",
+      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "輝達財報",
+      "traffic_label": "100+",
+      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "創意",
+      "traffic_label": "200+",
+      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "戴立安民調",
+      "traffic_label": "20000+",
+      "published": "Sun, 15 Nov 2026 17:20:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
       "source": "google_trends_rss"
     }
   ],
