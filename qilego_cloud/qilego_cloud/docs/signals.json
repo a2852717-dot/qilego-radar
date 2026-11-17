@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:25:29.072452+00:00",
+  "updated_at": "2026-11-17T02:21:47.500800+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,147 +13,195 @@
   },
   "records": [
     {
-      "term": "欣興",
+      "term": "垃圾",
       "traffic_label": "500+",
-      "published": "Sun, 15 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "消費 券",
-      "traffic_label": "2000+",
-      "published": "Sun, 15 Nov 2026 17:50:00 -0800",
+      "published": "Mon, 16 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "錯過等明年！阿里山賞楓列車11／17開放搶票，限量500名額、遊程內容一次看",
-          "url": "https://tw.news.yahoo.com/%E9%8C%AF%E9%81%8E%E7%AD%89%E6%98%8E%E5%B9%B4-%E9%98%BF%E9%87%8C%E5%B1%B1%E8%B3%9E%E6%A5%93%E5%88%97%E8%BB%8A11-17%E9%96%8B%E6%94%BE%E6%90%B6%E7%A5%A8-%E9%99%90%E9%87%8F500%E5%90%8D%E9%A1%8D-%E9%81%8A%E7%A8%8B%E5%85%A7%E5%AE%B9-000000982.html",
+          "title": "美國男靠「垃圾桶尋寶」翻身！年收破450萬還清債務 家具幾乎全撿來的",
+          "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E7%94%B7%E9%9D%A0-%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%B0%8B%E5%AF%B6-%E7%BF%BB%E8%BA%AB-%E5%B9%B4%E6%94%B6%E7%A0%B4450%E8%90%AC%E9%82%84%E6%B8%85%E5%82%B5%E5%8B%99-%E5%AE%B6%E5%85%B7%E5%B9%BE%E4%B9%8E%E5%85%A8%E6%92%BF%E4%BE%86%E7%9A%84-094400782.html",
           "source": "Yahoo新聞"
         },
         {
-          "title": "最新旅遊補助加碼來了！觀光署發「每人最高2500元」全國都能申請，發放金額/ 資格方式一文看",
-          "url": "https://www.storm.mg/lifestyle/11180454",
-          "source": "風傳媒"
+          "title": "爬上垃圾堆致富！31歲男逆轉人生 靠拾荒變現年賺462萬",
+          "url": "https://www.chinatimes.com/realtimenews/20261117001118-260405",
+          "source": "中時新聞網"
         },
         {
-          "title": "百年蒸汽火車開進楓紅！阿里山賞楓專列限量500名　訂票時間曝",
-          "url": "https://travel.setn.com/News/1939279",
-          "source": "三立新聞網SETN.com"
+          "title": "垃圾桶挖到寶！31歲男欠債40萬　靠拾荒「1年賺462萬」逆轉人生",
+          "url": "https://www.ettoday.net/news/20261116/3272977.htm",
+          "source": "ETtoday新聞雲"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "景碩",
-      "traffic_label": "200+",
-      "published": "Sun, 15 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "台股4檔遭關禁閉！全新近5日飆逾2成、景碩同入列 致茂、台勝科今日出關",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A14%E6%AA%94%E9%81%AD%E9%97%9C%E7%A6%81%E9%96%89-%E5%85%A8%E6%96%B0%E8%BF%915%E6%97%A5%E9%A3%86%E9%80%BE2%E6%88%90-%E6%99%AF%E7%A2%A9%E5%90%8C%E5%85%A5%E5%88%97-%E8%87%B4%E8%8C%82-%E5%8F%B0%E5%8B%9D%E7%A7%91%E4%BB%8A%E6%97%A5%E5%87%BA%E9%97%9C-005000314.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "《台北股市》處置股：13日6檔 致茂、台勝科準備出關了！",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6359550001&PU=1002",
-          "source": "富聯網"
-        },
-        {
-          "title": "《興櫃股》注意股：合聖科技* 近5日漲47.12%",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6354978001&PU=1002",
-          "source": "富聯網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "京元電",
-      "traffic_label": "200+",
-      "published": "Sun, 15 Nov 2026 17:40:00 -0800",
+      "term": "欣興",
+      "traffic_label": "500+",
+      "published": "Mon, 16 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "智邦",
-      "traffic_label": "100+",
-      "published": "Sun, 15 Nov 2026 17:40:00 -0800",
+      "term": "cfo",
+      "traffic_label": "200+",
+      "published": "Mon, 16 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "外資修正 AI 族群估值 調降指標股目標價",
-          "url": "https://money.udn.com/money/story/5607/9880551",
-          "source": "經濟日報"
+          "title": "Mayor Brandon Johnson’s CFO resigns, citing refusal to ‘compromise my integrity’",
+          "url": "https://www.chicagotribune.com/2026/11/13/mayor-brandon-johnson-cfo-resigns/",
+          "source": "Chicago Tribune"
         },
         {
-          "title": "外資下修智邦目標價仍看好長線基本面、維持正向評等| 經濟日報",
-          "url": "https://today.line.me/tw/v3/article/WBpvzNv",
-          "source": "LINE TODAY"
+          "title": "Chicago CFO's exit raises disclosure concerns",
+          "url": "https://www.bondbuyer.com/news/chicago-cfos-exit-raises-disclosure-concerns",
+          "source": "Bond Buyer"
         },
         {
-          "title": "「網通大廠」法說會登場倒數！大摩、瑞銀、大和資本目標價全下修 理由一次看",
-          "url": "https://www.ftnn.com.tw/news/595720",
-          "source": "FTNN"
+          "title": "Was the CFO’s resignation a dirty political play?",
+          "url": "https://thetriibe.com/reshape/was-the-cfos-resignation-a-dirty-political-play/",
+          "source": "The TRiiBE"
         }
       ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00892",
-      "traffic_label": "200+",
-      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "季增13萬人搶息！00878豪配1.25元新高今最後買進日 「這6檔」年化配息率飆逾16%超香",
-          "url": "https://tw.stock.yahoo.com/news/%E5%AD%A3%E5%A2%9E13%E8%90%AC%E4%BA%BA%E6%90%B6%E6%81%AF-00878%E8%B1%AA%E9%85%8D1-25%E5%85%83%E6%96%B0%E9%AB%98%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E9%80%996%E6%AA%94-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%A3%86%E9%80%BE16-012000015.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "00878配息1.25元創新高! 今為參與配息最後買進日",
-          "url": "https://stock.ltn.com.tw/article/87kbescl8qhp",
-          "source": "自由時報"
-        },
-        {
-          "title": "台股回檔 ETF「跌」出高殖利率！29檔除息大秀開跑 單次殖利率最高17.09％",
-          "url": "https://www.ctee.com.tw/news/20261116700070-439901",
-          "source": "工商時報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "陳永福",
-      "traffic_label": "200+",
-      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "輝達財報",
-      "traffic_label": "100+",
-      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
       "source": "google_trends_rss"
     },
     {
       "term": "創意",
-      "traffic_label": "200+",
-      "published": "Sun, 15 Nov 2026 17:30:00 -0800",
+      "traffic_label": "2000+",
+      "published": "Mon, 16 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "戴立安民調",
-      "traffic_label": "20000+",
-      "published": "Sun, 15 Nov 2026 17:20:00 -0800",
+      "term": "台燿",
+      "traffic_label": "200+",
+      "published": "Mon, 16 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "精材",
+      "traffic_label": "100+",
+      "published": "Mon, 16 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "「台積電封裝夥伴」跌停鎖死 原因曝光",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%81%E8%A3%9D%E5%A4%A5%E4%BC%B4-%E8%B7%8C%E5%81%9C%E9%8E%96%E6%AD%BB-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-045000648.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "精材與台積電簽7年產能協議 進駐中科oS產線2029邁量產",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774943_HOXL3L1Y3118634RMO10R&cf=A21",
+          "source": "DIGITIMES"
+        },
+        {
+          "title": "台積電、友達合攻先進封裝 在玻璃基板 CoPoS 領域合作開發新製程",
+          "url": "https://money.udn.com/money/story/5612/9880563",
+          "source": "經濟日報"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "pelicans vs warriors",
+      "traffic_label": "200+",
+      "published": "Mon, 16 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Game Preview: Warriors at New Orleans Pelicans - 11/16/26",
+          "url": "https://warriors.com/news/gameday-preview-20261116",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Preview: Lessons were learned in Texas",
+          "url": "https://dubnationhq.com/p/preview-lessons-were-learned-in-texas",
+          "source": "Dub Nation HQ"
+        },
+        {
+          "title": "Warriors Injuries: Curry, Butler, Porzingis and Moody All Out",
+          "url": "https://www.squawka.com/ca/news/nba/warriors-injuries-curry-butler-porzingis-moody/",
+          "source": "Squawka"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "信驊",
+      "traffic_label": "200+",
+      "published": "Mon, 16 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "快訊／萬金股掰了！信驊跌停打開仍失守萬元　一張最多賠108萬",
+          "url": "https://finance.ettoday.net/news/3273448",
+          "source": "ETtoday財經雲"
+        },
+        {
+          "title": "焦點股》信驊：唯一「萬元股」飛了 開盤跌停",
+          "url": "https://stock.ltn.com.tw/article/7qz8mgb5c9dh",
+          "source": "自由時報"
+        },
+        {
+          "title": "《半導體》AI伺服器愈複雜愈有利！外資看好信驊 目標價2.2萬元",
+          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6363237001&PU=1002",
+          "source": "富聯網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "dplus kia",
+      "traffic_label": "100+",
+      "published": "Mon, 16 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Dplus KIA Youth Sweeps Both First and Second-Half LCK Academy League Titles",
+          "url": "https://www.invenglobal.com/articles/28692/dplus-kia-youth-sweeps-both-first-and-second-half-lck-academy-league-titles",
+          "source": "Inven Global"
+        },
+        {
+          "title": "LoL Esports 2027 and Beyond",
+          "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
+          "source": "LoL Esports"
+        },
+        {
+          "title": "LoL Worlds 2027 Heads to Japan — MSI & First Stand Updates",
+          "url": "https://escharts.com/news/worlds-2027-expands-japan",
+          "source": "Esports Charts"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "沃伦·巴菲特",
+      "traffic_label": "200+",
+      "published": "Mon, 16 Nov 2026 17:10:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "巴菲特向家族基金会捐赠54亿美元伯克希尔哈撒韦股票",
+          "url": "https://cn.wsj.com/articles/warren-buffett-donating-5-4-billion-of-berkshire-hathaway-stock-to-family-foundations-2c7cce28",
+          "source": "华尔街日报中文网"
+        },
+        {
+          "title": "股神巴菲特出手了！55亿美元股票全部捐出 三个子女管理的基金会获赠",
+          "url": "https://news.mydrivers.com/1/1166/1166269.htm",
+          "source": "驱动之家"
+        },
+        {
+          "title": "感恩節前巴菲特捐55億美元 強調善意會複利",
+          "url": "https://www.epochtimes.com/gb/26/11/16/n14889726.htm",
+          "source": "大紀元"
+        }
+      ],
       "source": "google_trends_rss"
     }
   ],
