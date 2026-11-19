@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:19:54.430883+00:00",
+  "updated_at": "2026-11-19T02:19:35.562695+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,177 +13,177 @@
   },
   "records": [
     {
-      "term": "轉運飲料",
+      "term": "川湖股價",
       "traffic_label": "200+",
-      "published": "Tue, 17 Nov 2026 18:00:00 -0800",
+      "published": "Wed, 18 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "川湖、矽力 押逾三個月",
+          "url": "https://udn.com/news/story/7255/9882488",
+          "source": "UDN"
+        },
+        {
+          "title": "2059 川湖- 川湖不必永遠追求88%毛利率，規模與獲利成長才是關鍵！ - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/189093319",
+          "source": "CMoney"
+        },
+        {
+          "title": "【即時新聞】今日台股強震近1750點，AI供應鏈遭逢重擊，川湖早盤一度觸及跌停！",
+          "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-121aba33-e290-11f1-be2b-f0acc953bf9d",
+          "source": "CMoney投資網誌"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "rene haas",
+      "traffic_label": "100+",
+      "published": "Wed, 18 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Why Nvidia doesn't need a 'big splashy hire' to replace Jensen Huang as CEO",
+          "url": "https://finance.yahoo.com/technology/article/why-nvidia-doesnt-need-a-big-splashy-hire-to-replace-jensen-huang-as-ceo-154424603.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jeff Bezos has some advice for Nvidia’s board on its CEO search",
+          "url": "https://www.geekwire.com/2026/jeff-bezos-has-some-advice-for-nvidias-board-on-its-ceo-search/",
+          "source": "GeekWire"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "mavericks vs warriors",
+      "traffic_label": "100+",
+      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Polymarket Promo Code FOX: Claim $25 in Bonuses When You Trade on Celtics vs. Nuggets or Any NBA Game Tonight",
+          "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-claim-25-bonuses-when-you-trade-celtics-vs-nuggets-any-nba-game-tonight",
+          "source": "FOX Sports"
+        },
+        {
+          "title": "NBA Kalshi promo code “OREGONLIVE55” enhances $55 bonus for Wednesday night",
+          "url": "https://www.oregonlive.com/betting/2026/11/nba-kalshi-promo-code-oregonlive55-enhances-55-bonus-for-wednesday-night.html",
+          "source": "OregonLive.com"
+        },
+        {
+          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for Jazz vs. Lakers",
+          "url": "https://nypost.com/2026/11/18/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-jazz-vs-lakers/",
+          "source": "New York Post"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "運動幣",
+      "traffic_label": "200+",
+      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "蔡易餘",
+      "term": "兆豐金",
       "traffic_label": "100+",
-      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
+      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "蔡英文南下挺蔡易餘 拚嘉義縣長與鄉鎮市長全勝",
-          "url": "https://tw.news.yahoo.com/%E8%94%A1%E8%8B%B1%E6%96%87%E5%8D%97%E4%B8%8B%E6%8C%BA%E8%94%A1%E6%98%93%E9%A4%98-%E6%8B%9A%E5%98%89%E7%BE%A9%E7%B8%A3%E9%95%B7%E8%88%87%E9%84%89%E9%8E%AE%E5%B8%82%E9%95%B7%E5%85%A8%E5%8B%9D-051436276.html",
-          "source": "Yahoo新聞"
+          "title": "【09:25 即時新聞】兆豐金(2886)股價走強，金融股買盤成盤中焦點",
+          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-132e0785-e3b8-11f1-b6f5-0ca794795dcb",
+          "source": "CMoney投資網誌"
         },
         {
-          "title": "基泰施工圖...被灌漿掩埋 北市府澄清：不影響究責",
-          "url": "https://www.ttv.com.tw/videocity/video_play.asp?id=959219&from=613",
-          "source": "台視全球資訊網"
+          "title": "兆豐票券董事長由金控總經理張傳章接任- 金融",
+          "url": "https://www.ctee.com.tw/news/20261118701847-430301",
+          "source": "工商時報"
         },
         {
-          "title": "台積電進駐 卓榮泰：嘉義將成為「農業科技大縣」",
-          "url": "https://www.rti.org.tw/news?uid=3&pid=1051614",
-          "source": "Rti 中央廣播電臺"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "gpt 6.2",
-      "traffic_label": "100+",
-      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Introducing GPT-6.2 Astra and Sol",
-          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-          "source": "OpenAI"
-        },
-        {
-          "title": "OpenAI just launched GPT-6.2, and it's come a long way from writing emails — one developer used it to recreate the whole of Paris as an explorable virtual world",
-          "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-just-launched-gpt-6-200239442.html",
-          "source": "Yahoo Tech"
-        },
-        {
-          "title": "GPT-6.2 Sol vs GPT-6 Sol: The Last Sol With Reasoning Off",
-          "url": "https://www.orcarouter.ai/blog/gpt-6-2-sol-vs-gpt-6-sol",
-          "source": "OrcaRouter"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "9933",
-      "traffic_label": "200+",
-      "published": "Tue, 17 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "中鼎工程進入施作高峰，明年獲利更優今年- 新聞",
-          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=efd56ed4-c702-44e1-930d-96d871171f90",
-          "source": "MoneyDJ"
-        },
-        {
-          "title": "焦點股》中鼎：Q3獲利強 將擺脫拖油瓶",
-          "url": "https://stock.ltn.com.tw/article/lerp5ulubsh0",
-          "source": "自由時報"
-        },
-        {
-          "title": "中鼎踩雷後股價創了13年新高 做對了什麼？ | 產業熱點 | 產業",
-          "url": "https://money.udn.com/money/story/5612/9885060",
+          "title": "兆豐票券董座懸缺數月 拍板金控總經理張傳章接任",
+          "url": "https://money.udn.com/money/story/5613/9886977",
           "source": "經濟日報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "強風",
-      "traffic_label": "500+",
-      "published": "Tue, 17 Nov 2026 17:40:00 -0800",
+      "term": "南電",
+      "traffic_label": "200+",
+      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "関東 明け方にかけ警報級大雨恐れ",
-          "url": "https://news.yahoo.co.jp/pickup/6602933",
-          "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "19日～20日は全国で風強く交通機関に影響 暴風に警戒 北陸～中国地方の山で積雪(気象予報士 日直主任)",
-          "url": "https://tenki.jp/forecaster/deskpart/2026/11/17/41342.html",
-          "source": "tenki.jp"
-        },
-        {
-          "title": "明日から冬型の気圧配置が強まる 全国的に荒天のおそれ",
-          "url": "https://weathernews.jp/news/202611/180081/",
-          "source": "ウェザーニュース"
-        }
-      ],
+      "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "景碩股價",
-      "traffic_label": "1000+",
-      "published": "Tue, 17 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "ABF、CCL跌到剩骨？PCB女王點名4檔「便宜了」：還會反彈但漲法變了",
-          "url": "https://tw.stock.yahoo.com/news/abf-ccl%E8%B7%8C%E5%88%B0%E5%89%A9%E9%AA%A8-pcb%E5%A5%B3%E7%8E%8B%E9%BB%9E%E5%90%8D4%E6%AA%94-%E4%BE%BF%E5%AE%9C%E4%BA%86-%E9%82%84%E6%9C%83%E5%8F%8D%E5%BD%88%E4%BD%86%E6%BC%B2%E6%B3%95%E8%AE%8A%E4%BA%86-013000200.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "焦點股／載板三雄高點回跌約5成！景碩、南電跌停失守年線欣興也亮綠燈| 產經",
-          "url": "http://news.ustv.com.tw/newsdetail/20261117A001013",
-          "source": "非凡新聞台"
-        },
-        {
-          "title": "景碩開盤重挫60元再跌停 股民哀號賣不掉 更怕4字頭來了",
-          "url": "https://stock.ltn.com.tw/article/39cy6jbazmvq",
-          "source": "自由時報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "2884",
+      "term": "安芬尼·西蒙斯",
       "traffic_label": "100+",
-      "published": "Tue, 17 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "烏山頭水庫",
-      "traffic_label": "500+",
-      "published": "Tue, 17 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "玉山金",
-      "traffic_label": "200+",
-      "published": "Tue, 17 Nov 2026 17:20:00 -0800",
+      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "輝達換帥只是起點：當AI開始改進AI，台灣供應鏈如何擺脫「無話語權」困局？",
-          "url": "https://www.thenewslens.com/article/271147",
-          "source": "TNL The News Lens 關鍵評論網"
+          "title": "[流言板]76人首发：西蒙斯、埃奇库姆、波普、詹姆斯和恩比德",
+          "url": "https://bbs.hupu.com/644047085.html",
+          "source": "虎扑体育网"
         },
         {
-          "title": "「後黃仁勳時代」　專家示警台股2029年大考驗：人情飯不再",
-          "url": "https://finance.ettoday.net/news/3274003",
-          "source": "ETtoday財經雲"
+          "title": "詹姆斯“绝不回湖人”言犹在耳，76人与魔术的对决揭示了建队逻辑的短板",
+          "url": "https://m.sohu.com/a/1103444799_122252830?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
         },
         {
-          "title": "「台灣人在美最成功企業家！」黃男州談黃仁勳下台影響",
-          "url": "https://tw.stock.yahoo.com/news/%E3%80%8C%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%9C%A8%E7%BE%8E%E6%9C%80%E6%88%90%E5%8A%9F%E4%BC%81%E6%A5%AD%E5%AE%B6%EF%BC%81%E3%80%8D%E9%BB%83%E7%94%B7%E5%B7%9E%E8%AB%87%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0%E5%BD%B1%E9%9F%BF-071115655.html",
-          "source": "Yahoo股市"
+          "title": "没难度！球奕社！只做最纯粹、严谨的知识输出！",
+          "url": "https://www.nowscore.com/news/1277462.htm",
+          "source": "捷报比分网"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "3189",
+      "term": "企鵝",
+      "traffic_label": "100+",
+      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "低溫天氣到，台北動物園「企鵝走路趣」11/19高機率登場！周邊好禮一次看",
+          "url": "https://www.gvm.com.tw/article/134611",
+          "source": "遠見雜誌"
+        },
+        {
+          "title": "企鵝明天出門散步！北市動物園首辦「企鵝走路趣」　時間、地點曝光",
+          "url": "https://travel.setn.com/News/1941069",
+          "source": "三立新聞網SETN.com"
+        },
+        {
+          "title": "不用出國也能看！氣溫低於24度 有望見黑腳企鵝走路",
+          "url": "https://ctinews.com/news/items/gGaMk8plnK",
+          "source": "中天新聞網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "2412",
       "traffic_label": "200+",
-      "published": "Tue, 17 Nov 2026 17:20:00 -0800",
+      "published": "Wed, 18 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "中華電",
+      "traffic_label": "100+",
+      "published": "Wed, 18 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
