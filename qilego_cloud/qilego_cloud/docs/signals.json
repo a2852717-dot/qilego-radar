@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:19:35.562695+00:00",
+  "updated_at": "2026-11-20T02:19:34.298140+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,179 +13,163 @@
   },
   "records": [
     {
-      "term": "川湖股價",
-      "traffic_label": "200+",
-      "published": "Wed, 18 Nov 2026 18:00:00 -0800",
+      "term": "虎航",
+      "traffic_label": "1000+",
+      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "川湖、矽力 押逾三個月",
-          "url": "https://udn.com/news/story/7255/9882488",
-          "source": "UDN"
+          "title": "高雄鄉親有福了！春節出國玩 虎航推東京羽田包機每天一班",
+          "url": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%9B%84%E9%84%89%E8%A6%AA%E6%9C%89%E7%A6%8F%E4%BA%86%EF%BC%81%E6%98%A5%E7%AF%80%E5%87%BA%E5%9C%8B%E7%8E%A9-%E8%99%8E%E8%88%AA%E6%8E%A8%E6%9D%B1%E4%BA%AC%E7%BE%BD%E7%94%B0%E5%8C%85%E6%A9%9F%E6%AF%8F%E5%A4%A9%E4%B8%80%E7%8F%AD-021513827.html",
+          "source": "Yahoo股市"
         },
         {
-          "title": "2059 川湖- 川湖不必永遠追求88%毛利率，規模與獲利成長才是關鍵！ - 股市爆料同學會",
-          "url": "https://www.cmoney.tw/forum/article/189093319",
-          "source": "CMoney"
+          "title": "「高雄－東京羽田」包機明年2月開航　跟團6天33900元起",
+          "url": "https://travel.ettoday.net/article/3274132.htm",
+          "source": "ETtoday旅遊雲"
         },
         {
-          "title": "【即時新聞】今日台股強震近1750點，AI供應鏈遭逢重擊，川湖早盤一度觸及跌停！",
-          "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-121aba33-e290-11f1-be2b-f0acc953bf9d",
-          "source": "CMoney投資網誌"
+          "title": "南台灣旅客過年遊日本不用跑桃園！虎航明年春節包機「高雄直飛羽田」",
+          "url": "https://newtalk.tw/news/view/2026-11-18/1071808",
+          "source": "Newtalk新聞"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "rene haas",
-      "traffic_label": "100+",
-      "published": "Wed, 18 Nov 2026 18:00:00 -0800",
+      "term": "黃金價格",
+      "traffic_label": "2000+",
+      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
-          "source": "Bloomberg.com"
+          "title": "國際｜AI股急瀉觸發套現 金價四連跌見今年低位",
+          "url": "https://hk.finance.yahoo.com/news/%E5%9C%8B%E9%9A%9B-ai%E8%82%A1%E6%80%A5%E7%80%89%E8%A7%B8%E7%99%BC%E5%A5%97%E7%8F%BE-%E9%87%91%E5%83%B9%E5%9B%9B%E9%80%A3%E8%B7%8C%E8%A6%8B%E4%BB%8A%E5%B9%B4%E4%BD%8E%E4%BD%8D-000053747.html",
+          "source": "Yahoo 財經"
         },
         {
-          "title": "Why Nvidia doesn't need a 'big splashy hire' to replace Jensen Huang as CEO",
-          "url": "https://finance.yahoo.com/technology/article/why-nvidia-doesnt-need-a-big-splashy-hire-to-replace-jensen-huang-as-ceo-154424603.html",
-          "source": "Yahoo Finance"
+          "title": "MoneyDJ新聞 2026-11-20 07:44:59 郭妍希 發佈",
+          "url": "https://www.moneydj.com/r/news/rnews_%7BF4309144-0B39-40C8-BA4F-B91BCD4E7F51%7D_6_A.djhtm",
+          "source": "MoneyDJ"
         },
         {
-          "title": "Jeff Bezos has some advice for Nvidia’s board on its CEO search",
-          "url": "https://www.geekwire.com/2026/jeff-bezos-has-some-advice-for-nvidias-board-on-its-ceo-search/",
-          "source": "GeekWire"
+          "title": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元",
+          "url": "https://m.cnyes.com/news/id/6668416",
+          "source": "鉅亨網"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "mavericks vs warriors",
-      "traffic_label": "100+",
-      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Polymarket Promo Code FOX: Claim $25 in Bonuses When You Trade on Celtics vs. Nuggets or Any NBA Game Tonight",
-          "url": "https://www.foxsports.com/stories/betting/polymarket-promo-code-fox-claim-25-bonuses-when-you-trade-celtics-vs-nuggets-any-nba-game-tonight",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "NBA Kalshi promo code “OREGONLIVE55” enhances $55 bonus for Wednesday night",
-          "url": "https://www.oregonlive.com/betting/2026/11/nba-kalshi-promo-code-oregonlive55-enhances-55-bonus-for-wednesday-night.html",
-          "source": "OregonLive.com"
-        },
-        {
-          "title": "Polymarket promo code NYPMAX1: Deposit $10, get $25 for Jazz vs. Lakers",
-          "url": "https://nypost.com/2026/11/18/betting/polymarket-promo-code-nypmax1-deposit-10-get-25-for-jazz-vs-lakers/",
-          "source": "New York Post"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "運動幣",
-      "traffic_label": "200+",
-      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
+      "term": "斷頭",
+      "traffic_label": "5000+",
+      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "兆豐金",
+      "term": "台光電",
+      "traffic_label": "200+",
+      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00632r",
       "traffic_label": "100+",
-      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
+      "published": "Thu, 19 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "【09:25 即時新聞】兆豐金(2886)股價走強，金融股買盤成盤中焦點",
-          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-132e0785-e3b8-11f1-b6f5-0ca794795dcb",
-          "source": "CMoney投資網誌"
-        },
-        {
-          "title": "兆豐票券董事長由金控總經理張傳章接任- 金融",
-          "url": "https://www.ctee.com.tw/news/20261118701847-430301",
-          "source": "工商時報"
-        },
-        {
-          "title": "兆豐票券董座懸缺數月 拍板金控總經理張傳章接任",
-          "url": "https://money.udn.com/money/story/5613/9886977",
+          "title": "最牛一輪／T50反1夯 元大64有戲",
+          "url": "https://money.udn.com/money/story/5739/9890167",
           "source": "經濟日報"
+        },
+        {
+          "title": "台股連日盤中摜破40K！4檔反一ETF撿到槍　00676R漲逾4%",
+          "url": "https://finance.ettoday.net/news/3274127",
+          "source": "ETtoday財經雲"
+        },
+        {
+          "title": "最牛一輪／T50反1夯 國泰69有戲",
+          "url": "https://udn.com/news/story/7255/9882489",
+          "source": "UDN"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "南電",
+      "term": "股王",
       "traffic_label": "200+",
-      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "安芬尼·西蒙斯",
-      "traffic_label": "100+",
-      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
+      "published": "Thu, 19 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "[流言板]76人首发：西蒙斯、埃奇库姆、波普、詹姆斯和恩比德",
-          "url": "https://bbs.hupu.com/644047085.html",
-          "source": "虎扑体育网"
+          "title": "「網通股王」智邦現增一億元日期確定了！股東每張可認購約13股",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%8C%E7%B6%B2%E9%80%9A%E8%82%A1%E7%8E%8B%E3%80%8D%E6%99%BA%E9%82%A6%E7%8F%BE%E5%A2%9E%E4%B8%80%E5%84%84%E5%85%83%E6%97%A5%E6%9C%9F%E7%A2%BA%E5%AE%9A%E4%BA%86%EF%BC%81%E8%82%A1%E6%9D%B1%E6%AF%8F%E5%BC%B5%E5%8F%AF%E8%AA%8D%E8%B3%BC%E7%B4%8413%E8%82%A1-093930748.html",
+          "source": "Yahoo股市"
         },
         {
-          "title": "詹姆斯“绝不回湖人”言犹在耳，76人与魔术的对决揭示了建队逻辑的短板",
-          "url": "https://m.sohu.com/a/1103444799_122252830?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
+          "title": "智邦擬辦現金增資 1 億元，以償還銀行借款、充實營運",
+          "url": "https://finance.technews.tw/2026/11/19/accton-stock/",
+          "source": "TechNews 科技新報"
         },
         {
-          "title": "没难度！球奕社！只做最纯粹、严谨的知识输出！",
-          "url": "https://www.nowscore.com/news/1277462.htm",
-          "source": "捷报比分网"
+          "title": "智邦辦理1億元現金增資 12/4除權每張得認13.36股",
+          "url": "https://news.cnyes.com/news/id/6666346",
+          "source": "鉅亨網"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "企鵝",
+      "term": "胡來旅行社",
+      "traffic_label": "200+",
+      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "杜 金龍",
+      "traffic_label": "200+",
+      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "台股崩盤",
       "traffic_label": "100+",
-      "published": "Wed, 18 Nov 2026 17:50:00 -0800",
+      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "印度股市",
+      "traffic_label": "100+",
+      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "低溫天氣到，台北動物園「企鵝走路趣」11/19高機率登場！周邊好禮一次看",
-          "url": "https://www.gvm.com.tw/article/134611",
-          "source": "遠見雜誌"
+          "title": "AI 交易冷了 這國股市反而熱了",
+          "url": "https://money.udn.com/money/story/5599/9887384",
+          "source": "經濟日報"
         },
         {
-          "title": "企鵝明天出門散步！北市動物園首辦「企鵝走路趣」　時間、地點曝光",
-          "url": "https://travel.setn.com/News/1941069",
-          "source": "三立新聞網SETN.com"
+          "title": "【展望 2027 系列二】台韓股市暴跌、印度逆勢大漲！2027 年是避風港還是新主角？",
+          "url": "https://www.macromicro.me/blog/Looking-Ahead-to-2027-Series-2-Taiwan-and-South-Korean-stock-markets-plummet-while-India-bucks-the-trend-and-surges-Will-2027-be-a-safe-haven-or-a-new-protagonist",
+          "source": "MacroMicro"
         },
         {
-          "title": "不用出國也能看！氣溫低於24度 有望見黑腳企鵝走路",
-          "url": "https://ctinews.com/news/items/gGaMk8plnK",
-          "source": "中天新聞網"
+          "title": "AI交易疲軟 外資砸重金 買印度股票避險",
+          "url": "https://news.wearn.com/c2149341.html",
+          "source": "聚財網"
         }
       ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "2412",
-      "traffic_label": "200+",
-      "published": "Wed, 18 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "中華電",
-      "traffic_label": "100+",
-      "published": "Wed, 18 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
       "source": "google_trends_rss"
     }
   ],
