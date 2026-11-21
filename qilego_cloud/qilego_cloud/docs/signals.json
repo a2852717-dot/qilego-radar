@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:19:34.298140+00:00",
+  "updated_at": "2026-11-21T02:16:13.017949+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,161 +13,209 @@
   },
   "records": [
     {
-      "term": "虎航",
-      "traffic_label": "1000+",
-      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
+      "term": "貴金屬",
+      "traffic_label": "5000+",
+      "published": "Fri, 20 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "高雄鄉親有福了！春節出國玩 虎航推東京羽田包機每天一班",
-          "url": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%9B%84%E9%84%89%E8%A6%AA%E6%9C%89%E7%A6%8F%E4%BA%86%EF%BC%81%E6%98%A5%E7%AF%80%E5%87%BA%E5%9C%8B%E7%8E%A9-%E8%99%8E%E8%88%AA%E6%8E%A8%E6%9D%B1%E4%BA%AC%E7%BE%BD%E7%94%B0%E5%8C%85%E6%A9%9F%E6%AF%8F%E5%A4%A9%E4%B8%80%E7%8F%AD-021513827.html",
+          "title": "〈貴金屬盤後〉黃金崩跌至14個月低點！單週重挫9.4%創8個月最慘紀錄 白銀、鉑金同步走弱",
+          "url": "https://tw.stock.yahoo.com/news/%E8%B2%B4%E9%87%91%E5%B1%AC%E7%9B%A4%E5%BE%8C-%E9%BB%83%E9%87%91%E5%B4%A9%E8%B7%8C%E8%87%B314%E5%80%8B%E6%9C%88%E4%BD%8E%E9%BB%9E-%E5%96%AE%E9%80%B1%E9%87%8D%E6%8C%AB9-4-%E5%89%B58%E5%80%8B%E6%9C%88%E6%9C%80%E6%85%98%E7%B4%80%E9%8C%84-214730381.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "「高雄－東京羽田」包機明年2月開航　跟團6天33900元起",
-          "url": "https://travel.ettoday.net/article/3274132.htm",
-          "source": "ETtoday旅遊雲"
-        },
-        {
-          "title": "南台灣旅客過年遊日本不用跑桃園！虎航明年春節包機「高雄直飛羽田」",
-          "url": "https://newtalk.tw/news/view/2026-11-18/1071808",
-          "source": "Newtalk新聞"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "黃金價格",
-      "traffic_label": "2000+",
-      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "國際｜AI股急瀉觸發套現 金價四連跌見今年低位",
-          "url": "https://hk.finance.yahoo.com/news/%E5%9C%8B%E9%9A%9B-ai%E8%82%A1%E6%80%A5%E7%80%89%E8%A7%B8%E7%99%BC%E5%A5%97%E7%8F%BE-%E9%87%91%E5%83%B9%E5%9B%9B%E9%80%A3%E8%B7%8C%E8%A6%8B%E4%BB%8A%E5%B9%B4%E4%BD%8E%E4%BD%8D-000053747.html",
-          "source": "Yahoo 財經"
-        },
-        {
-          "title": "MoneyDJ新聞 2026-11-20 07:44:59 郭妍希 發佈",
-          "url": "https://www.moneydj.com/r/news/rnews_%7BF4309144-0B39-40C8-BA4F-B91BCD4E7F51%7D_6_A.djhtm",
+          "title": "《貴金屬/金屬》美元強、12月升息率100% 金價軟- 新聞",
+          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=4f0215fe-2277-4160-9051-d2e9e98da114",
           "source": "MoneyDJ"
         },
         {
-          "title": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元",
-          "url": "https://m.cnyes.com/news/id/6668416",
-          "source": "鉅亨網"
+          "title": "黃金崩了！暴跌逾百美元直逼3500美元 背後3大殺手曝光",
+          "url": "https://stock.ltn.com.tw/article/klkxzjwvcrbj",
+          "source": "自由時報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "斷頭",
-      "traffic_label": "5000+",
-      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
+      "term": "股災",
+      "traffic_label": "2000+",
+      "published": "Fri, 20 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "台光電",
-      "traffic_label": "200+",
-      "published": "Thu, 19 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00632r",
+      "term": "高雄市政府警察局",
       "traffic_label": "100+",
-      "published": "Thu, 19 Nov 2026 17:50:00 -0800",
+      "published": "Fri, 20 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "最牛一輪／T50反1夯 元大64有戲",
-          "url": "https://money.udn.com/money/story/5739/9890167",
-          "source": "經濟日報"
-        },
-        {
-          "title": "台股連日盤中摜破40K！4檔反一ETF撿到槍　00676R漲逾4%",
-          "url": "https://finance.ettoday.net/news/3274127",
-          "source": "ETtoday財經雲"
-        },
-        {
-          "title": "最牛一輪／T50反1夯 國泰69有戲",
-          "url": "https://udn.com/news/story/7255/9882489",
+          "title": "高雄市警局三線一星高官涉職場霸凌下屬 警局暫停職務支援秘書室",
+          "url": "https://udn.com/news/story/7320/9888532",
           "source": "UDN"
+        },
+        {
+          "title": "高市警科室主管遭控職場霸凌 暫調秘書室接受調查",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5646026",
+          "source": "自由時報"
+        },
+        {
+          "title": "基層怒了！高市警三線一高階警官被控霸凌下屬　遭火速拔官調查中",
+          "url": "https://www.setn.com/news/1942057",
+          "source": "三立新聞網SETN.com"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "股王",
-      "traffic_label": "200+",
-      "published": "Thu, 19 Nov 2026 17:50:00 -0800",
+      "term": "中國人民解放軍",
+      "traffic_label": "100+",
+      "published": "Fri, 20 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "川 普 黃仁勳",
+      "traffic_label": "1000+",
+      "published": "Fri, 20 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "「網通股王」智邦現增一億元日期確定了！股東每張可認購約13股",
-          "url": "https://tw.stock.yahoo.com/news/%E3%80%8C%E7%B6%B2%E9%80%9A%E8%82%A1%E7%8E%8B%E3%80%8D%E6%99%BA%E9%82%A6%E7%8F%BE%E5%A2%9E%E4%B8%80%E5%84%84%E5%85%83%E6%97%A5%E6%9C%9F%E7%A2%BA%E5%AE%9A%E4%BA%86%EF%BC%81%E8%82%A1%E6%9D%B1%E6%AF%8F%E5%BC%B5%E5%8F%AF%E8%AA%8D%E8%B3%BC%E7%B4%8413%E8%82%A1-093930748.html",
+          "title": "川普公開喊話輝達讓黃仁勳回鍋：「應給第二次機會」",
+          "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%85%AC%E9%96%8B%E5%96%8A%E8%A9%B1%E8%BC%9D%E9%81%94%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E9%8D%8B-%E6%87%89%E7%B5%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83-211002756.html",
           "source": "Yahoo股市"
         },
         {
-          "title": "智邦擬辦現金增資 1 億元，以償還銀行借款、充實營運",
-          "url": "https://finance.technews.tw/2026/11/19/accton-stock/",
-          "source": "TechNews 科技新報"
+          "title": "「美國是給人第二次機會的國家」川普喊話輝達：讓黃仁勳回去工作",
+          "url": "https://udn.com/news/story/125066/9892574",
+          "source": "UDN"
         },
         {
-          "title": "智邦辦理1億元現金增資 12/4除權每張得認13.36股",
-          "url": "https://news.cnyes.com/news/id/6666346",
-          "source": "鉅亨網"
+          "title": "力挺黃仁勳回鍋！川普喊話：輝達應給第二次機會",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5648259",
+          "source": "自由財經"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "胡來旅行社",
+      "term": "甘澍宮",
       "traffic_label": "200+",
-      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "杜 金龍",
-      "traffic_label": "200+",
-      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台股崩盤",
-      "traffic_label": "100+",
-      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "印度股市",
-      "traffic_label": "100+",
-      "published": "Thu, 19 Nov 2026 17:40:00 -0800",
+      "published": "Fri, 20 Nov 2026 17:10:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "AI 交易冷了 這國股市反而熱了",
-          "url": "https://money.udn.com/money/story/5599/9887384",
-          "source": "經濟日報"
+          "title": "彰化永靖百年媽祖廟遇祝融！凌晨惡火「甘露媽」正殿全毀 這一幕信眾心碎了",
+          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E6%B0%B8%E9%9D%96%E7%99%BE%E5%B9%B4%E5%AA%BD%E7%A5%96%E5%BB%9F%E9%81%87%E7%A5%9D%E8%9E%8D-%E5%87%8C%E6%99%A8%E6%83%A1%E7%81%AB-%E7%94%98%E9%9C%B2%E5%AA%BD-%E6%AD%A3%E6%AE%BF%E5%85%A8%E6%AF%80-%E9%80%99-002800672.html",
+          "source": "Yahoo新聞"
         },
         {
-          "title": "【展望 2027 系列二】台韓股市暴跌、印度逆勢大漲！2027 年是避風港還是新主角？",
-          "url": "https://www.macromicro.me/blog/Looking-Ahead-to-2027-Series-2-Taiwan-and-South-Korean-stock-markets-plummet-while-India-bucks-the-trend-and-surges-Will-2027-be-a-safe-haven-or-a-new-protagonist",
-          "source": "MacroMicro"
+          "title": "彰化百年甘澍宮陷火海！廟殿嚴重毀損",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5648300",
+          "source": "自由時報"
         },
         {
-          "title": "AI交易疲軟 外資砸重金 買印度股票避險",
-          "url": "https://news.wearn.com/c2149341.html",
-          "source": "聚財網"
+          "title": "萬蜂朝聖奇景聞名！彰化「蜜蜂媽祖」甘露媽遭祝融廟方發聲了- 社會",
+          "url": "https://www.chinatimes.com/realtimenews/20261121001145-260402",
+          "source": "中時新聞網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "籃網 對 魔術",
+      "traffic_label": "200+",
+      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Game Preview: Nets look to snap losing streak against Magic in NBA Cup",
+          "url": "https://www.netsdaily.com/nets-game-previews/116450/nets-magic-preview-nba-cup-losing-streak",
+          "source": "NetsDaily"
+        },
+        {
+          "title": "Why The Orlando Magic Have A Perfect Bounce-Back Opportunity Against The Nets",
+          "url": "https://sports.yahoo.com/articles/why-orlando-magic-perfect-bounce-190003243.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Orlando Magic vs Brooklyn Nets Prediction, Picks & Odds | NBA Friday",
+          "url": "https://www.sportsgambler.com/betting-tips/basketball/orlando-magic-vs-brooklyn-nets-prediction-odds-6014922/",
+          "source": "Sportsgambler"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "攀岩",
+      "traffic_label": "200+",
+      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "徐耀群爬玉山墜谷離世！加拿大攀登家專程來台「把亡友名字留在山壁上」",
+          "url": "https://tw.news.yahoo.com/%E5%BE%90%E8%80%80%E7%BE%A4%E7%88%AC%E7%8E%89%E5%B1%B1%E5%A2%9C%E8%B0%B7%E9%9B%A2%E4%B8%96-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%94%80%E7%99%BB%E5%AE%B6%E5%B0%88%E7%A8%8B%E4%BE%86%E5%8F%B0-%E6%8A%8A%E4%BA%A1%E5%8F%8B%E5%90%8D%E5%AD%97%E7%95%99%E5%9C%A8%E5%B1%B1%E5%A3%81%E4%B8%8A-111400806.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "為亡友飛越萬里來台！加拿大攀登家Patrick現身紀錄片首映會",
+          "url": "https://stars.udn.com/star/story/10090/9891346",
+          "source": "噓！星聞"
+        },
+        {
+          "title": "年末「勵志電影連發」！ 聚焦低潮.自我突破生命課題 | 華視新聞",
+          "url": "https://today.line.me/tw/v3/article/GgNeZ3Z",
+          "source": "LINE TODAY"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "羽球",
+      "traffic_label": "500+",
+      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "羽球／36歲周天成9度叩關年終賽 追平拉爾森男單最多紀錄",
+          "url": "https://tw.sports.yahoo.com/news/%E7%BE%BD%E7%90%83-36%E6%AD%B2%E5%91%A8%E5%A4%A9%E6%88%909%E5%BA%A6%E5%8F%A9%E9%97%9C%E5%B9%B4%E7%B5%82%E8%B3%BD-%E8%BF%BD%E5%B9%B3%E6%8B%89%E7%88%BE%E6%A3%AE%E7%94%B7%E5%96%AE%E6%9C%80%E5%A4%9A%E7%B4%80%E9%8C%84-022619725.html",
+          "source": "Yahoo運動"
+        },
+        {
+          "title": "羽球》周天成再寫台灣羽壇紀錄！ 9度挺進年終賽並列男單歷史第一",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5647120",
+          "source": "自由體育"
+        },
+        {
+          "title": "36歲還在寫傳奇！周天成9度叩關年終賽超車李宗偉、並列史上最多",
+          "url": "https://sports.ettoday.net/news/3275387",
+          "source": "ETtoday運動雲"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "恐慌性拋售",
+      "traffic_label": "10000+",
+      "published": "Fri, 20 Nov 2026 16:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "台股何時反彈？經濟學家揭「這時間最難熬」：行情會捲土重來",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%BD%95%E6%99%82%E5%8F%8D%E5%BD%88-%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%8F%AD-%E9%80%99%E6%99%82%E9%96%93%E6%9C%80%E9%9B%A3%E7%86%AC-%E8%A1%8C%E6%83%85%E6%9C%83%E6%8D%B2%E5%9C%9F%E9%87%8D%E4%BE%86-235858021.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "台股恐慌性拋售「止跌2關鍵」　專家：未來4個月最難熬",
+          "url": "https://finance.ettoday.net/news/3275853",
+          "source": "ETtoday財經雲"
+        },
+        {
+          "title": "國安基金與限空令2.0全部失靈！ 26檔千金股跌停",
+          "url": "https://stock.ltn.com.tw/article/0ubuqqczcrd5",
+          "source": "自由時報"
         }
       ],
       "source": "google_trends_rss"
