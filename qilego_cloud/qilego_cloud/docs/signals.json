@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:16:13.017949+00:00",
+  "updated_at": "2026-11-22T02:17:34.550506+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,211 +13,227 @@
   },
   "records": [
     {
-      "term": "貴金屬",
-      "traffic_label": "5000+",
-      "published": "Fri, 20 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "〈貴金屬盤後〉黃金崩跌至14個月低點！單週重挫9.4%創8個月最慘紀錄 白銀、鉑金同步走弱",
-          "url": "https://tw.stock.yahoo.com/news/%E8%B2%B4%E9%87%91%E5%B1%AC%E7%9B%A4%E5%BE%8C-%E9%BB%83%E9%87%91%E5%B4%A9%E8%B7%8C%E8%87%B314%E5%80%8B%E6%9C%88%E4%BD%8E%E9%BB%9E-%E5%96%AE%E9%80%B1%E9%87%8D%E6%8C%AB9-4-%E5%89%B58%E5%80%8B%E6%9C%88%E6%9C%80%E6%85%98%E7%B4%80%E9%8C%84-214730381.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "《貴金屬/金屬》美元強、12月升息率100% 金價軟- 新聞",
-          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=4f0215fe-2277-4160-9051-d2e9e98da114",
-          "source": "MoneyDJ"
-        },
-        {
-          "title": "黃金崩了！暴跌逾百美元直逼3500美元 背後3大殺手曝光",
-          "url": "https://stock.ltn.com.tw/article/klkxzjwvcrbj",
-          "source": "自由時報"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "股災",
-      "traffic_label": "2000+",
-      "published": "Fri, 20 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "高雄市政府警察局",
+      "term": "英伟达",
       "traffic_label": "100+",
-      "published": "Fri, 20 Nov 2026 17:40:00 -0800",
+      "published": "Sat, 21 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "高雄市警局三線一星高官涉職場霸凌下屬 警局暫停職務支援秘書室",
-          "url": "https://udn.com/news/story/7320/9888532",
-          "source": "UDN"
+          "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "高市警科室主管遭控職場霸凌 暫調秘書室接受調查",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5646026",
-          "source": "自由時報"
+          "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "source": "Reuters"
         },
         {
-          "title": "基層怒了！高市警三線一高階警官被控霸凌下屬　遭火速拔官調查中",
-          "url": "https://www.setn.com/news/1942057",
-          "source": "三立新聞網SETN.com"
+          "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+          "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8",
+          "source": "WSJ"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "中國人民解放軍",
+      "term": "石崇良",
       "traffic_label": "100+",
-      "published": "Fri, 20 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "川 普 黃仁勳",
-      "traffic_label": "1000+",
-      "published": "Fri, 20 Nov 2026 17:30:00 -0800",
+      "published": "Sat, 21 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "川普公開喊話輝達讓黃仁勳回鍋：「應給第二次機會」",
-          "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%85%AC%E9%96%8B%E5%96%8A%E8%A9%B1%E8%BC%9D%E9%81%94%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E9%8D%8B-%E6%87%89%E7%B5%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83-211002756.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "「美國是給人第二次機會的國家」川普喊話輝達：讓黃仁勳回去工作",
-          "url": "https://udn.com/news/story/125066/9892574",
-          "source": "UDN"
-        },
-        {
-          "title": "力挺黃仁勳回鍋！川普喊話：輝達應給第二次機會",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5648259",
-          "source": "自由財經"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "甘澍宮",
-      "traffic_label": "200+",
-      "published": "Fri, 20 Nov 2026 17:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "彰化永靖百年媽祖廟遇祝融！凌晨惡火「甘露媽」正殿全毀 這一幕信眾心碎了",
-          "url": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E6%B0%B8%E9%9D%96%E7%99%BE%E5%B9%B4%E5%AA%BD%E7%A5%96%E5%BB%9F%E9%81%87%E7%A5%9D%E8%9E%8D-%E5%87%8C%E6%99%A8%E6%83%A1%E7%81%AB-%E7%94%98%E9%9C%B2%E5%AA%BD-%E6%AD%A3%E6%AE%BF%E5%85%A8%E6%AF%80-%E9%80%99-002800672.html",
+          "title": "高鐵、台鐵商務艙老人越來越多！ 交長坦言「未來僅2解決方案」",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5-%E5%8F%B0%E9%90%B5%E5%95%86%E5%8B%99%E8%89%99%E8%80%81%E4%BA%BA%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%A4%9A-%E4%BA%A4%E9%95%B7%E5%9D%A6%E8%A8%80-%E6%9C%AA%E4%BE%86%E5%83%852%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88-045800489.html",
           "source": "Yahoo新聞"
         },
         {
-          "title": "彰化百年甘澍宮陷火海！廟殿嚴重毀損",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5648300",
-          "source": "自由時報"
-        },
-        {
-          "title": "萬蜂朝聖奇景聞名！彰化「蜜蜂媽祖」甘露媽遭祝融廟方發聲了- 社會",
-          "url": "https://www.chinatimes.com/realtimenews/20261121001145-260402",
-          "source": "中時新聞網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "籃網 對 魔術",
-      "traffic_label": "200+",
-      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Game Preview: Nets look to snap losing streak against Magic in NBA Cup",
-          "url": "https://www.netsdaily.com/nets-game-previews/116450/nets-magic-preview-nba-cup-losing-streak",
-          "source": "NetsDaily"
-        },
-        {
-          "title": "Why The Orlando Magic Have A Perfect Bounce-Back Opportunity Against The Nets",
-          "url": "https://sports.yahoo.com/articles/why-orlando-magic-perfect-bounce-190003243.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Orlando Magic vs Brooklyn Nets Prediction, Picks & Odds | NBA Friday",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/orlando-magic-vs-brooklyn-nets-prediction-odds-6014922/",
-          "source": "Sportsgambler"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "攀岩",
-      "traffic_label": "200+",
-      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "徐耀群爬玉山墜谷離世！加拿大攀登家專程來台「把亡友名字留在山壁上」",
-          "url": "https://tw.news.yahoo.com/%E5%BE%90%E8%80%80%E7%BE%A4%E7%88%AC%E7%8E%89%E5%B1%B1%E5%A2%9C%E8%B0%B7%E9%9B%A2%E4%B8%96-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%94%80%E7%99%BB%E5%AE%B6%E5%B0%88%E7%A8%8B%E4%BE%86%E5%8F%B0-%E6%8A%8A%E4%BA%A1%E5%8F%8B%E5%90%8D%E5%AD%97%E7%95%99%E5%9C%A8%E5%B1%B1%E5%A3%81%E4%B8%8A-111400806.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "為亡友飛越萬里來台！加拿大攀登家Patrick現身紀錄片首映會",
-          "url": "https://stars.udn.com/star/story/10090/9891346",
-          "source": "噓！星聞"
-        },
-        {
-          "title": "年末「勵志電影連發」！ 聚焦低潮.自我突破生命課題 | 華視新聞",
-          "url": "https://today.line.me/tw/v3/article/GgNeZ3Z",
+          "title": "雙鐵商務艙 半價乘客大增 | 自由電子報",
+          "url": "https://today.line.me/tw/v3/article/60ok1NX",
           "source": "LINE TODAY"
+        },
+        {
+          "title": "高鐵敬老票恐要衛福部補貼　石崇良曝立場",
+          "url": "https://www.mirrormedia.mg/external/setn_1942691",
+          "source": "鏡週刊Mirror Media"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "羽球",
-      "traffic_label": "500+",
-      "published": "Fri, 20 Nov 2026 16:50:00 -0800",
+      "term": "防彈少年團",
+      "traffic_label": "2000+",
+      "published": "Sat, 21 Nov 2026 17:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "羽球／36歲周天成9度叩關年終賽 追平拉爾森男單最多紀錄",
-          "url": "https://tw.sports.yahoo.com/news/%E7%BE%BD%E7%90%83-36%E6%AD%B2%E5%91%A8%E5%A4%A9%E6%88%909%E5%BA%A6%E5%8F%A9%E9%97%9C%E5%B9%B4%E7%B5%82%E8%B3%BD-%E8%BF%BD%E5%B9%B3%E6%8B%89%E7%88%BE%E6%A3%AE%E7%94%B7%E5%96%AE%E6%9C%80%E5%A4%9A%E7%B4%80%E9%8C%84-022619725.html",
+          "title": "BTS柾國挑上「他」的歌！台灣大咖感動發聲 網友嗨喊：你也防彈了",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5649158",
+          "source": "自由娛樂"
+        },
+        {
+          "title": "BTS柾國拍高雄輕軌變人氣景點 網評：一切努力多麼不易",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5649218",
+          "source": "自由時報"
+        },
+        {
+          "title": "BTS高雄宵夜菜單曝光！5成員直播吃壽司「店家凌晨被問爆」 V翻牌ARMY…驚見丹丹漢堡",
+          "url": "https://tw.news.yahoo.com/bts%E9%AB%98%E9%9B%84%E5%AE%B5%E5%A4%9C%E8%8F%9C%E5%96%AE%E6%9B%9D%E5%85%89-5%E6%88%90%E5%93%A1%E7%9B%B4%E6%92%AD%E5%90%83%E5%A3%BD%E5%8F%B8-%E5%BA%97%E5%AE%B6%E5%87%8C%E6%99%A8%E8%A2%AB%E5%95%8F%E7%88%86-v%E7%BF%BB%E7%89%8Carmy-%E9%A9%9A%E8%A6%8B%E4%B8%B9%E4%B8%B9%E6%BC%A2%E5%A0%A1-230500683.html",
+          "source": "Yahoo新聞"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "獨行俠 對 快艇",
+      "traffic_label": "500+",
+      "published": "Sat, 21 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "Mavericks-Clippers preview: Mavs developing their identity every day in practice",
+          "url": "https://www.nba.com/mavs/news/mavericks-clippers-preview-mavs-developing-their-identity-every-day-in-practice",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Walter Clayton Jr. (knee) upgraded to available",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/walter-clayton-jr-knee-upgraded-to-available",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "10 Players Headline Injury Report For Mavericks-Clippers",
+          "url": "https://www.si.com/nba/mavericks/onsi/10-players-headline-injury-report-dallas-mavericks-la-clippers-",
+          "source": "Sports Illustrated"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "灰狼 對 灰熊",
+      "traffic_label": "500+",
+      "published": "Sat, 21 Nov 2026 17:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "NBA運彩分析》11/22 灰熊客場8連勝未嘗敗績氣勢旺 灰狼凍結對手強悍攻勢挑戰大",
+          "url": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1122-%E7%81%B0%E7%86%8A%E5%AE%A2%E5%A0%B48%E9%80%A3%E5%8B%9D%E6%9C%AA%E5%98%97%E6%95%97%E7%B8%BE%E6%B0%A3%E5%8B%A2%E6%97%BA-%E7%81%B0%E7%8B%BC%E5%87%8D%E7%B5%90%E5%B0%8D%E6%89%8B%E5%BC%B7%E6%82%8D%E6%94%BB%E5%8B%A2%E6%8C%91%E6%88%B0%E5%A4%A7-084428819.html",
           "source": "Yahoo運動"
         },
         {
-          "title": "羽球》周天成再寫台灣羽壇紀錄！ 9度挺進年終賽並列男單歷史第一",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5647120",
-          "source": "自由體育"
+          "title": "灰熊挑戰客場9連勝 新秀Boozer缺陣客場強碰灰狼 | 民視新聞網",
+          "url": "https://today.line.me/tw/v3/article/MLBxjg3",
+          "source": "LINE TODAY"
         },
         {
-          "title": "36歲還在寫傳奇！周天成9度叩關年終賽超車李宗偉、並列史上最多",
-          "url": "https://sports.ettoday.net/news/3275387",
-          "source": "ETtoday運動雲"
+          "title": "[2026/11/14 灰熊 @ 鵜鶘] Saddiq Bey 轟下30分仍難挽狂瀾 灰熊客場大勝鵜鶘31分",
+          "url": "https://www.juksy.com/article/154715",
+          "source": "JUKSY 街星"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "恐慌性拋售",
-      "traffic_label": "10000+",
-      "published": "Fri, 20 Nov 2026 16:30:00 -0800",
+      "term": "光 通訊",
+      "traffic_label": "500+",
+      "published": "Sat, 21 Nov 2026 16:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "台股何時反彈？經濟學家揭「這時間最難熬」：行情會捲土重來",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%BD%95%E6%99%82%E5%8F%8D%E5%BD%88-%E7%B6%93%E6%BF%9F%E5%AD%B8%E5%AE%B6%E6%8F%AD-%E9%80%99%E6%99%82%E9%96%93%E6%9C%80%E9%9B%A3%E7%86%AC-%E8%A1%8C%E6%83%85%E6%9C%83%E6%8D%B2%E5%9C%9F%E9%87%8D%E4%BE%86-235858021.html",
-          "source": "Yahoo股市"
+          "title": "美再收緊光通訊產品 進補台廠14檔",
+          "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%86%8D%E6%94%B6%E7%B7%8A%E5%85%89%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81-%E9%80%B2%E8%A3%9C%E5%8F%B0%E5%BB%A014%E6%AA%94-140500314.html",
+          "source": "Yahoo新聞"
         },
         {
-          "title": "台股恐慌性拋售「止跌2關鍵」　專家：未來4個月最難熬",
-          "url": "https://finance.ettoday.net/news/3275853",
-          "source": "ETtoday財經雲"
+          "title": "美國FCC准71家業者有條件進口科技設備業者承諾赴美投資44億美元| 優分析",
+          "url": "https://today.line.me/tw/v3/article/oqpyYMy",
+          "source": "LINE TODAY"
         },
         {
-          "title": "國安基金與限空令2.0全部失靈！ 26檔千金股跌停",
-          "url": "https://stock.ltn.com.tw/article/0ubuqqczcrd5",
-          "source": "自由時報"
+          "title": "美國禁令卡關TP-Link新款Wi-Fi 8路由器仍無法在美銷售- 財經新聞",
+          "url": "https://news.pchome.com.tw/finance/sunmedia/20261121/index-79523176266847329003.html",
+          "source": "PChome Online 新聞"
         }
       ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "吳德榮",
+      "traffic_label": "1000+",
+      "published": "Sat, 21 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "冷！今晨新竹6.7度 吳德榮：周二鋒面報到北部、東北部轉陰雨降溫",
+          "url": "https://udn.com/news/story/7266/9894028",
+          "source": "UDN"
+        },
+        {
+          "title": "天氣預報／早晚偏冷 各地晴到多雲",
+          "url": "https://www.rti.org.tw/news?uid=3&pid=1052985",
+          "source": "Rti 中央廣播電臺"
+        },
+        {
+          "title": "明天天氣清晨竹苗下探10℃以下低溫 氣象署發布低溫特報",
+          "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E6%B8%85%E6%99%A8%E7%AB%B9%E8%8B%97%E4%B8%8B%E6%8E%A210%E2%84%83%E4%BB%A5%E4%B8%8B%E4%BD%8E%E6%BA%AB-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E7%99%BC%E5%B8%83%E4%BD%8E%E6%BA%AB%E7%89%B9%E5%A0%B1-111453299.html",
+          "source": "Yahoo新聞"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "黄仁勋",
+      "traffic_label": "500+",
+      "published": "Sat, 21 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "【時政春秋】川普為何再呼籲黃仁勳道歉",
+          "url": "https://www.epochtimes.com/gb/26/11/21/n14892896.htm",
+          "source": "大紀元"
+        },
+        {
+          "title": "黄仁勋据称将创办新的半导体公司 或将筹资500亿用于创业",
+          "url": "https://news.mydrivers.com/1/1167/1167565.htm",
+          "source": "驱动之家"
+        },
+        {
+          "title": "美国总统特朗普公开支持黄仁勋：期待回归英伟达 他让美国AI领先全球10年",
+          "url": "https://m.sohu.com/a/1104634943_163726?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "賈曉晨",
+      "traffic_label": "100+",
+      "published": "Sat, 21 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "超美星二代！63歲男星曬9歲女兒生日「高顏值近照」　網驚喊：快出道",
+          "url": "https://www.setn.com/news/1942101",
+          "source": "三立新聞"
+        },
+        {
+          "title": "真人版洋娃娃！《葉問》男星9歲女兒顏值驚人，神似童年劉亦菲 網喊：最美星二代快出道 | 姊妹淘",
+          "url": "https://today.line.me/tw/v3/article/qoZ5e52",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "年紀最小最美星二代！《葉問》男星9歲女兒生日「逆天顏值」驚呆網",
+          "url": "https://star.ettoday.net/news/3275388",
+          "source": "ETtoday星光雲| ETtoday新聞雲"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "联合新闻网",
+      "traffic_label": "100+",
+      "published": "Sat, 21 Nov 2026 16:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
       "source": "google_trends_rss"
     }
   ],
