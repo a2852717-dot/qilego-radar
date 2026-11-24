@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:22:11.579786+00:00",
+  "updated_at": "2026-11-24T02:23:00.080752+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,113 +13,57 @@
   },
   "records": [
     {
-      "term": "巴迪·希爾德",
-      "traffic_label": "200+",
-      "published": "Sun, 22 Nov 2026 18:10:00 -0800",
+      "term": "gis ky",
+      "traffic_label": "100+",
+      "published": "Mon, 23 Nov 2026 18:10:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "Buddy Hield 3 Pointer to start the game",
-          "url": "https://www.nba.com/bulls/videos/buddy-hield-3-pointer-to-start-the-game",
-          "source": "NBA.com"
+          "title": "盈餘：GIS-KY(6456)股價遭警示，10月歸屬母公司淨損2.33億元，EPS -0.7元",
+          "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2448850002&PU=0010",
+          "source": "富聯網"
         },
         {
-          "title": "Buddy Hield exploding in the 4th Quarter",
-          "url": "https://www.nba.com/bulls/videos/buddy-hield-exploding-in-the-4th-quarter",
-          "source": "NBA.com"
+          "title": "10月每股虧0.7元 GIS-KY拚明年改善損益",
+          "url": "https://www.chinatimes.com/newspapers/20261124000439-260206",
+          "source": "中時新聞網"
         },
         {
-          "title": "Bulls' Buddy Hield: Chips in 12 points Friday",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/bulls-buddy-hield-chips-in-12-points-friday/",
-          "source": "CBS Sports"
+          "title": "《光電股》GIS-KY遭外資連7賣 10月每股虧0.7元",
+          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369456001&PU=1002",
+          "source": "富聯網"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "魏東河",
-      "traffic_label": "100+",
-      "published": "Sun, 22 Nov 2026 18:10:00 -0800",
+      "term": "00412a",
+      "traffic_label": "2000+",
+      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "warriors vs celtics",
-      "traffic_label": "200+",
-      "published": "Sun, 22 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Celtics at Warriors: Boston looks to rebound after last-second loss",
-          "url": "https://www.bostonglobe.com/2026/11/22/sports/celtics-warriors-preview-november-22/",
-          "source": "The Boston Globe"
-        },
-        {
-          "title": "Preview: Home cooking without the chef?",
-          "url": "https://dubnationhq.com/p/preview-home-cooking-without-the",
-          "source": "Dub Nation HQ"
-        },
-        {
-          "title": "Jayson Tatum (rest) back in lineup Sunday",
-          "url": "https://www.fantasypros.com/nba/news/621894/jayson-tatum-rest-back-lineup-sunday.php",
-          "source": "FantasyPros"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "林柏佑",
-      "traffic_label": "100+",
-      "published": "Sun, 22 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "中職／3大年輕「台製潛水艇」國際賽發光壓制左打未來才能發熱| 運動專欄| 運動",
-          "url": "https://udn.com/news/story/122629/9894619",
-          "source": "UDN"
-        },
-        {
-          "title": "林柏佑開低走高U23世界盃奪防禦率王 證明有投長局數能力",
-          "url": "https://www.sjtv.com.tw/articles/126146",
-          "source": "信吉衛視+"
-        },
-        {
-          "title": "林柏佑開低走高 U23世界盃奪防禦率王 (圖)",
-          "url": "https://tw.sports.yahoo.com/news/%E6%9E%97%E6%9F%8F%E4%BD%91%E9%96%8B%E4%BD%8E%E8%B5%B0%E9%AB%98-u23%E4%B8%96%E7%95%8C%E7%9B%83%E5%A5%AA%E9%98%B2%E7%A6%A6%E7%8E%87%E7%8E%8B-%E5%9C%96-054556216.html",
-          "source": "Yahoo運動"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "陳國在",
-      "traffic_label": "100+",
-      "published": "Sun, 22 Nov 2026 18:00:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "候選人叫茶妹進辦公室「密室協商」 畫面流出",
-          "url": "https://news.ebc.net.tw/news/society/581993",
-          "source": "東森新聞"
-        },
-        {
-          "title": "鄉長團隊黃與毒2／「救父牌」騙票轉戰議員 陳國在竟與毒梟父結盟",
-          "url": "https://tw.news.yahoo.com/%E9%84%89%E9%95%B7%E5%9C%98%E9%9A%8A%E9%BB%83%E8%88%87%E6%AF%922-%E6%95%91%E7%88%B6%E7%89%8C-%E9%A8%99%E7%A5%A8%E8%BD%89%E6%88%B0%E8%AD%B0%E5%93%A1-%E9%99%B3%E5%9C%8B%E5%9C%A8%E7%AB%9F%E8%88%87%E6%AF%92%E6%A2%9F%E7%88%B6%E7%B5%90%E7%9B%9F-220000611.html",
-          "source": "Yahoo新聞"
-        },
-        {
-          "title": "泰籍傳播妹現身公所？陳國在喊冤：友人借宿惹禍 照片遭張冠李戴 | CTWANT",
-          "url": "https://today.line.me/tw/v3/article/MLBWGWD",
-          "source": "LINE TODAY"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台股走勢",
+      "term": "00929",
       "traffic_label": "500+",
-      "published": "Sun, 22 Nov 2026 18:00:00 -0800",
+      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "00878",
+      "traffic_label": "2000+",
+      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "3006",
+      "traffic_label": "100+",
+      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
@@ -127,63 +71,119 @@
     {
       "term": "仁新",
       "traffic_label": "100+",
-      "published": "Sun, 22 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "塔里克·史庫柏",
-      "traffic_label": "100+",
-      "published": "Sun, 22 Nov 2026 17:50:00 -0800",
+      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "5隊爭搶2屆賽揚獎左投史庫柏 大都會開價碾壓道奇實際金額曝光",
-          "url": "https://tw.sports.yahoo.com/news/5%E9%9A%8A%E7%88%AD%E6%90%B62%E5%B1%86%E8%B3%BD%E6%8F%9A%E7%8D%8E%E5%B7%A6%E6%8A%95%E5%8F%B2%E5%BA%AB%E6%9F%8F-%E5%A4%A7%E9%83%BD%E6%9C%83%E9%96%8B%E5%83%B9%E7%A2%BE%E5%A3%93%E9%81%93%E5%A5%87%E5%AF%A6%E9%9A%9B%E9%87%91%E9%A1%8D%E6%9B%9D%E5%85%89-010016219.html",
-          "source": "Yahoo運動"
+          "title": "仁新眼疾新藥 FDA延審3個月",
+          "url": "https://n.yam.com/Article/20261121203281",
+          "source": "蕃新聞"
         },
         {
-          "title": "MLB》震撼彈！大都會狠砸9年148億破紀錄天價 簽下2屆塞揚王牌",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5650057",
-          "source": "自由體育"
+          "title": "6696 仁新* - 勳妃回宮，跟仁妃有啥關係，漲5趴欸🤣 - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/189628792",
+          "source": "CMoney"
         },
         {
-          "title": "塔克是道奇簽回史庫柏的最大障礙？美媒：他的合約高達2.4億美元",
-          "url": "https://www.nownews.com/news/6894617",
-          "source": "NOWnews今日新聞"
+          "title": "FDA延後審查Stargardt氏症用藥，Belite Bio股價重挫逾15%",
+          "url": "https://finance.biggo.com.tw/news/9f30d045-5aa5-490d-88c0-68d948557ca3",
+          "source": "BigGo 財經"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "國泰世華",
-      "traffic_label": "500+",
-      "published": "Sun, 22 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "加权指数",
-      "traffic_label": "200+",
-      "published": "Sun, 22 Nov 2026 17:40:00 -0800",
+      "term": "76ers vs trail blazers",
+      "traffic_label": "100+",
+      "published": "Mon, 23 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "台股血洗跌2393点 本周重挫7641点",
-          "url": "https://bj.crntt.com/doc/7_0_160291798_1.html",
-          "source": "中国评论"
+          "title": "Sixers' record-setting wait for the West ends against Trail Blazers",
+          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-trail-blazers-preview-western-conference-micah-nori/768984/",
+          "source": "NBC Sports Philadelphia"
         },
         {
-          "title": "台股信心崩溃，岛内法人：需等市场情绪平复，投资人暂且观望",
-          "url": "https://m.sohu.com/a/1104896950_120135071?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-          "source": "Sohu"
+          "title": "Jaylen Brown's Potential Return Could Prove To Be Deciding Factor Against Trail Blazers",
+          "url": "https://sports.yahoo.com/articles/jaylen-browns-potential-return-could-181116694.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "台股一周暴跌17.5% 分析师：尚未出现止跌信号",
-          "url": "https://www.8world.com/finance/taiwan-stock-reax-3347281",
-          "source": "8world"
+          "title": "NBA: Portland Trail Blazers at Philadelphia 76ers",
+          "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-philadelphia-76ers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU0Njg",
+          "source": "Reuters Connect"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "台灣加權指數",
+      "traffic_label": "200+",
+      "published": "Mon, 23 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "你的持股上榜了嗎 熱門股一週最慘跌33%",
+          "url": "https://tw.news.yahoo.com/%E4%BD%A0%E7%9A%84%E6%8C%81%E8%82%A1%E4%B8%8A%E6%A6%9C%E4%BA%86%E5%97%8E-%E7%86%B1%E9%96%80%E8%82%A1-%E9%80%B1%E6%9C%80%E6%85%98%E8%B7%8C33-024400619.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "TWA00 加權指數- 漲跌無所謂成交量要出來加油- 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/189512409",
+          "source": "CMoney"
+        },
+        {
+          "title": "TWA00 加權指數 - 今天量会大缩，因为都是手涨停板根本买不到 - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/189645193",
+          "source": "CMoney"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "金居股價",
+      "traffic_label": "200+",
+      "published": "Mon, 23 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "盤中速報 - 金居(8358)股價殺至跌停，跌停價222.5元，成交4,964張",
+          "url": "https://tw.tradingview.com/news/cnyes:dcde37614acdf:0/",
+          "source": "TradingView"
+        },
+        {
+          "title": "外資調節為何會影響金居籌碼？",
+          "url": "https://www.cmoney.tw/forum/readmo/222b022e-1855-4815-bafa-017038977de0",
+          "source": "CMoney"
+        },
+        {
+          "title": "《電零組》注意股：金居 近5日跌28.17%",
+          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369913001&PU=1002",
+          "source": "富聯網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "李昀銳",
+      "traffic_label": "200+",
+      "published": "Mon, 23 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "《尚公主》李昀銳熱戀孟子義收視慘澹聲勢暴跌 他2部新劇又接連爆停拍處境超尷尬",
+          "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/275052",
+          "source": "上報Up Media"
+        },
+        {
+          "title": "很難得「二搭比一搭更成功」好評陸劇TOP8！《尚公主》落榜，《星漢燦爛》第3，它奪冠",
+          "url": "https://www.beauty321.com/post/73738",
+          "source": "BEAUTY美人圈"
+        },
+        {
+          "title": "《尚公主》孟子義連垮4部劇人氣告急 她新劇搭檔《玉簟秋》丞磊上演8年虐戀求翻身",
+          "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/274630",
+          "source": "上報Up Media"
         }
       ],
       "source": "google_trends_rss"
