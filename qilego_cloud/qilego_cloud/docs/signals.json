@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:23:00.080752+00:00",
+  "updated_at": "2026-11-25T02:25:02.011341+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,179 +13,195 @@
   },
   "records": [
     {
-      "term": "gis ky",
-      "traffic_label": "100+",
-      "published": "Mon, 23 Nov 2026 18:10:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "盈餘：GIS-KY(6456)股價遭警示，10月歸屬母公司淨損2.33億元，EPS -0.7元",
-          "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2448850002&PU=0010",
-          "source": "富聯網"
-        },
-        {
-          "title": "10月每股虧0.7元 GIS-KY拚明年改善損益",
-          "url": "https://www.chinatimes.com/newspapers/20261124000439-260206",
-          "source": "中時新聞網"
-        },
-        {
-          "title": "《光電股》GIS-KY遭外資連7賣 10月每股虧0.7元",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369456001&PU=1002",
-          "source": "富聯網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00412a",
-      "traffic_label": "2000+",
-      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00929",
-      "traffic_label": "500+",
-      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "00878",
-      "traffic_label": "2000+",
-      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "3006",
-      "traffic_label": "100+",
-      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "仁新",
-      "traffic_label": "100+",
-      "published": "Mon, 23 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "仁新眼疾新藥 FDA延審3個月",
-          "url": "https://n.yam.com/Article/20261121203281",
-          "source": "蕃新聞"
-        },
-        {
-          "title": "6696 仁新* - 勳妃回宮，跟仁妃有啥關係，漲5趴欸🤣 - 股市爆料同學會",
-          "url": "https://www.cmoney.tw/forum/article/189628792",
-          "source": "CMoney"
-        },
-        {
-          "title": "FDA延後審查Stargardt氏症用藥，Belite Bio股價重挫逾15%",
-          "url": "https://finance.biggo.com.tw/news/9f30d045-5aa5-490d-88c0-68d948557ca3",
-          "source": "BigGo 財經"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "76ers vs trail blazers",
-      "traffic_label": "100+",
-      "published": "Mon, 23 Nov 2026 17:40:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Sixers' record-setting wait for the West ends against Trail Blazers",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-trail-blazers-preview-western-conference-micah-nori/768984/",
-          "source": "NBC Sports Philadelphia"
-        },
-        {
-          "title": "Jaylen Brown's Potential Return Could Prove To Be Deciding Factor Against Trail Blazers",
-          "url": "https://sports.yahoo.com/articles/jaylen-browns-potential-return-could-181116694.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "NBA: Portland Trail Blazers at Philadelphia 76ers",
-          "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-philadelphia-76ers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MzU0Njg",
-          "source": "Reuters Connect"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "台灣加權指數",
+      "term": "創意",
       "traffic_label": "200+",
-      "published": "Mon, 23 Nov 2026 17:40:00 -0800",
+      "published": "Tue, 24 Nov 2026 18:00:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "創意股價",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "你的持股上榜了嗎 熱門股一週最慘跌33%",
-          "url": "https://tw.news.yahoo.com/%E4%BD%A0%E7%9A%84%E6%8C%81%E8%82%A1%E4%B8%8A%E6%A6%9C%E4%BA%86%E5%97%8E-%E7%86%B1%E9%96%80%E8%82%A1-%E9%80%B1%E6%9C%80%E6%85%98%E8%B7%8C33-024400619.html",
-          "source": "Yahoo新聞"
+          "title": "創意：股價連跌6天直接腰斬 最快11/25「抓去關」",
+          "url": "https://stock.ltn.com.tw/article/0vy7xtmvqx98",
+          "source": "自由時報"
         },
         {
-          "title": "TWA00 加權指數- 漲跌無所謂成交量要出來加油- 股市爆料同學會",
-          "url": "https://www.cmoney.tw/forum/article/189512409",
-          "source": "CMoney"
+          "title": "創意跌停一張賠54萬　川湖重奪股后寶座",
+          "url": "https://finance.ettoday.net/news/3276802",
+          "source": "ETtoday財經雲"
         },
         {
-          "title": "TWA00 加權指數 - 今天量会大缩，因为都是手涨停板根本买不到 - 股市爆料同學會",
-          "url": "https://www.cmoney.tw/forum/article/189645193",
-          "source": "CMoney"
+          "title": "「ASIC大廠」連6天盤中亮綠燈！股價慘跌至4860元 網嘆坑殺：是要回3000嗎",
+          "url": "https://tw.stock.yahoo.com/news/asic%E5%A4%A7%E5%BB%A0-%E9%80%A36%E5%A4%A9%E7%9B%A4%E4%B8%AD%E4%BA%AE%E7%B6%A0%E7%87%88-%E8%82%A1%E5%83%B9%E6%85%98%E8%B7%8C%E8%87%B34860%E5%85%83-%E7%B6%B2%E5%98%86%E5%9D%91%E6%AE%BA-%E6%98%AF%E8%A6%81%E5%9B%9E3000%E5%97%8E-034000038.html",
+          "source": "Yahoo股市"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "金居股價",
-      "traffic_label": "200+",
-      "published": "Mon, 23 Nov 2026 17:40:00 -0800",
+      "term": "群聯股價",
+      "traffic_label": "100+",
+      "published": "Tue, 24 Nov 2026 17:50:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "盤中速報 - 金居(8358)股價殺至跌停，跌停價222.5元，成交4,964張",
-          "url": "https://tw.tradingview.com/news/cnyes:dcde37614acdf:0/",
+          "title": "記憶體股王群聯漲停還有肉？老牌法人庫存天數、應收帳款全說了最新目標價、評等同步曝光- 上市櫃",
+          "url": "https://wantrich.chinatimes.com/news/20261125900002-420101",
+          "source": "旺得富理財網"
+        },
+        {
+          "title": "輝達後黃仁勳時代變數多？群聯潘健成強調：AI長期結構性需求未消失",
+          "url": "https://www.wealth.com.tw/articles/dc1903fe-9e29-4110-bcca-8f2eef62a93b",
+          "source": "財訊"
+        },
+        {
+          "title": "記憶體漲停還沒到頂？「這檔」法人升評喊1800元、今年EPS狂賺464元 千億庫存藏獲利密碼",
+          "url": "https://www.ftnn.com.tw/news/599298",
+          "source": "FTNN 新聞網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "川湖股價",
+      "traffic_label": "200+",
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "【即時新聞】川湖受惠政府五大穩市利多發酵，盤中強勢大漲逾5%展現反彈企圖心",
+          "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-21f62ece-e70b-11f1-8f11-1f8b2a6d3e3e",
+          "source": "CMoney投資網誌"
+        },
+        {
+          "title": "〈熱門股〉川湖股價拉回修正仍獲外資承接 前3季狂賺逾23個股本",
+          "url": "https://tw.tradingview.com/news/cnyes:30a308b98acdf:0/",
           "source": "TradingView"
         },
         {
-          "title": "外資調節為何會影響金居籌碼？",
-          "url": "https://www.cmoney.tw/forum/readmo/222b022e-1855-4815-bafa-017038977de0",
-          "source": "CMoney"
-        },
-        {
-          "title": "《電零組》注意股：金居 近5日跌28.17%",
-          "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369913001&PU=1002",
-          "source": "富聯網"
+          "title": "川湖、矽力 押逾三個月",
+          "url": "https://udn.com/news/story/7255/9882488",
+          "source": "UDN"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "李昀銳",
-      "traffic_label": "200+",
-      "published": "Mon, 23 Nov 2026 17:30:00 -0800",
+      "term": "肯德基末日套餐",
+      "traffic_label": "500+",
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "《尚公主》李昀銳熱戀孟子義收視慘澹聲勢暴跌 他2部新劇又接連爆停拍處境超尷尬",
-          "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/275052",
-          "source": "上報Up Media"
+          "title": "肯德基x漫威！末日全餐11/24開賣，五款限定盲盒同步登場",
+          "url": "https://www.cardu.com.tw/epoint/detail.php?66752",
+          "source": "卡優新聞網"
         },
         {
-          "title": "很難得「二搭比一搭更成功」好評陸劇TOP8！《尚公主》落榜，《星漢燦爛》第3，它奪冠",
-          "url": "https://www.beauty321.com/post/73738",
-          "source": "BEAUTY美人圈"
+          "title": "Hot Toys「《復仇者聯盟：末日崛起》洛基Artisan 植髮版」1/6比例收藏級可動人偶故事之神換上TVA制服限量登場！",
+          "url": "https://www.toy-people.com/?p=116887",
+          "source": "玩具人 TOY PEOPLE"
         },
         {
-          "title": "《尚公主》孟子義連垮4部劇人氣告急 她新劇搭檔《玉簟秋》丞磊上演8年虐戀求翻身",
-          "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/274630",
-          "source": "上報Up Media"
+          "title": "史迪奇化身漫威最強反派！Hot Toys 推出「末日博士史迪奇」收藏模型全球限量首發400 組 | 上報",
+          "url": "https://today.line.me/tw/v3/article/MLBx8g0",
+          "source": "LINE TODAY"
         }
       ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "中華電信股價",
+      "traffic_label": "200+",
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "不輸0050？他推薦「這檔防禦神股」：最強避震器",
+          "url": "https://tw.news.yahoo.com/0050%E6%8A%B1%E5%88%B0%E6%B2%92%E4%BF%A1%E5%BF%83-%E8%82%A1%E6%B0%91%E6%94%B9%E5%AD%98-%E9%80%99%E6%AA%94%E9%98%B2%E7%A6%A6%E7%A5%9E%E8%82%A1-%E6%9C%80%E5%BC%B7%E9%81%BF%E9%9C%87%E5%99%A8-010600757.html",
+          "source": "Yahoo新聞"
+        },
+        {
+          "title": "中華電、玉山金抗震權證靚- 日報",
+          "url": "https://www.ctee.com.tw/news/20261123700257-439901",
+          "source": "工商時報"
+        },
+        {
+          "title": "2352 佳世達 - 笑死 大盤大跌我大跌 大盤反彈我大跌 - 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/189540841",
+          "source": "CMoney"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "加權指數",
+      "traffic_label": "1000+",
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "低軌衛星噴飛！「這權值股」收復4千大關挾32檔漲停 華通、群創、穩懋、昇達科都亮燈",
+          "url": "https://tw.stock.yahoo.com/news/%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E5%99%B4%E9%A3%9B-%E9%80%99%E6%AC%8A%E5%80%BC%E8%82%A1-%E6%94%B6%E5%BE%A94%E5%8D%83%E5%A4%A7%E9%97%9C%E6%8C%BE32%E6%AA%94%E6%BC%B2%E5%81%9C-%E8%8F%AF%E9%80%9A-%E7%BE%A4%E5%89%B5-090800178.html",
+          "source": "Yahoo股市"
+        },
+        {
+          "title": "【盤後焦點】低軌衛星資金轉強，「10檔概念股」強勢上攻！",
+          "url": "https://cmnews.com.tw/article/cmoney-8e94cfae-e70d-11f1-9e94-46771df272aa",
+          "source": "CMoney投資網誌"
+        },
+        {
+          "title": "低軌衛星跌深反攻！昇達科、華通4檔亮紅燈 事欣科飆9%",
+          "url": "https://news.wearn.com/c2152773.html",
+          "source": "聚財網"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "緯創股價",
+      "traffic_label": "200+",
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [
+        {
+          "title": "同學會熱門 NO.31《緯創》11/24 怎麼走？盤後一次看懂",
+          "url": "https://www.cmoney.tw/forum/article/189772272",
+          "source": "CMoney"
+        },
+        {
+          "title": "緯創AI伺服器動能強- 日報",
+          "url": "https://www.ctee.com.tw/news/20261125700231-439901",
+          "source": "工商時報"
+        },
+        {
+          "title": "Factset 最新調查：緯創(3231-TW)EPS預估上修至18.24元，預估目標價為289.5元｜新聞快訊｜豐雲學堂",
+          "url": "https://www.sinotrade.com.tw/richclub/news/6af65b5471992d5745c78ac8",
+          "source": "永豐金證券"
+        }
+      ],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "廣達股價",
+      "traffic_label": "200+",
+      "published": "Tue, 24 Nov 2026 17:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "0050",
+      "traffic_label": "20000+",
+      "published": "Tue, 24 Nov 2026 17:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
       "source": "google_trends_rss"
     }
   ],
