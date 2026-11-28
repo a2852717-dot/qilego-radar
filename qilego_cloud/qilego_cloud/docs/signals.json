@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T02:24:29.745423+00:00",
+  "updated_at": "2026-11-28T08:54:21.557034+00:00",
   "source": {
     "name": "Google Trends 台灣每日熱門搜尋 RSS",
     "url": "https://trends.google.com/trending/rss?geo=TW",
@@ -13,177 +13,113 @@
   },
   "records": [
     {
-      "term": "chiikawa",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:50:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "Why Conflicts Begin—and Why They Are So Hard to End: An International Relations Reading of “Chiikawa”",
-          "url": "https://www.nippon.com/en/articles/-/57891",
-          "source": "Nippon.com"
-        },
-        {
-          "title": "\"Chiikawa\" Turns Lighter-Suit Usagi Into a Real Mini Utility Lighter!",
-          "url": "https://www.toy-people.com/en/?p=117038",
-          "source": "玩具人 TOY PEOPLE"
-        },
-        {
-          "title": "Licensable video: Japan: Fans Find Bare Shelves as Chiikawa Christmas Market Sells Out on Opening Day",
-          "url": "https://www.reutersconnect.com/item/japan-fans-find-bare-shelves-as-chiikawa-christmas-market-sells-out-on-opening-day/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzEyMTAyODg",
-          "source": "Reuters Connect"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "2313",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:50:00 -0800",
+      "term": "台南市議員開票",
+      "traffic_label": "200+",
+      "published": "Sat, 28 Nov 2026 00:40:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
     },
     {
-      "term": "萬泰科",
+      "term": "屏東市長",
       "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:40:00 -0800",
+      "published": "Sat, 28 Nov 2026 00:40:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "竹北市長開票",
+      "traffic_label": "1000+",
+      "published": "Sat, 28 Nov 2026 00:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "基隆開票",
+      "traffic_label": "200+",
+      "published": "Sat, 28 Nov 2026 00:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "tvbs新聞",
+      "traffic_label": "200+",
+      "published": "Sat, 28 Nov 2026 00:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "看開票",
+      "traffic_label": "200+",
+      "published": "Sat, 28 Nov 2026 00:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "嘉義市長",
+      "traffic_label": "500+",
+      "published": "Sat, 28 Nov 2026 00:30:00 -0800",
+      "link": "https://trends.google.com/trending/rss?geo=TW",
+      "related_news": [],
+      "source": "google_trends_rss"
+    },
+    {
+      "term": "選舉委員會",
+      "traffic_label": "200+",
+      "published": "Sat, 28 Nov 2026 00:30:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "受惠太空經濟萬泰科續登峰- 日報",
-          "url": "https://www.ctee.com.tw/news/20261127700277-439901",
-          "source": "工商時報"
+          "title": "19歲只能投公投卻被塞4張票！首投族當場急拒絕 網傻眼：到底有沒有受訓",
+          "url": "https://tw.news.yahoo.com/19%E6%AD%B2%E5%8F%AA%E8%83%BD%E6%8A%95%E5%85%AC%E6%8A%95%E5%8D%BB%E8%A2%AB%E5%A1%9E4%E5%BC%B5%E7%A5%A8-%E9%A6%96%E6%8A%95%E6%97%8F%E7%95%B6%E5%A0%B4%E6%80%A5%E6%8B%92%E7%B5%95-%E7%B6%B2%E5%82%BB%E7%9C%BC-%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%92%E6%9C%89%E5%8F%97%E8%A8%93-074100693.html",
+          "source": "Yahoo新聞"
         },
         {
-          "title": "萬泰科2027衛星線材營收拚翻倍 高毛利產品佔比上看35%",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=776156",
-          "source": "DIGITIMES"
+          "title": "高雄市民抱怨選務人員不給公投票 市選委會：確認有投票意願才補發",
+          "url": "https://udn.com/news/story/125076/9907439",
+          "source": "udn"
         },
         {
-          "title": "萬泰科太空用線Q1出貨 衛星通訊營收明年拚翻倍",
-          "url": "https://stock.ltn.com.tw/article/wkj6n6yhdgwz",
+          "title": "新北板橋傳選務爭議 民控選務人員給票有問題",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656410",
           "source": "自由時報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "索羅斯經費",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:40:00 -0800",
+      "term": "何欣純",
+      "traffic_label": "2000+",
+      "published": "Sat, 28 Nov 2026 00:20:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [
         {
-          "title": "沈伯洋獲索羅斯補助陳佩琪：比照柯文哲標準早抓去關不用再選| 2026九合一選舉",
-          "url": "https://udn.com/vote2026/story/125078/9905034",
-          "source": "UDN"
-        },
-        {
-          "title": "早安快評》美國黑手 染指台北？（張鈞凱）",
-          "url": "https://tw.news.yahoo.com/%E6%97%A9%E5%AE%89%E5%BF%AB%E8%A9%95-%E7%BE%8E%E5%9C%8B%E9%BB%91%E6%89%8B-%E6%9F%93%E6%8C%87%E5%8F%B0%E5%8C%97-%E5%BC%B5%E9%88%9E%E5%87%B1-230530803.html",
+          "title": "台中／不斷更新！台中選情膠著…何欣純開票暫時領先、江啟臣緊追在後",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD-%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E5%8F%B0%E4%B8%AD%E9%81%B8%E6%83%85%E8%86%A0%E8%91%97-%E4%BD%95%E6%AC%A3%E7%B4%94%E9%96%8B%E7%A5%A8%E6%9A%AB%E6%99%82%E9%A0%98%E5%85%88-%E6%B1%9F%E5%95%9F%E8%87%A3%E7%B7%8A%E8%BF%BD%E5%9C%A8%E5%BE%8C-082500344.html",
           "source": "Yahoo新聞"
         },
         {
-          "title": "拿外國的錢就是境外介選？一次看懂索羅斯基金會和沈伯洋敗訴判決",
-          "url": "https://www.thenewslens.com/article/271347",
-          "source": "TNL The News Lens 關鍵評論網"
+          "title": "《日經亞洲》談選後情勢：盧秀燕卸任後將角逐總統大位，外交國安被視為最大考驗 | 李忠謙 | 新聞",
+          "url": "https://www.storm.mg/article/11185692",
+          "source": "Storm.mg"
+        },
+        {
+          "title": "盧秀燕：投票秩序良好 晚上開票可能會兩邊跑",
+          "url": "https://news.ltn.com.tw/news/Taichung/breakingnews/5656439",
+          "source": "自由時報"
         }
       ],
       "source": "google_trends_rss"
     },
     {
-      "term": "再婚 皇后",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "專訪《再婚皇后》申敏兒穿搭靠「1單品」造型美到發光！ 曾為結婚時的「他 」來台感情觀清醒品味也一絕",
-          "url": "https://www.elle.com/tw/fashion/celeb-style/g74475101/shinmina-styling-tips/",
-          "source": "ELLE"
-        },
-        {
-          "title": "《再婚皇后》 Disney+ 10 集正式完結！秀智、金宣虎《魅惑》接棒，2027 年 1 月 6 日開播！",
-          "url": "https://www.juksy.com/article/155839",
-          "source": "JUKSY 街星"
-        },
-        {
-          "title": "《再婚皇后》結局！申敏兒霸氣改嫁「不用跟前夫交代」 渣男朱智勛下跪崩潰了",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5654244",
-          "source": "自由娛樂"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "6285",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:30:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "杜拜",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "DIFC《金融未來》報告：杜拜整合五大競爭力支柱，加強企業、資本及人才對接，樹立全球標竿",
-          "url": "https://money.udn.com/money/story/123828/9904247",
-          "source": "經濟日報"
-        },
-        {
-          "title": "DIFC《金融未來》報告：杜拜整合五大競爭力支柱，加強企業、資本及人才對接，樹立全球標竿",
-          "url": "https://www.bigmedia.com.tw/article/1795690803446",
-          "source": "鉅聞天下"
-        },
-        {
-          "title": "無懼中東緊張！杜拜「封街路跑」 王室成員現身與民同樂、跑者盛讚治安好",
-          "url": "https://www.ftvnews.com.tw/news/detail/2026B23I16M1",
-          "source": "民視新聞網"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "健策",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [
-        {
-          "title": "三片式均熱片明年量產、四片式已進入驗證！「散熱大廠」前3季狂賺45.03元 新廠明年Q2投產",
-          "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E7%89%87%E5%BC%8F%E5%9D%87%E7%86%B1%E7%89%87%E6%98%8E%E5%B9%B4%E9%87%8F%E7%94%A2-%E5%9B%9B%E7%89%87%E5%BC%8F%E5%B7%B2%E9%80%B2%E5%85%A5%E9%A9%97%E8%AD%89-%E6%95%A3%E7%86%B1%E5%A4%A7%E5%BB%A0-%E5%89%8D3%E5%AD%A3%E7%8B%82%E8%B3%BA45-03%E5%85%83-233000373.html",
-          "source": "Yahoo股市"
-        },
-        {
-          "title": "健策3片式均熱片明年量產看好2027年營運| 證券",
-          "url": "https://www.cna.com.tw/news/afe/202611260229.aspx",
-          "source": "中央社 CNA"
-        },
-        {
-          "title": "AI散熱朝低熱阻發展 健策：熱介面材料遲早淘汰",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=776170",
-          "source": "DIGITIMES"
-        }
-      ],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "昇達科",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:20:00 -0800",
-      "link": "https://trends.google.com/trending/rss?geo=TW",
-      "related_news": [],
-      "source": "google_trends_rss"
-    },
-    {
-      "term": "聯合再生",
-      "traffic_label": "100+",
-      "published": "Thu, 26 Nov 2026 17:20:00 -0800",
+      "term": "目前開票",
+      "traffic_label": "2000+",
+      "published": "Sat, 28 Nov 2026 00:20:00 -0800",
       "link": "https://trends.google.com/trending/rss?geo=TW",
       "related_news": [],
       "source": "google_trends_rss"
